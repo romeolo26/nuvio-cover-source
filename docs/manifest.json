@@ -16,6 +16,12 @@
   "catalogs": [
     {
       "type": "movie",
+      "id": "nuvio-hot-australia-cover",
+      "name": "Nuvio Cover - Hot in Australia",
+      "pageSize": 100
+    },
+    {
+      "type": "movie",
       "id": "nuvio-new-across-streaming-cover-movies",
       "name": "Nuvio Cover - New Across Streaming Movies",
       "pageSize": 100

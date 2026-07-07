@@ -11,6 +11,15 @@ const AIO_BASE =
 
 const catalogs = [
   {
+    id: "nuvio-hot-australia-cover",
+    type: "movie",
+    name: "Nuvio Cover - Hot in Australia",
+    sources: [
+      { sourceType: "movie", sourceId: "trakt.trending.movies" },
+      { sourceType: "series", sourceId: "trakt.trending.shows" },
+    ],
+  },
+  {
     sourceType: "movie",
     sourceId: "mdblist.186558",
     id: "nuvio-new-across-streaming-cover-movies",
@@ -53,14 +62,34 @@ function compactMeta(meta) {
   };
 }
 
-async function fetchCatalog(catalog) {
-  const url = `${AIO_BASE}/catalog/${catalog.sourceType}/${catalog.sourceId}.json`;
+function dedupeMetas(metas) {
+  const seen = new Set();
+  const result = [];
+  for (const meta of metas) {
+    const key = meta.imdb_id || meta.id || `${meta.type}:${meta.name}:${meta.year}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    result.push(meta);
+  }
+  return result;
+}
+
+async function fetchSource(source) {
+  const url = `${AIO_BASE}/catalog/${source.sourceType}/${source.sourceId}.json`;
   const response = await fetch(url);
   if (!response.ok) {
     throw new Error(`Fetch failed ${response.status}: ${url}`);
   }
   const data = await response.json();
-  return (data.metas || []).slice(0, 100).map(compactMeta);
+  return data.metas || [];
+}
+
+async function fetchCatalog(catalog) {
+  const sources = catalog.sources || [
+    { sourceType: catalog.sourceType, sourceId: catalog.sourceId },
+  ];
+  const sourceMetas = await Promise.all(sources.map(fetchSource));
+  return dedupeMetas(sourceMetas.flat()).slice(0, 100).map(compactMeta);
 }
 
 async function main() {
