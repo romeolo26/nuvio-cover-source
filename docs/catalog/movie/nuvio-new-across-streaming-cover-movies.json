@@ -1,0 +1,1063 @@
+{
+  "metas": [
+    {
+      "id": "tt41376508",
+      "type": "movie",
+      "name": "Louis C.K.: Ridiculous",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt41376508.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/ohQTIteoHPNeLd3WRlVXbCBeaN6.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/nPoFKTxADOWuE5hn0iLXcM5XNxi.png",
+      "description": "From a bee getting shot in New York City to paying strangers to take his aging father, Louis C.K. unleashes the ridiculous thoughts in his mind.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "runtime": "1h1min",
+      "behaviorHints": {
+        "defaultVideoId": "tt41376508",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt31179962",
+      "type": "movie",
+      "name": "Jimmy",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31179962.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2q3oieEIadF90wOtm9WGX5vrqUR.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt31179962/img",
+      "description": "A look into the life of American actor James Stewart, whose inspiring tale of valor, purpose and faith will win over everyone.",
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "runtime": "",
+      "behaviorHints": {
+        "defaultVideoId": "tt31179962",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt39480279",
+      "type": "movie",
+      "name": "Rain Catcher",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39480279.jpg?rs=TR",
+      "background": null,
+      "logo": "https://images.metahub.space/logo/medium/tt39480279/img",
+      "description": "In rainy, nocturnal London, photographer Miles obsessively captures unforgiving, morbid portraits of oblivious strangers. When not selling them, he shares them online as 'Rain Catcher'. But soon he notices something unsettling: a mysterious woman watching him and photographing him—turning the lens back on Miles. As her gaze closes in, his world fractures—his work is sabotaged, his name defamed, his loved ones endangered. Consumed by paranoia, he spirals into a dark, delirious obsession to uncover the truth behind her motives. Based on the 2018 short film of the same name.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "runtime": "1h50min",
+      "behaviorHints": {
+        "defaultVideoId": "tt39480279",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt41367695",
+      "type": "movie",
+      "name": "Propeller One-Way Night Coach",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt41367695.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/ldUVeDfA5ID2vchHGejrEltoBSN.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zE3vfig9EiuVWCpgGvGIGRX2Htk.png",
+      "description": "During the golden age of aviation, a young airplane enthusiast and his mother embark on a cross-country journey to Hollywood—and their simple flight transforms into the trip of a lifetime.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Family"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "runtime": "1h",
+      "behaviorHints": {
+        "defaultVideoId": "tt41367695",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32490110",
+      "type": "movie",
+      "name": "Slanted",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32490110.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/35coF6nTlCHZoBdmH7AJX47RwY9.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/eVX6zSYl4WYAeCM2PACW9dqGvbh.png",
+      "description": "An insecure Chinese-American teenager undergoes experimental surgery to appear white, hoping to secure the prom queen title and peer acceptance.",
+      "genres": [
+        "Horror",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.7",
+      "runtime": "1h44min",
+      "behaviorHints": {
+        "defaultVideoId": "tt32490110",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32612507",
+      "type": "movie",
+      "name": "Lee Cronin's The Mummy",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32612507.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/s3tHm62ohyb0I5vSnPrpczCBtSX.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/6VPEYHvAmBmV01F5x6E4LHJEHTs.png",
+      "description": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "runtime": "2h13min",
+      "behaviorHints": {
+        "defaultVideoId": "tt32612507",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32278481",
+      "type": "movie",
+      "name": "Enola Holmes 3",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32278481.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/pVeJDWwmgXID7Bs8u0d21pr55Oj.png",
+      "description": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "genres": [
+        "Adventure",
+        "Crime",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.9",
+      "runtime": "1h49min",
+      "behaviorHints": {
+        "defaultVideoId": "tt32278481",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt27050858",
+      "type": "movie",
+      "name": "Drishyam 3",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27050858.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/9jIJrwbDTH92027rIrR2R0HM0Qe.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt27050858/img",
+      "description": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "runtime": "",
+      "behaviorHints": {
+        "defaultVideoId": "tt27050858",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt43140112",
+      "type": "movie",
+      "name": "Extreme Makeover: Homer Edition",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt43140112.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/4bW2662ZiJhJmK4IseCReVzgZ3C.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt43140112/img",
+      "description": "Homer and Marge's fun couples' date night goes off the rails when Marge learns Homer left the kids unsupervised with only the doorbell camera as a babysitter. Frustrated with her imperfect husband, a tipsy Marge stirs up a trilogy of fantasies of a different Homer.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.4",
+      "runtime": "48min",
+      "behaviorHints": {
+        "defaultVideoId": "tt43140112",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt23724682",
+      "type": "movie",
+      "name": "Outcome",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt23724682.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/8KhqSWXExySkvEyCVvcbf4xxpqx.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/3joHPfzLAFMoUtKWLEZq5e6DQpi.png",
+      "description": "Reef Hawk, Hollywood's poster child since age six, is not okay. When he learns about an extortion plot tied to a mysterious video, Reef preemptively sets out on a redemption tour to make amends, confront his demons, and avoid getting canceled.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "4.5",
+      "runtime": "1h24min",
+      "behaviorHints": {
+        "defaultVideoId": "tt23724682",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt27047903",
+      "type": "movie",
+      "name": "Scream 7",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27047903.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/3eUyLEF5M0ky3h6KJsWiWzaakB8.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2JRh8uPqNGlZC72vJawAGHToOnk.png",
+      "description": "When a new Ghostface killer emerges in the quiet town where Sidney Prescott has built a new life, her darkest fears are realized as her daughter becomes the next target. Determined to protect her family, Sidney must face the horrors of her past to put an end to the bloodshed once and for all.",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Crime"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "runtime": "1h54min",
+      "behaviorHints": {
+        "defaultVideoId": "tt27047903",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0816692",
+      "type": "movie",
+      "name": "Interstellar",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0816692.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zEewiIVx9rDfc1HahWPNk4uyJdP.png",
+      "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Science Fiction"
+      ],
+      "year": "2014",
+      "releaseInfo": "2014",
+      "imdbRating": "8.7",
+      "runtime": "2h49min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0816692",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt42898211",
+      "type": "movie",
+      "name": "Ryan Hamilton: This Just Hit Me",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt42898211.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/dlZyjbzShd6P5nRTvezdqW34CsL.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt42898211/img",
+      "description": "Leave it to Ryan Hamilton to get hit by a bus and have the last laugh — whether it's falling for his anesthesiologist or a dispensary trip with his mom.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "runtime": "53min",
+      "behaviorHints": {
+        "defaultVideoId": "tt42898211",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36554405",
+      "type": "movie",
+      "name": "Demonte Colony 3",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36554405.jpg?rs=TR",
+      "background": null,
+      "logo": "https://images.metahub.space/logo/medium/tt36554405/img",
+      "description": "",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "runtime": "",
+      "behaviorHints": {
+        "defaultVideoId": "tt36554405",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt37899019",
+      "type": "movie",
+      "name": "Never Change!",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt37899019.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/bfJ2MvS4wixkQ7tQX0a87q1XYlE.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/fhOpv9KqTFToS2JKxYBHmxOXfnz.png",
+      "description": "In 2008, the graduating class of North Meadows High School had their senior year cut short due to a disastrous tornado. Now in their mid-30s, they're being forced to return home and finish high school once and for all.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "4.5",
+      "runtime": "1h43min",
+      "behaviorHints": {
+        "defaultVideoId": "tt37899019",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt39089423",
+      "type": "movie",
+      "name": "The First Snow of Fraggle Rock",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39089423.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/h5hCdU9KvcCbBihSNfn3vtML7tV.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kDzzdCxgvgQeIKqsO9aGsobk0ya.png",
+      "description": "When the holidays are filled with unexpected adventures and challenges, the Fraggles learn to appreciate each day for being unique and special, like a snowflake.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Music"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "5.9",
+      "runtime": "34min",
+      "behaviorHints": {
+        "defaultVideoId": "tt39089423",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt35003538",
+      "type": "movie",
+      "name": "EPiC: Elvis Presley in Concert",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35003538.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/nNJe18Pv31q1M6gI6mtLU7CTWTr.png",
+      "description": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.1",
+      "runtime": "1h38min",
+      "behaviorHints": {
+        "defaultVideoId": "tt35003538",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt10872600",
+      "type": "movie",
+      "name": "Spider-Man: No Way Home",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt10872600.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/9xjIoK8eGVvMdiqwUQbEBUeh9Ej.png",
+      "description": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "year": "2021",
+      "releaseInfo": "2021",
+      "imdbRating": "8.1",
+      "runtime": "2h28min",
+      "behaviorHints": {
+        "defaultVideoId": "tt10872600",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt10375624",
+      "type": "movie",
+      "name": "Voicemails for Isabelle",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt10375624.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2WU6Y6aonzD6uAaCmNnEFlesxxJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/AgKNByf6tc8e4dB6Sd9puLS2rAd.png",
+      "description": "A young woman's hilariously confessional voicemails to her late sister are unknowingly redirected to a stranger, who begins to fall in love from afar.",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "runtime": "1h59min",
+      "behaviorHints": {
+        "defaultVideoId": "tt10375624",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36958376",
+      "type": "movie",
+      "name": "Your Fault: London",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36958376.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/qdSB8vvIb4VHqmWBgliOcJZ5rd1.png",
+      "description": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6",
+      "runtime": "2h3min",
+      "behaviorHints": {
+        "defaultVideoId": "tt36958376",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt38687274",
+      "type": "movie",
+      "name": "Lisa Ann Walter: It Was an Accident",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt38687274.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/sMsLqebfOk7hsEnyBER2qqfsAXR.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/uZHATWimdVF7Q6pftCLpxMtgDfX.png",
+      "description": "Lisa Ann Walter's long-awaited debut comedy special takes on feral Gen-Xers, self-loathing, and navigating a backsliding America, via the no-filter lens of a grown-ass woman who has been paying attention.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "runtime": "56min",
+      "behaviorHints": {
+        "defaultVideoId": "tt38687274",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34966013",
+      "type": "movie",
+      "name": "Come See Me in the Good Light",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34966013.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/x0FZZWBE7Sp5Vz5ncn4wb8JyG5c.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/53FEKsPLcnUontdXDC4xNzJRvsJ.png",
+      "description": "In an intimate and joyful story of love in the face of loss, celebrated poets Andrea Gibson and Megan Falley find strength—and unexpected hilarity—in what might be their final year together.",
+      "genres": [
+        "Documentary"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "runtime": "1h44min",
+      "behaviorHints": {
+        "defaultVideoId": "tt34966013",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt29214162",
+      "type": "movie",
+      "name": "The Dutchman",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt29214162.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/bUktSJyiZIs4qPpMopjz2NMY0s9.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/9EH0Bxc36eOBjNKMoydSJJdCSNR.png",
+      "description": "A successful black businessman, haunted by his crumbling marriage and identity crisis, is drawn into a psychological game of cat and mouse with a mysterious white woman he encounters on a New York subway.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.3",
+      "runtime": "1h35min",
+      "behaviorHints": {
+        "defaultVideoId": "tt29214162",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0468569",
+      "type": "movie",
+      "name": "The Dark Knight",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0468569.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/nO5Uix3Qr4WjOyU1BMPv0okyNWm.png",
+      "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "year": "2008",
+      "releaseInfo": "2008",
+      "imdbRating": "9.1",
+      "runtime": "2h32min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0468569",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34888871",
+      "type": "movie",
+      "name": "Little Brother",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34888871.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/as6Via6yUqgsF98HVBDI807uiHL.png",
+      "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "runtime": "1h41min",
+      "behaviorHints": {
+        "defaultVideoId": "tt34888871",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36956284",
+      "type": "movie",
+      "name": "Still Sexy",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36956284.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/jUpuMPCQiNSYi4QxeCIGFUlPizn.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/hHEpA6y4d6TnxR5UC3ujDW9VrvP.png",
+      "description": "Maddalena has it all: a job she loves, the perfect fiancé, and a dream wedding ahead. Yet in the bedroom, something feels wrong. Urged on by her inner voice, embodied by pornstar Valentina Nappi, she begins to question her life. Meeting Bruno, a gardener with a troubled past, leads her to rediscover herself and realize the only path worth following is her own.",
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "4.3",
+      "runtime": "1h40min",
+      "behaviorHints": {
+        "defaultVideoId": "tt36956284",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt42491550",
+      "type": "movie",
+      "name": "The Mystery of Richard Simmons: A Diane Sawyer Special",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt42491550.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/hbVTKGrEmPUSoKgpQFkfLHWPAQa.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zAol53xzEnVk86DhAIHqL3Mtplf.png",
+      "description": "The beloved fitness personality's remarkable rise to fame; examining the cultural impact that made him a household name.",
+      "genres": [
+        "Documentary"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "runtime": "42min",
+      "behaviorHints": {
+        "defaultVideoId": "tt42491550",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34276058",
+      "type": "movie",
+      "name": "The Family Plan 2",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34276058.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/1q6ammsacEogl12l2ApOiGgjTGJ.png",
+      "description": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "5.6",
+      "runtime": "1h46min",
+      "behaviorHints": {
+        "defaultVideoId": "tt34276058",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33028778",
+      "type": "movie",
+      "name": "Primate",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33028778.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/d5C5Wsx4fnMRA0tj9BK1kTPcgQe.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/ejpFMkKMjnMyx9HX4nII9gjbUyi.png",
+      "description": "College student Lucy and her friends spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.8",
+      "runtime": "1h29min",
+      "behaviorHints": {
+        "defaultVideoId": "tt33028778",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0120737",
+      "type": "movie",
+      "name": "The Lord of the Rings: The Fellowship of the Ring",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0120737.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/mWDdRXTivGE7aaY2vo1Ie0PfCX5.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/dMAXhf7jVsc8Qsx26wsoOmoQh3r.png",
+      "description": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "year": "2001",
+      "releaseInfo": "2001",
+      "imdbRating": "8.9",
+      "runtime": "2h59min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0120737",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36876775",
+      "type": "movie",
+      "name": "Husbands in Action",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36876775.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/kEiQORCwEXSeoG4SK0e4sezHboJ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/tVnZ8VMyXnROtNtYS1kZLKxmxeP.png",
+      "description": "A detective teams up with his ex-wife's new husband to chase down her kidnappers. Can this unlikely duo put aside their differences for one wild rescue?",
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "runtime": "1h50min",
+      "behaviorHints": {
+        "defaultVideoId": "tt36876775",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36963493",
+      "type": "movie",
+      "name": "A Family of Bastards",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36963493.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/7ImZeJiXNcZYKruKEqMzyW3CwVL.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/vH1tcKG4Wu5UxTNR4vIOXMfHFTc.png",
+      "description": "After the death of his father, Mohamed discovers the living of a step-brother and a step-sister. Together, they must manage the suspicious bar they inherited of linked to criminality, drug traffic and prostitution.",
+      "genres": [
+        "Comedy",
+        "Crime"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.6",
+      "runtime": "1h45min",
+      "behaviorHints": {
+        "defaultVideoId": "tt36963493",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36042156",
+      "type": "movie",
+      "name": "The Punisher: One Last Kill",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36042156.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/lReCKrf9vGHcmhiqpsMgDgNzWPr.png",
+      "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
+      "genres": [
+        "Action",
+        "Drama",
+        "Crime"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "runtime": "51min",
+      "behaviorHints": {
+        "defaultVideoId": "tt36042156",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt24950660",
+      "type": "movie",
+      "name": "Eternity",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt24950660.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/v6x0H4KhOW9j4H3lGk6q1JO0Udl.png",
+      "description": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "6.9",
+      "runtime": "1h54min",
+      "behaviorHints": {
+        "defaultVideoId": "tt24950660",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt23572848",
+      "type": "movie",
+      "name": "The SpongeBob Movie: Search for SquarePants",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt23572848.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/pMxO1beNNFYMDM7RcDyKW5Wheuz.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/vUdsS3AZOWtqOg70paUBnWPlhRr.png",
+      "description": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "5.7",
+      "runtime": "1h28min",
+      "behaviorHints": {
+        "defaultVideoId": "tt23572848",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0167260",
+      "type": "movie",
+      "name": "The Lord of the Rings: The Return of the King",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0167260.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/mZtF6SOsVddoK3I3VLi2oTZ5BR2.png",
+      "description": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "year": "2003",
+      "releaseInfo": "2003",
+      "imdbRating": "9",
+      "runtime": "3h21min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0167260",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt1333644",
+      "type": "movie",
+      "name": "In the Hand of Dante",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1333644.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/tJJ737CJujLXw1GlUYd7K4AH3eB.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/crPiizegomKVroDRDDdnBiMuq5O.png",
+      "description": "A Vatican priest discovers Dante's original Divine Comedy manuscript. When asked to authenticate it, writer Nick Tosches steals it, while a parallel story follows Dante's quest to create his masterpiece.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "4.9",
+      "runtime": "2h33min",
+      "behaviorHints": {
+        "defaultVideoId": "tt1333644",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt38897659",
+      "type": "movie",
+      "name": "Summer House",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt38897659.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/5fA3ko0ZHkysz1aNO78jRsey4k4.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/mElpcpZjfBdxBqTwI1jqUB0FaJP.png",
+      "description": "Selin travels back in time at a summer house and finds herself in her mother's youth, changing her family's fate and rebuilding her own life.",
+      "genres": [
+        "Romance",
+        "Family",
+        "Drama",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.4",
+      "runtime": "",
+      "behaviorHints": {
+        "defaultVideoId": "tt38897659",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt42373968",
+      "type": "movie",
+      "name": "Gary",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt42373968.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/dzoqvi7eiPGODZO0CsXRLPfmVAE.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/1gbYEyWWZ7fyT7x68iSugsl3CqL.png",
+      "description": "Two friends go on a work trip and encounter unexpected challenges and local personalities as they navigate their assignment. Their efforts to adapt to unfamiliar surroundings highlights moments of humor, small-town culture and the unpredictable nature of work travel. As they troubleshoot problems, their experience leaves a lasting impression and offers new perspectives on their friendship.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "runtime": "1h",
+      "behaviorHints": {
+        "defaultVideoId": "tt42373968",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt37674658",
+      "type": "movie",
+      "name": "Stiller & Meara: Nothing Is Lost",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt37674658.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/dvdZItPwnRukloJYOK9HQBPNYq9.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/wK6DROGTC5smlvk6nYjpGY2yYEV.png",
+      "description": "Ben Stiller tells the story of his parents—comedy icons Jerry Stiller and Anne Meara—exploring their impact on popular culture and at home, where the lines between creativity, family, life, and art often blurred.",
+      "genres": [
+        "Documentary"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "7.1",
+      "runtime": "1h38min",
+      "behaviorHints": {
+        "defaultVideoId": "tt37674658",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt5950044",
+      "type": "movie",
+      "name": "Superman",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt5950044.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/eGX66zonvc4bXg3rM08RUxdYSDx.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/7gQc9y2EORn9pZhGtAEdlEbpcpz.png",
+      "description": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "7",
+      "runtime": "2h10min",
+      "behaviorHints": {
+        "defaultVideoId": "tt5950044",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt42863533",
+      "type": "movie",
+      "name": "Maternal Instinct",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt42863533.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/oGD1dZvojZssnd9Ua6RUalEEHQu.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/9OVgTkzpUqGdWWULbTZxS6xk3sh.png",
+      "description": "Police pull over a woman who claims she just gave birth. But the baby — and the blood — aren't hers. Twisted lies unravel in this true-crime documentary.",
+      "genres": [
+        "Documentary",
+        "Crime"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.2",
+      "runtime": "1h37min",
+      "behaviorHints": {
+        "defaultVideoId": "tt42863533",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt43351237",
+      "type": "movie",
+      "name": "NASCAR vs. Navy: The San Diego Mini Movie",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt43351237.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/h3yaOeK5rKA0L43UqaTtWu3zGrr.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt43351237/img",
+      "description": "A group of NASCAR drivers are called to base. Not to prove themselves, but to help the U.S. Navy prepare for the inaugural Race the Base. But when the drivers arrive, they’re met by a squadron of elite hot-shot pilots who aren’t exactly thrilled about their runway being transformed into a race track. To earn the pilots’ respect and ensure the event can move forward, the drivers and sailors go head-to-head in a series of intense yet entertaining challenges. What follows is a cinematic, high-energy, and unexpectedly authentic journey as the drivers immerse themselves in Navy life.",
+      "genres": [
+        "Action"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "runtime": "28min",
+      "behaviorHints": {
+        "defaultVideoId": "tt43351237",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt38575417",
+      "type": "movie",
+      "name": "Nikki Glaser: Good Girl",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt38575417.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/25iLBMo40R9J6hi5UcXNjXgagjY.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/gtaRB2LlHaT2v291NkNa4C2DCgR.png",
+      "description": "Considered one of the most fearless voices in modern comedy, Nikki Glaser delivers a brutally honest special that takes on aging, beauty, and fame - confronting what it means to stay relevant, desirable, and real in a culture that never looks away.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "runtime": "57min",
+      "behaviorHints": {
+        "defaultVideoId": "tt38575417",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt30852384",
+      "type": "movie",
+      "name": "All of You",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt30852384.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/yGsEsHlc81Q1i9Z3yoVv394PrlG.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/uPBoKsL3tvd4ntuiuxdwMUp7ZoB.png",
+      "description": "Laura and Simon have been best friends since college. Over the years, they've realized their bond is more than platonic. Can they—and should they—risk everything to explore a love that has existed all along?",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "6.3",
+      "runtime": "1h38min",
+      "behaviorHints": {
+        "defaultVideoId": "tt30852384",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt3331548",
+      "type": "movie",
+      "name": "Not Without Hope",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt3331548.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/rJ7PB78ZcBaCPxQRLrZxh4M2Z0N.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/qkJfxIwtWUiPOFRbKJ5pq4f9zsU.png",
+      "description": "A group of friends' fishing boat capsizes off the coast of Mexico and they're left alone stranded at sea and struggling for survival.",
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "5.4",
+      "runtime": "1h59min",
+      "behaviorHints": {
+        "defaultVideoId": "tt3331548",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0241527",
+      "type": "movie",
+      "name": "Harry Potter and the Philosopher's Stone",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0241527.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/n7Pj4doQ1yfElCiGTGFTvzoQkpf.png",
+      "description": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard—with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths—and about the villain who's to blame.",
+      "genres": [
+        "Adventure",
+        "Fantasy"
+      ],
+      "year": "2001",
+      "releaseInfo": "2001",
+      "imdbRating": "7.7",
+      "runtime": "2h32min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0241527",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt42037166",
+      "type": "movie",
+      "name": "Chris & Martina: The Final Set",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt42037166.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/jSzUzhPC7k7OYrOm6L8txrKZpKp.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt42037166/img",
+      "description": "Tennis legends Chris Evert and Martina Navratilova reflect on their parallel journeys to sports stardom while delving into their rivalry and friendship, especially as the duo continue to support each other through their shared experience of cancer treatment.",
+      "genres": [
+        "Documentary"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "runtime": "1h33min",
+      "behaviorHints": {
+        "defaultVideoId": "tt42037166",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt25402450",
+      "type": "movie",
+      "name": "Mareechika",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt25402450.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/6OK3XhunlgLkHmrqZfxqxpIoTft.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/mksf4H4U2uqwT4dgCRmYgq5pKiH.png",
+      "description": "Follows Venkata Laxmi, a village girl who claims Sanju has been murdered, and introduces Mareechika, a US-returned woman, into his life, leading to shifting relationships and a murder investigation.",
+      "genres": [
+        "Romance",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.1",
+      "runtime": "2h18min",
+      "behaviorHints": {
+        "defaultVideoId": "tt25402450",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt40233113",
+      "type": "movie",
+      "name": "Orangutan",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt40233113.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/ZD3yggq4r36Z7mw3Dg3OcCOeYp.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kvordxKCO6zb5WZYa5bD8V3KaD0.png",
+      "description": "Narrated by Josh Gad, journey high into the rainforest canopy of Southeast Asia where a magnificent and mysterious community filled with playful personalities lives. Witness the exhilarating action, heartwarming encounters, and a closeup look at a stunning jungle teeming with wildlife as the inquisitive adolescent orangutan Indah prepares to leave her family and venture out on her own for the first time.",
+      "genres": [
+        "Documentary",
+        "Family"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.6",
+      "runtime": "1h22min",
+      "behaviorHints": {
+        "defaultVideoId": "tt40233113",
+        "hasScheduledVideos": false
+      }
+    }
+  ]
+}

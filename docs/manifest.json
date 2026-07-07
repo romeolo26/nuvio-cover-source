@@ -1,0 +1,30 @@
+{
+  "id": "community.nuvio.cover.source",
+  "version": "0.0.1",
+  "name": "Nuvio Cover Source Test",
+  "description": "Tiny catalog add-on for testing Better Posters dynamic folder covers.",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "nuvio-new-across-streaming-cover-movies",
+      "name": "Nuvio Cover - New Across Streaming Movies",
+      "pageSize": 100
+    },
+    {
+      "type": "series",
+      "id": "nuvio-new-across-streaming-cover-shows",
+      "name": "Nuvio Cover - New Across Streaming Shows",
+      "pageSize": 100
+    }
+  ]
+}
