@@ -22,14 +22,56 @@
     },
     {
       "type": "movie",
-      "id": "nuvio-new-across-streaming-cover-movies",
-      "name": "Nuvio Cover - New Across Streaming Movies",
+      "id": "nuvio-tonight-cover",
+      "name": "Nuvio Cover - Tonight",
       "pageSize": 100
     },
     {
-      "type": "series",
-      "id": "nuvio-new-across-streaming-cover-shows",
-      "name": "Nuvio Cover - New Across Streaming Shows",
+      "type": "movie",
+      "id": "nuvio-because-you-watched-cover",
+      "name": "Nuvio Cover - Because You Watched",
+      "pageSize": 100
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-gems-for-you-cover",
+      "name": "Nuvio Cover - Gems For You",
+      "pageSize": 100
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-new-across-streaming-cover",
+      "name": "Nuvio Cover - New Across Streaming",
+      "pageSize": 100
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-new-for-you-cover",
+      "name": "Nuvio Cover - New For You",
+      "pageSize": 100
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-in-cinemas-cover",
+      "name": "Nuvio Cover - In Cinemas",
+      "pageSize": 100
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-trending-today-cover",
+      "name": "Nuvio Cover - Trending Today",
+      "pageSize": 100
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-popular-cover",
+      "name": "Nuvio Cover - Popular",
+      "pageSize": 100
+    },
+    {
+      "type": "movie",
+      "id": "nuvio-top-rated-cover",
+      "name": "Nuvio Cover - Top Rated",
       "pageSize": 100
     }
   ]

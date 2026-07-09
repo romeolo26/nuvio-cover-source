@@ -1,0 +1,934 @@
+{
+  "metas": [
+    {
+      "id": "tt29552248",
+      "type": "movie",
+      "name": "Swapped",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt29552248.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/7fS6L7LRbiLZolZN8OShyJaI2mc.png",
+      "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "runtime": "1h42min",
+      "behaviorHints": {
+        "defaultVideoId": "tt29552248",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34809853",
+      "type": "series",
+      "name": "Teach You a Lesson",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34809853.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/v4/series/464356/backgrounds/6a0da9103bc68.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt34809853/img",
+      "description": "When respect collapses in schools, a special unit arrives to set things right — with sharp, no-nonsense lessons you won't find in textbooks.",
+      "genres": [
+        "Mini-Series",
+        "Drama",
+        "Crime",
+        "Comedy",
+        "Adventure",
+        "Action"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "runtime": "1h4min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0111161",
+      "type": "movie",
+      "name": "The Shawshank Redemption",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0111161.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/zfbjgQE1uSd9wiPTX4VzsLi0rGG.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/1K53E8WXQW76Scg8upBObXSrbgN.png",
+      "description": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "year": "1994",
+      "releaseInfo": "1994",
+      "imdbRating": "9.3",
+      "runtime": "2h22min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0111161",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33546863",
+      "type": "series",
+      "name": "Off Campus",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33546863.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/v4/series/455086/backgrounds/69ee1961753ea.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/455086/clearlogo/69e3d7da57e09.png",
+      "description": "The series depicts the elite ice hockey team, and the women in their lives, as they grapple with love, heartbreak, and self-discovery — forging deep friendships and enduring bonds while navigating the complexities that come with transitioning into adulthood.",
+      "genres": [
+        "Drama",
+        "Sport",
+        "Romance"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026-",
+      "imdbRating": "7.9",
+      "runtime": "52min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt11378946",
+      "type": "movie",
+      "name": "Michael",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt11378946.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/wJHlHY0t6iBq6JRyCZNCH7cKzl1.png",
+      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "runtime": "2h8min",
+      "behaviorHints": {
+        "defaultVideoId": "tt11378946",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0903747",
+      "type": "series",
+      "name": "Breaking Bad",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0903747.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/fanart/original/81189-21.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/81189/clearlogo/611b4df33bac5.png",
+      "description": "When Walter White, a chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of two years left to live, he chooses to enter a dangerous world of drugs and crime with the intent to secure his family's financial security.",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller",
+        "Western"
+      ],
+      "year": "2008",
+      "releaseInfo": "2008-2013",
+      "imdbRating": "9.5",
+      "runtime": "48min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0068646",
+      "type": "movie",
+      "name": "The Godfather",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0068646.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/tSPT36ZKlP2WVHJLM4cQPLSzv3b.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kysDTCloxUPJ1BILI4f8gs74fcr.png",
+      "description": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "year": "1972",
+      "releaseInfo": "1972",
+      "imdbRating": "9.2",
+      "runtime": "2h55min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0068646",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:209867",
+      "type": "series",
+      "name": "Frieren: Beyond Journey’s End",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt22248376.jpg?rs=TR",
+      "background": "https://images.metahub.space/background/medium/tt22248376/img",
+      "logo": "https://images.metahub.space/logo/medium/tt22248376/img",
+      "description": "After the party of heroes defeated the Demon King, they restored peace to the land and returned to lives of solitude. Generations pass, and the elven mage Frieren comes face to face with humanity’s mortality. She takes on a new apprentice and promises to fulfill old friends’ dying wishes. Can an elven mind make peace with the nature of life and death? Frieren embarks on her quest to find out.\n\n(Source: Crunchyroll)",
+      "genres": [
+        "Fantasy",
+        "Elf",
+        "Adventure",
+        "Drama",
+        "Magic",
+        "Shounen",
+        "Slice of Life"
+      ],
+      "year": "2023",
+      "releaseInfo": "2023-2024",
+      "imdbRating": "8.9",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt12042730.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "runtime": "2h37min",
+      "behaviorHints": {
+        "defaultVideoId": "tt12042730",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0417299",
+      "type": "series",
+      "name": "Avatar: The Last Airbender",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0417299.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/fanart/original/74852-11.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/74852/clearlogo/611b6956ded2d.png",
+      "description": "With the Fire Nation on the brink of global domination, a young boy reawakens after a hundred-year absence. To save his war-torn world he must accept his destiny as the Avatar before it's too late.",
+      "genres": [
+        "Fantasy",
+        "Comedy",
+        "Animation",
+        "Adventure",
+        "Action",
+        "Martial Arts"
+      ],
+      "year": "2005",
+      "releaseInfo": "2005-2008",
+      "imdbRating": "9.3",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0071562",
+      "type": "movie",
+      "name": "The Godfather Part II",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0071562.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/kGzFbGhp99zva6oZODW5atUtnqi.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/THvV3ctLuJ5vZjvDZgBFqNrUnb.png",
+      "description": "In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "year": "1974",
+      "releaseInfo": "1974",
+      "imdbRating": "9",
+      "runtime": "3h22min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0071562",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt9471404",
+      "type": "series",
+      "name": "The Chosen",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt9471404.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/series/356992/backgrounds/62030538.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/356992/clearlogo/63bc185f57714.png",
+      "description": "A groundbreaking historical drama based on the life of Jesus and those who knew him. Set against the backdrop of Roman oppression in first-century Israel, the series shares an authentic and intimate look at Jesus' revolutionary life and teachings.",
+      "genres": [
+        "Family",
+        "Drama",
+        "History"
+      ],
+      "year": "2019",
+      "releaseInfo": "2019-",
+      "imdbRating": "N/A",
+      "runtime": "58min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0108052",
+      "type": "movie",
+      "name": "Schindler's List",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0108052.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/zb6fM1CX41D9rF9hdgclu0peUmy.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/krEC3MIxUbiZy2uM0TemRio2Z2E.png",
+      "description": "The true story of how businessman Oskar Schindler saved over a thousand Jewish lives from the Nazis while they worked as slaves in his factory during World War II.",
+      "genres": [
+        "Drama",
+        "History",
+        "War"
+      ],
+      "year": "1993",
+      "releaseInfo": "1993",
+      "imdbRating": "9",
+      "runtime": "3h15min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0108052",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt26471411",
+      "type": "series",
+      "name": "When Life Gives You Tangerines",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt26471411.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/v4/series/428338/backgrounds/67f093f32dcd3.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/428338/clearlogo/67cb22c0ab933.png",
+      "description": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+      "genres": [
+        "Mini-Series",
+        "Family",
+        "Drama",
+        "Romance"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "9",
+      "runtime": "1h2min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0050083",
+      "type": "movie",
+      "name": "12 Angry Men",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0050083.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/qqHQsStV6exghCM7zbObuYBiYxw.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/uvXtPqfDAFEyxKCh06y0uiofK4T.png",
+      "description": "The defense and the prosecution have rested and the jury is filing into the jury room to decide if a young Spanish-American is guilty or innocent of murdering his father. What begins as an open and shut case soon becomes a mini-drama of each of the jurors' prejudices and preconceptions about the trial, the accused, and each other.",
+      "genres": [
+        "Drama"
+      ],
+      "year": "1957",
+      "releaseInfo": "1957",
+      "imdbRating": "9",
+      "runtime": "1h37min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0050083",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt11126994",
+      "type": "series",
+      "name": "Arcane",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt11126994.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/fanart/original/5da773c1b3db3.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/371028/clearlogo/614f9c5ddd8cd.png",
+      "description": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+      "genres": [
+        "Science Fiction",
+        "Fantasy",
+        "Drama",
+        "Animation",
+        "Adventure",
+        "Action"
+      ],
+      "year": "2021",
+      "releaseInfo": "2021-2024",
+      "imdbRating": "9",
+      "runtime": "41min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt33100314",
+      "type": "movie",
+      "name": "Remarkably Bright Creatures",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33100314.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/9yhvM7mpxH8smgRAdLJwy4JE5R2.png",
+      "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "genres": [
+        "Drama",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "runtime": "1h54min",
+      "behaviorHints": {
+        "defaultVideoId": "tt33100314",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt35495073",
+      "type": "series",
+      "name": "Heated Rivalry",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35495073.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/v4/series/464461/backgrounds/68d49f4ebc33a.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/464461/clearlogo/6953c2122a7c5.png",
+      "description": "Shane Hollander and Ilya Rozanov are two of the biggest stars in Major League Hockey, bound by ambition, rivalry, and a magnetic pull neither of them fully understands. What begins as a secret fling between two fresh faced rookies evolves into a years-long journey of love, denial, and self-discovery. Over the next eight years, as they chase glory on the ice, they struggle to navigate their feelings for each other. Torn between the sport they live for and the love they can’t ignore, Shane and Ilya must decide if there’s room in their fiercely competitive world for something as fragile – and powerful – as real love.",
+      "genres": [
+        "Drama",
+        "Sport",
+        "Romance"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025-",
+      "imdbRating": "8.7",
+      "runtime": "47min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:129",
+      "type": "movie",
+      "name": "Spirited Away",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0245429.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/hkUi1Z15Ymj9GNamWQkzUhehLuy.png",
+      "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "genres": [
+        "Adventure",
+        "Anime",
+        "Family",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "year": "2001",
+      "releaseInfo": "2001",
+      "imdbRating": "8.6",
+      "runtime": "2h4min",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:176",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:37854",
+      "type": "series",
+      "name": "One Piece",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0388629.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/v4/series/81797/backgrounds/616009a8bd688.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/81797/clearlogo/611b6189d88b6.png",
+      "description": "The adventures of Monkey D. Luffy and his pirate crew in order to find the greatest treasure ever left by the legendary Pirate, Gold Roger. The famous mystery treasure named \"One Piece\".\r\n",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Comedy",
+        "Animation",
+        "Adventure",
+        "Action",
+        "Anime"
+      ],
+      "year": "1999",
+      "releaseInfo": "1999-",
+      "imdbRating": "9",
+      "runtime": "25min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0468569",
+      "type": "movie",
+      "name": "The Dark Knight",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0468569.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/dqK9Hag1054tghRQSqLSfrkvQnA.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/nO5Uix3Qr4WjOyU1BMPv0okyNWm.png",
+      "description": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "year": "2008",
+      "releaseInfo": "2008",
+      "imdbRating": "9.1",
+      "runtime": "2h32min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0468569",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt31938062",
+      "type": "series",
+      "name": "The Pitt",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31938062.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/v4/series/448176/backgrounds/675c4f787cfc4.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/448176/clearlogo/675d049994d06.png",
+      "description": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+      "genres": [
+        "Drama"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025-",
+      "imdbRating": "8.9",
+      "runtime": "48min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0112870",
+      "type": "movie",
+      "name": "Dilwale Dulhania Le Jayenge",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0112870.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/84beTJf26mfhoasUlKSOiNSutyS.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/2y2BbO3udAS9Zfzya3ifqUn7JUh.png",
+      "description": "Raj is a rich, carefree, happy-go-lucky second generation NRI. Simran is the daughter of Chaudhary Baldev Singh, who in spite of being an NRI is very strict about adherence to Indian values. Simran has left for India to be married to her childhood fiancé. Raj leaves for India with a mission at his hands, to claim his lady love under the noses of her whole family. Thus begins a saga.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "year": "1995",
+      "releaseInfo": "1995",
+      "imdbRating": "8",
+      "runtime": "3h10min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0112870",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt7366338",
+      "type": "series",
+      "name": "Chernobyl",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt7366338.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/series/360893/backgrounds/62017319.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/360893/clearlogo/611be4d52d6a8.png",
+      "description": "Chernobyl dramatizes the story of the 1986 nuclear accident — one of the worst man-made catastrophes in history — and the sacrifices made to save Europe from unimaginable disaster.",
+      "genres": [
+        "Mini-Series",
+        "Drama",
+        "Thriller",
+        "History"
+      ],
+      "year": "2019",
+      "releaseInfo": "2019",
+      "imdbRating": "9.3",
+      "runtime": "1h5min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0120689",
+      "type": "movie",
+      "name": "The Green Mile",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0120689.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/b6HWTOxn1xevvyHU2K9ICvaRU6g.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zvl6GTeDHTpA3VQfaJH3Pw5MUjC.png",
+      "description": "A supernatural tale set on death row in a Southern prison, where gentle giant John Coffey possesses the mysterious power to heal people's ailments. When the cell block's head guard, Paul Edgecomb, recognizes Coffey's miraculous gift, he tries desperately to help stave off the condemned man's execution.",
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Crime"
+      ],
+      "year": "1999",
+      "releaseInfo": "1999",
+      "imdbRating": "8.6",
+      "runtime": "3h9min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0120689",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:31911",
+      "type": "series",
+      "name": "Fullmetal Alchemist: Brotherhood",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1355642.jpg?rs=TR",
+      "background": "https://media.kitsu.app/anime/cover_images/3936/original.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt1355642/img",
+      "description": "\"In order for something to be obtained, something of equal value must be lost.\"\n\nAlchemy is bound by this Law of Equivalent Exchange—something the young brothers Edward and Alphonse Elric only realize after attempting human transmutation: the one forbidden act of alchemy. They pay a terrible price for their transgression—Edward loses his left leg, Alphonse his physical body. It is only by the desperate sacrifice of Edward's right arm that he is able to affix Alphonse's soul to a suit of armor. Devastated and alone, it is the hope that they would both eventually return to their original bodies that gives Edward the inspiration to obtain metal limbs called \"automail\" and become a state alchemist, the Fullmetal Alchemist.\n\nThree years of searching later, the brothers seek the Philosopher's Stone, a mythical relic that allows an alchemist to overcome the Law of Equivalent Exchange. Even with military allies Colonel Roy Mustang, Lieutenant Riza Hawkeye, and Lieutenant Colonel Maes Hughes on their side, the brothers find themselves caught up in a nationwide conspiracy that leads them not only to the true nature of the elusive Philosopher's Stone, but their country's murky history as well. In between finding a serial killer and racing against time, Edward and Alphonse must ask themselves if what they are doing will make them human again... or take away their humanity.\n\n(Source: MAL Rewrite)",
+      "genres": [
+        "Steampunk",
+        "Contemporary Fantasy",
+        "Fantasy",
+        "Fantasy World",
+        "Adventure",
+        "Action",
+        "Human Enhancement",
+        "Magic",
+        "Plot Continuity",
+        "Violence",
+        "Military",
+        "Shounen"
+      ],
+      "year": "2009",
+      "releaseInfo": "2009-2010",
+      "imdbRating": "9.1",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0167260",
+      "type": "movie",
+      "name": "The Lord of the Rings: The Return of the King",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0167260.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2u7zbn8EudG6kLlBzUYqP8RyFU4.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/mZtF6SOsVddoK3I3VLi2oTZ5BR2.png",
+      "description": "As armies mass for a final battle that will decide the fate of the world--and powerful, ancient forces of Light and Dark compete to determine the outcome--one member of the Fellowship of the Ring is revealed as the noble heir to the throne of the Kings of Men. Yet, the sole hope for triumph over evil lies with a brave hobbit, Frodo, who, accompanied by his loyal friend Sam and the hideous, wretched Gollum, ventures deep into the very dark heart of Mordor on his seemingly impossible quest to destroy the Ring of Power.​",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Action"
+      ],
+      "year": "2003",
+      "releaseInfo": "2003",
+      "imdbRating": "9",
+      "runtime": "3h21min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0167260",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt3032476",
+      "type": "series",
+      "name": "Better Call Saul",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt3032476.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/fanart/original/273181-7.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/273181/clearlogo/611b68a80f5b0.png",
+      "description": "See the rise of Jimmy McGill, a small-time lawyer searching for his destiny, but hustling to make ends meet. Working alongside, and often against Jimmy, is ‘fixer’ Mike Ehrmantraut. The series tracks Jimmy's evolution into Saul Goodman, the man who puts the word ‘criminal’ in ‘criminal lawyer’.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "year": "2015",
+      "releaseInfo": "2015-2022",
+      "imdbRating": "9",
+      "runtime": "50min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt6751668",
+      "type": "movie",
+      "name": "Parasite",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt6751668.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/wCuUKiRaz0wEESsYqmQy005xvTE.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/eEGZWCv0OYbMLCaNsDl1cgrvnWR.png",
+      "description": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+      "genres": [
+        "Comedy",
+        "Thriller",
+        "Drama"
+      ],
+      "year": "2019",
+      "releaseInfo": "2019",
+      "imdbRating": "8.5",
+      "runtime": "2h13min",
+      "behaviorHints": {
+        "defaultVideoId": "tt6751668",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:1429",
+      "type": "series",
+      "name": "Attack on Titan",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2560140.jpg?rs=TR",
+      "background": "https://media.kitsu.app/anime/cover_images/7442/original.png",
+      "logo": "https://images.metahub.space/logo/medium/tt2560140/img",
+      "description": "Centuries ago, mankind was slaughtered to near extinction by monstrous humanoid creatures called titans, forcing humans to hide in fear behind enormous concentric walls. What makes these giants truly terrifying is that their taste for human flesh is not born out of hunger but what appears to be out of pleasure. To ensure their survival, the remnants of humanity began living within defensive barriers, resulting in one hundred years without a single titan encounter. However, that fragile calm is soon shattered when a colossal titan manages to breach the supposedly impregnable outer wall, reigniting the fight for survival against the man-eating abominations.\n\nAfter witnessing a horrific personal loss at the hands of the invading creatures, Eren Yeager dedicates his life to their eradication by enlisting into the Survey Corps, an elite military unit that combats the merciless humanoids outside the protection of the walls. Based on Hajime Isayama's award-winning manga, Shingeki no Kyojin follows Eren, along with his adopted sister Mikasa Ackerman and his childhood friend Armin Arlert, as they join the brutal war against the titans and race to discover a way of defeating them before the last walls are breached.\n\n(Source: MAL Rewrite)",
+      "genres": [
+        "Post Apocalypse",
+        "Violence",
+        "Action",
+        "Adventure",
+        "Fantasy",
+        "Alternative Past",
+        "Angst",
+        "Horror",
+        "Drama",
+        "Military",
+        "Super Power",
+        "Shounen"
+      ],
+      "year": "2013",
+      "releaseInfo": "2013",
+      "imdbRating": "9.1",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0110912",
+      "type": "movie",
+      "name": "Pulp Fiction",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0110912.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/kpuNKsIzVbK3LDVo4iOJDAY0y7d.png",
+      "description": "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Comedy"
+      ],
+      "year": "1994",
+      "releaseInfo": "1994",
+      "imdbRating": "8.8",
+      "runtime": "2h34min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0110912",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt2861424",
+      "type": "series",
+      "name": "Rick and Morty",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2861424.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/fanart/original/275274-1.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/275274/clearlogo/611b76b134415.png",
+      "description": "Follows the misadventures of an alcoholic scientist Rick and his overly nervous grandson Morty, who split their time between domestic family life and intergalactic travel. Often finding themselves in a heap of trouble that more often than not is created through their own actions.",
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Animation",
+        "Adventure"
+      ],
+      "year": "2013",
+      "releaseInfo": "2013-",
+      "imdbRating": "9",
+      "runtime": "22min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tmdb:372058",
+      "type": "movie",
+      "name": "your name.",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt5311514.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zKI7UKmsB5ywy6Rjs3wWvBfhafJ.png",
+      "description": "When a comet falls to earth amongst a small mountain village, time and space suddenly reverse course, and two young strangers wake up in each other’s bodies.",
+      "genres": [
+        "Anime",
+        "Drama",
+        "Fantasy",
+        "Romance"
+      ],
+      "year": "2016",
+      "releaseInfo": "2016",
+      "imdbRating": "8.4",
+      "runtime": "1h50min",
+      "behaviorHints": {
+        "defaultVideoId": "kitsu:11614",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0141842",
+      "type": "series",
+      "name": "The Sopranos",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0141842.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/fanart/original/75299-6.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/75299/clearlogo/611b5efa3c8e0.png",
+      "description": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "year": "1999",
+      "releaseInfo": "1999-2007",
+      "imdbRating": "9.2",
+      "runtime": "54min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0816692",
+      "type": "movie",
+      "name": "Interstellar",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0816692.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zEewiIVx9rDfc1HahWPNk4uyJdP.png",
+      "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Science Fiction"
+      ],
+      "year": "2014",
+      "releaseInfo": "2014",
+      "imdbRating": "8.7",
+      "runtime": "2h49min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0816692",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:127532",
+      "type": "series",
+      "name": "Solo Leveling",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt21209876.jpg?rs=TR",
+      "background": "https://media.kitsu.app/anime/46231/cover_image/3889183203c74864e499990fce30cadf.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt21209876/img",
+      "description": "They say whatever doesn’t kill you makes you stronger, but that’s not the case for the world’s weakest hunter Sung Jinwoo. After being brutally slaughtered by monsters in a high-ranking dungeon, Jinwoo came back with the System, a program only he could see, that’s leveling him up in every way. Now, he’s inspired to discover the secrets behind his powers and the dungeon that spawned them.\n\n(Source: Crunchyroll)",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Magic",
+        "Adventure",
+        "Human Enhancement",
+        "Earth",
+        "Korea"
+      ],
+      "year": "2024",
+      "releaseInfo": "2024",
+      "imdbRating": "8.5",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0060196",
+      "type": "movie",
+      "name": "The Good, the Bad and the Ugly",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0060196.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/Adrip2Jqzw56KeuV2nAxucKMNXA.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/erPCnjGRzF75SfEDXIQEaYxkjka.png",
+      "description": "While the Civil War rages on between the Union and the Confederacy, three men – a quiet loner, a ruthless hitman, and a Mexican bandit – comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+      "genres": [
+        "Western"
+      ],
+      "year": "1966",
+      "releaseInfo": "1966",
+      "imdbRating": "8.8",
+      "runtime": "2h41min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0060196",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt8050756",
+      "type": "series",
+      "name": "The Owl House",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt8050756.jpg?rs=TR",
+      "background": "https://artworks.thetvdb.com/banners/series/349578/backgrounds/5f041c4896063.jpg",
+      "logo": "https://artworks.thetvdb.com/banners/v4/series/349578/clearlogo/611cccc662e50.png",
+      "description": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
+      "genres": [
+        "Horror",
+        "Fantasy",
+        "Family",
+        "Drama",
+        "Comedy",
+        "Children",
+        "Animation",
+        "Adventure",
+        "Action",
+        "Mystery"
+      ],
+      "year": "2020",
+      "releaseInfo": "2020-2023",
+      "imdbRating": "8.6",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    },
+    {
+      "id": "tt0109830",
+      "type": "movie",
+      "name": "Forrest Gump",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0109830.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/66Kn4XWhkuPkJxOJyPEx4U2CUfN.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/as10mpHSWebQVXwMbwQfWYfR27F.png",
+      "description": "A man with a low IQ has accomplished great things in his life and been present during significant historic events—in each case, far exceeding what anyone imagined he could do. But despite all he has achieved, his one true love eludes him.",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "year": "1994",
+      "releaseInfo": "1994",
+      "imdbRating": "8.8",
+      "runtime": "2h22min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0109830",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:42573",
+      "type": "series",
+      "name": "Slam Dunk",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0965547.jpg?rs=TR",
+      "background": "https://images.metahub.space/background/medium/tt0965547/img",
+      "logo": "https://images.metahub.space/logo/medium/tt0965547/img",
+      "description": "Hanamichi Sakuragi, infamous for this temper, massive height, and fire-red hair, enrolls in Shohoku High, hoping to finally get a girlfriend and break his record of being rejected 50 consecutive times in middle school. His notoriety precedes him, however, leading to him being avoided by most students. Soon, after certain events, Hanamichi is left with two unwavering thoughts: \"I hate basketball,\" and \"I desperately need a girlfriend.\"\nOne day, a girl named Haruko Akagi approaches him without any knowledge of his troublemaking and asks him if he likes basketball. Hanamichi immediately falls head over heels in love with her, blurting out a fervent affirmative. She then leads him to the gymnasium, where she asks him if he can do a slam dunk. In an attempt to impress Haruko, he makes the leap, but overshoots, instead slamming his head straight into the blackboard. When Haruko informs the basketball team's captain of Hanamichi's near-inhuman physical capabilities, he slowly finds himself drawn into the camaraderie and competition of the sport he had previously held resentment for.\n[Written by MAL Rewrite]",
+      "genres": [
+        "Earth",
+        "Basketball",
+        "Japan",
+        "Action",
+        "Asia",
+        "Sports",
+        "Comedy",
+        "High School",
+        "Friendship",
+        "School Life",
+        "Plot Continuity",
+        "Present",
+        "Shounen"
+      ],
+      "year": "1993",
+      "releaseInfo": "1993-1996",
+      "imdbRating": "8.7",
+      "runtime": "23min",
+      "behaviorHints": {
+        "defaultVideoId": null,
+        "hasScheduledVideos": true
+      }
+    }
+  ]
+}

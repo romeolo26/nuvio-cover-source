@@ -20,18 +20,86 @@ const catalogs = [
     ],
   },
   {
-    sourceType: "movie",
-    sourceId: "mdblist.186558",
-    id: "nuvio-new-across-streaming-cover-movies",
+    id: "nuvio-tonight-cover",
     type: "movie",
-    name: "Nuvio Cover - New Across Streaming Movies",
+    name: "Nuvio Cover - Tonight",
+    sources: [
+      { sourceType: "movie", sourceId: "mdblist.186303" },
+      { sourceType: "series", sourceId: "mdblist.186304" },
+    ],
   },
   {
-    sourceType: "series",
-    sourceId: "mdblist.186559",
-    id: "nuvio-new-across-streaming-cover-shows",
-    type: "series",
-    name: "Nuvio Cover - New Across Streaming Shows",
+    id: "nuvio-because-you-watched-cover",
+    type: "movie",
+    name: "Nuvio Cover - Because You Watched",
+    sources: [
+      { sourceType: "movie", sourceId: "trakt.list.35741279" },
+      { sourceType: "series", sourceId: "trakt.list.35741284" },
+    ],
+  },
+  {
+    id: "nuvio-gems-for-you-cover",
+    type: "movie",
+    name: "Nuvio Cover - Gems For You",
+    sources: [
+      { sourceType: "movie", sourceId: "trakt.list.35741285" },
+      { sourceType: "series", sourceId: "trakt.list.35741286" },
+    ],
+  },
+  {
+    id: "nuvio-new-across-streaming-cover",
+    type: "movie",
+    name: "Nuvio Cover - New Across Streaming",
+    sources: [
+      { sourceType: "movie", sourceId: "mdblist.186558" },
+      { sourceType: "series", sourceId: "mdblist.186559" },
+    ],
+  },
+  {
+    id: "nuvio-new-for-you-cover",
+    type: "movie",
+    name: "Nuvio Cover - New For You",
+    sources: [
+      { sourceType: "movie", sourceId: "mdblist.186301" },
+      { sourceType: "series", sourceId: "mdblist.186302" },
+    ],
+  },
+  {
+    id: "nuvio-in-cinemas-cover",
+    type: "movie",
+    name: "Nuvio Cover - In Cinemas",
+    sources: [
+      { sourceType: "movie", sourceId: "tmdb.discover.movie.in-cinemas.au" },
+      { sourceType: "movie", sourceId: "tmdb.discover.movie.coming-soon.au" },
+      { sourceType: "movie", sourceId: "mdblist.187399" },
+    ],
+  },
+  {
+    id: "nuvio-trending-today-cover",
+    type: "movie",
+    name: "Nuvio Cover - Trending Today",
+    sources: [
+      { sourceType: "movie", sourceId: "tmdb.trending_movie" },
+      { sourceType: "series", sourceId: "tmdb.trending_series" },
+    ],
+  },
+  {
+    id: "nuvio-popular-cover",
+    type: "movie",
+    name: "Nuvio Cover - Popular",
+    sources: [
+      { sourceType: "movie", sourceId: "tmdb.top_movie" },
+      { sourceType: "series", sourceId: "tmdb.top_series" },
+    ],
+  },
+  {
+    id: "nuvio-top-rated-cover",
+    type: "movie",
+    name: "Nuvio Cover - Top Rated",
+    sources: [
+      { sourceType: "movie", sourceId: "tmdb.top_rated_movie" },
+      { sourceType: "series", sourceId: "tmdb.top_rated_series" },
+    ],
   },
 ];
 
@@ -74,6 +142,17 @@ function dedupeMetas(metas) {
   return result;
 }
 
+function interleaveMetas(sourceMetas) {
+  const result = [];
+  const maxLength = Math.max(0, ...sourceMetas.map((metas) => metas.length));
+  for (let index = 0; index < maxLength; index += 1) {
+    for (const metas of sourceMetas) {
+      if (metas[index]) result.push(metas[index]);
+    }
+  }
+  return result;
+}
+
 async function fetchSource(source) {
   const url = `${AIO_BASE}/catalog/${source.sourceType}/${source.sourceId}.json`;
   const response = await fetch(url);
@@ -88,8 +167,26 @@ async function fetchCatalog(catalog) {
   const sources = catalog.sources || [
     { sourceType: catalog.sourceType, sourceId: catalog.sourceId },
   ];
-  const sourceMetas = await Promise.all(sources.map(fetchSource));
-  return dedupeMetas(sourceMetas.flat()).slice(0, 100).map(compactMeta);
+  const results = await Promise.allSettled(sources.map(fetchSource));
+  const sourceMetas = results
+    .filter((result) => result.status === "fulfilled")
+    .map((result) => result.value);
+
+  for (const [index, result] of results.entries()) {
+    if (result.status === "rejected") {
+      console.warn(
+        `Skipping ${sources[index].sourceId} for ${catalog.id}: ${result.reason.message}`,
+      );
+    }
+  }
+
+  if (sourceMetas.length === 0) {
+    throw new Error(`All sources failed for ${catalog.id}`);
+  }
+
+  return dedupeMetas(interleaveMetas(sourceMetas))
+    .slice(0, 100)
+    .map(compactMeta);
 }
 
 async function main() {
