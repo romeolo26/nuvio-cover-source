@@ -33,9 +33,6 @@ jobs:
         with:
           node-version: "22"
 
-      - name: Build static Stremio addon
-        run: COVER_SOURCE_OUT_DIR=docs node tools/build-cover-source-addon.js
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
 

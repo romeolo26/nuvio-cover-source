@@ -1,1826 +1,1401 @@
 {
   "metas": [
     {
-      "id": "tt0327056",
+      "id": "tt33100314",
       "type": "movie",
-      "name": "Mystic River",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0327056.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/4ycpMe25LYpzGW42U9amyW9gM53.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/rWJBDdgznSBPFdje5IQ8eiaesoP.png",
-      "description": "The lives of three men who were childhood friends are shattered when one of them suffers a family tragedy.",
+      "name": "Remarkably Bright Creatures",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33100314.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
+      "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
       "genres": [
-        "Thriller",
         "Drama",
         "Mystery"
       ],
-      "year": "2003",
-      "releaseInfo": "2003",
-      "imdbRating": "7.9",
-      "runtime": "2h18min",
-      "behaviorHints": {
-        "defaultVideoId": "tt0327056",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt2628232",
-      "type": "series",
-      "name": "Penny Dreadful",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2628232.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/265766-4.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/265766/clearlogo/611b7cbba3b20.png",
-      "description": "Penny Dreadful is a frightening psychological thriller that weaves together the monsters of classic stories. The explorer Sir Malcolm Murray, American gunslinger Ethan Chandler, Miss Vanessa Ives and others unite to combat supernatural threats in Victorian London. They encounter some of literature's most terrifying characters, including Dr. Frankenstein, Dorian Gray, the Wolfman and iconic figures from the novel Dracula.",
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Drama"
-      ],
-      "year": "2014",
-      "releaseInfo": "2014-2016",
-      "imdbRating": "8.2",
-      "runtime": "55min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt1189073",
-      "type": "movie",
-      "name": "The Skin I Live In",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1189073.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/qn8NzshtQmJD7Nm06sAp5yOtexH.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/qHqBZAjjFjUX6ce9bpEw1ESmb9r.png",
-      "description": "A brilliant plastic surgeon creates a synthetic skin that withstands any kind of damage. His guinea pig: a mysterious and volatile woman who holds the key to his obsession.",
-      "genres": [
-        "Drama",
-        "Horror",
-        "Mystery",
-        "Thriller"
-      ],
-      "year": "2011",
-      "releaseInfo": "2011",
-      "imdbRating": "7.6",
-      "runtime": "2h",
-      "behaviorHints": {
-        "defaultVideoId": "tt1189073",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2026",
+      "imdbRating": "8.6"
     },
     {
       "id": "tt34440854",
       "type": "series",
       "name": "The WONDERfools",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34440854.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/439546/backgrounds/695f845846bb8.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/439546/clearlogo/6a024cf66c622.png",
+      "background": "https://image.tmdb.org/t/p/w780/810mXC0xkxXVtoKIPGGVgO9PuLh.jpg",
       "description": "A goofy group of townies stumbles into superpowers and fights rising evil as doomsday panic grows in this wild, turn-of-the-century action comedy.",
       "genres": [
-        "Science Fiction",
-        "Mini-Series",
+        "Action & Adventure",
         "Comedy",
-        "Action"
+        "Sci-Fi & Fantasy",
+        "Drama"
       ],
-      "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "7.6",
-      "runtime": "1h10min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "imdbRating": "9.0"
     },
     {
-      "id": "tt2210479",
+      "id": "tt2096673",
       "type": "movie",
-      "name": "Berserk: The Golden Age Arc I - The Egg of the King",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2210479.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/v7GQxa9ZmdMZjt4JwZF54mvAiTv.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/bNTDAVqArUdS9y8KRIblNg7X3Ps.png",
-      "description": "This arc is a flashback showing Guts' youth and what led him to become the \"Black Swordsman\". Guts grows up as a young mercenary until his enrollment in the Band of the Hawk. He develops complex relationships with Casca and Griffith, the Band's charismatic leader and holder of the Crimson Behelit, who leads the Band to its rise to prominence within the Midland army.",
+      "name": "Inside Out",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2096673.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/o3i6AfTcWAuNvzAUV3q5lOmi6Gx.jpg",
+      "description": "When 11-year-old Riley moves to a new city, her Emotions team up to help her through the transition. Joy, Fear, Anger, Disgust and Sadness work together, but when Joy and Sadness get lost, they must journey through unfamiliar places to get back home.",
       "genres": [
-        "Action",
-        "Adventure",
         "Animation",
-        "Anime",
-        "Horror"
+        "Family",
+        "Adventure",
+        "Drama",
+        "Comedy"
       ],
-      "year": "2012",
-      "releaseInfo": "2012",
-      "imdbRating": "7.5",
-      "runtime": "1h17min",
-      "behaviorHints": {
-        "defaultVideoId": "tt2210479",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2015",
+      "imdbRating": "7.9"
     },
     {
       "id": "tt27497448",
       "type": "series",
       "name": "A Knight of the Seven Kingdoms",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27497448.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/433631/backgrounds/6934a76d9bbba.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/433631/clearlogo/696cfcd38cd4e.png",
-      "description": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros, a young knight, Ser Duncan the Tall, and his squire, Egg, set in an age when the Targaryen line still holds the Iron Throne.",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Adventure",
-        "Action"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026-",
-      "imdbRating": "8.6",
-      "runtime": "33min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt8772262",
-      "type": "movie",
-      "name": "Midsommar",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt8772262.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/pYgj8e2Y6RufnSyOA6OnzmxFXxZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/vOvRZEAeAHOT2bzb6Z5jvVPmZSW.png",
-      "description": "Several friends travel to Sweden to study as anthropologists a summer festival that is held every ninety years in the remote hometown of one of them. What begins as a dream vacation in a place where the sun never sets, gradually turns into a dark nightmare as the mysterious inhabitants invite them to participate in their disturbing festive activities.",
-      "genres": [
-        "Horror",
-        "Drama",
-        "Mystery"
-      ],
-      "year": "2019",
-      "releaseInfo": "2019",
-      "imdbRating": "7.1",
-      "runtime": "2h27min",
-      "behaviorHints": {
-        "defaultVideoId": "tt8772262",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt1830617",
-      "type": "series",
-      "name": "Grimm",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1830617.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/248736-14.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/248736/clearlogo/611b568e4c7a5.png",
-      "description": "After Portland homicide detective Nick Burkhardt discovers he's descended from an elite line of criminal profilers known as \"Grimms,\" he increasingly finds his responsibilities as a detective at odds with his new responsibilities as a Grimm.",
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Drama",
-        "Crime",
-        "Mystery"
-      ],
-      "year": "2011",
-      "releaseInfo": "2011-2017",
-      "imdbRating": "7.9",
-      "runtime": "43min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt33100314",
-      "type": "movie",
-      "name": "Remarkably Bright Creatures",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33100314.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/bVGHSe47W6oCQL1Q88pvRAet51A.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/9yhvM7mpxH8smgRAdLJwy4JE5R2.png",
-      "description": "Through unlikely bonds formed during night shifts at a local aquarium, Tova, an elderly widow, learns of a life-changing discovery that may bring her joy and wonder once again.",
+      "background": "https://image.tmdb.org/t/p/w780/7mkUu1F2hVUNgz24xO8HPx0D6mK.jpg",
+      "description": "A century before the events of Game of Thrones, two unlikely heroes wandered Westeros: a young, naive but courageous knight, Ser Duncan the Tall, and his diminutive squire, Egg. Set in an age when the Targaryen line still holds the Iron Throne and the last dragon has not yet passed from living memory, great destinies, powerful foes, and dangerous exploits await these improbable and incomparable friends.",
       "genres": [
         "Drama",
-        "Mystery"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
-      "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "runtime": "1h54min",
-      "behaviorHints": {
-        "defaultVideoId": "tt33100314",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt11280740",
-      "type": "series",
-      "name": "Severance",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt11280740.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/371980/backgrounds/61bdee7c62d99.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/371980/clearlogo/67deb201804b5.png",
-      "description": "Mark leads a team of office workers whose memories have been surgically divided between their work and personal lives. When a mysterious colleague appears outside of work, it begins a journey to discover the truth about their jobs.",
-      "genres": [
-        "Science Fiction",
-        "Drama",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2022",
-      "releaseInfo": "2022-",
-      "imdbRating": "8.6",
-      "runtime": "49min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt0246578",
-      "type": "movie",
-      "name": "Donnie Darko",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0246578.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/msCHK5Kh1YbdZ0zPJ2nzPUhhSN9.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/pNvOhQXSl0qrhzIMZjT7r02kpdV.png",
-      "description": "After narrowly escaping a bizarre accident, a troubled teenager is plagued by visions of a large bunny rabbit that manipulates him to commit a series of crimes.",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Mystery"
-      ],
-      "year": "2001",
-      "releaseInfo": "2001",
-      "imdbRating": "8",
-      "runtime": "1h54min",
-      "behaviorHints": {
-        "defaultVideoId": "tt0246578",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt0844441",
-      "type": "series",
-      "name": "True Blood",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0844441.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/82283-8.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/82283/clearlogo/611b52760e1fb.png",
-      "description": "Telepathic waitress Sookie Stackhouse encounters a strange new supernatural world when she meets the mysterious Bill Compton, a southern Louisiana gentleman and vampire.",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Crime",
-        "Suspense",
-        "Thriller",
-        "Romance",
-        "Mystery"
-      ],
-      "year": "2008",
-      "releaseInfo": "2008-2014",
-      "imdbRating": "7.9",
-      "runtime": "54min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt7668870",
-      "type": "movie",
-      "name": "Searching",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt7668870.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/jOqOduY1tLhXgVZo7ypCtDVr0mM.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/4AmlH0mEn8gL6HEmSX0QYbdItmA.png",
-      "description": "After David Kim's 16-year-old daughter goes missing, a local investigation is opened and a detective is assigned to the case. But 37 hours later and without a single lead, David decides to search the one place no one has looked yet, where all secrets are kept today: his daughter's laptop.",
-      "genres": [
-        "Drama",
-        "Mystery",
-        "Thriller"
-      ],
-      "year": "2018",
-      "releaseInfo": "2018",
-      "imdbRating": "7.6",
-      "runtime": "1h42min",
-      "behaviorHints": {
-        "defaultVideoId": "tt7668870",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt7569592",
-      "type": "series",
-      "name": "Chilling Adventures of Sabrina",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt7569592.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/series/338947/backgrounds/5fc94930afdb7.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/338947/clearlogo/611bce3812074.png",
-      "description": "Reimagines the origin and adventures of Sabrina the Teenage Witch as a dark coming-of-age story that traffics in horror, the occult and, of course, witchcraft. Tonally in the vein of Rosemary's Baby and The Exorcist, this adaptation finds Sabrina wrestling to reconcile her dual nature - half-witch, half-mortal - while standing against the evil forces that threaten her, her family and the daylight world humans inhabit.",
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Drama",
-        "Adventure",
-        "Suspense",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2018",
-      "releaseInfo": "2018-2020",
-      "imdbRating": "7.4",
-      "runtime": "58min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt2543164",
-      "type": "movie",
-      "name": "Arrival",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2543164.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/8MUZz7oPXQftFTslZpRP3CVMOoq.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/rcPtxYkZ2mXmKdD0NKLzjsHxL3V.png",
-      "description": "Taking place after alien crafts land around the world, an expert linguist is recruited by the military to determine whether they come in peace or are a threat.",
-      "genres": [
-        "Drama",
-        "Science Fiction",
-        "Mystery"
-      ],
-      "year": "2016",
-      "releaseInfo": "2016",
-      "imdbRating": "7.9",
-      "runtime": "1h56min",
-      "behaviorHints": {
-        "defaultVideoId": "tt2543164",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt8421350",
-      "type": "series",
-      "name": "Manifest",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt8421350.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/series/349271/backgrounds/62027495.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/349271/clearlogo/611bcb32de127.png",
-      "description": "A commercial airliner suddenly reappears after being missing for five years. As those aboard reintegrate into society, they experience guiding voices and visions of events yet to occur, and soon a deeper mystery unfolds.",
-      "genres": [
-        "Science Fiction",
-        "Drama",
-        "Mystery"
-      ],
-      "year": "2018",
-      "releaseInfo": "2018-2023",
-      "imdbRating": "7",
-      "runtime": "44min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt0166924",
-      "type": "movie",
-      "name": "Mulholland Drive",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0166924.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/g9ClaS5EqU0Hk8WIbMNhld0Bk6f.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/bXzN0Q7hYOjwT5rQZGYhSmda4k7.png",
-      "description": "Blonde Betty Elms has only just arrived in Hollywood to become a movie star when she meets an enigmatic brunette with amnesia. Meanwhile, as the two set off to solve the second woman's identity, filmmaker Adam Kesher runs into ominous trouble while casting his latest project.",
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Mystery"
-      ],
-      "year": "2001",
-      "releaseInfo": "2001",
-      "imdbRating": "7.9",
-      "runtime": "2h27min",
-      "behaviorHints": {
-        "defaultVideoId": "tt0166924",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt8134186",
-      "type": "series",
-      "name": "Devs",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt8134186.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/series/364149/backgrounds/62108555.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/364149/clearlogo/611c2d8b97ed3.png",
-      "description": "A young computer engineer, Lily, investigates the secretive development division of her employer, a cutting-edge tech company based in San Francisco, which she believes is behind the disappearance of her boyfriend.",
-      "genres": [
-        "Science Fiction",
-        "Mini-Series",
-        "Drama",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2020",
-      "releaseInfo": "2020",
-      "imdbRating": "7.6",
-      "runtime": "51min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:14069",
-      "type": "movie",
-      "name": "The Girl Who Leapt Through Time",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0808506.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/6m2qbAqSMJTX4HUwRvVEQI6ioiO.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/rNqBHAdNKP3kFMWMDJWklLgFGPo.png",
-      "description": "A teenager acquires the power to travel back in time, and decides to use it for her own personal benefits. Little does she know that she is affecting the lives of others just as much as she is her own.",
-      "genres": [
-        "Anime",
-        "Drama",
-        "Fantasy",
-        "Science Fiction"
-      ],
-      "year": "2006",
-      "releaseInfo": "2006",
-      "imdbRating": "7.6",
-      "runtime": "1h38min",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:2027",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt2521668",
-      "type": "series",
-      "name": "The Returned",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2521668.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/263677-5.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/263677/clearlogo/611bb5299c26e.png",
-      "description": "In a small Alpine village, a group of men, women and children is in a state of confusion as they try to return to their homes after years of being away. What they don't know is that no one is expecting their arrival because they have been dead for several years. Upon returning, they realize that their friends and family have moved on to the next stages of their lives since the now-returning souls passed on. Coinciding with their reappearance is a series of murders that bears a chilling resemblance to those of a serial killer from the past.",
-      "genres": [
-        "Horror",
-        "Fantasy",
-        "Drama",
-        "Suspense",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2012",
-      "releaseInfo": "2012-2015",
-      "imdbRating": "8",
-      "runtime": "50min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:568160",
-      "type": "movie",
-      "name": "Weathering With You",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt9426210.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/ize3ZieqSy0TCWljmVoEiy8fSFS.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/fefN0b0cWtyFbHNF7bsSxL9yEn9.png",
-      "description": "When high schooler Hodaka runs away to Tokyo in the summer, he finds a city soaked in endless rain and his own life slipping into poverty and solitude. But everything changes when he meets Hina—a cheerful, spirited girl living with her younger brother, and who has the strange ability to stop the rain with a single prayer. For a city desperate for sunlight, her gift may change everything…",
-      "genres": [
-        "Animation",
-        "Anime",
-        "Drama",
-        "Fantasy",
-        "Romance"
-      ],
-      "year": "2019",
-      "releaseInfo": "2019",
-      "imdbRating": "7.5",
-      "runtime": "1h53min",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:42028",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt1520211",
-      "type": "series",
-      "name": "The Walking Dead",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1520211.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/153021-11.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/153021/clearlogo/611b4db78a903.png",
-      "description": "The world we knew is gone. An epidemic of apocalyptic proportions has swept the globe causing the dead to rise and feed on the living. In a matter of months society has crumbled. In a world ruled by the dead, we are forced to finally start living.",
-      "genres": [
-        "Horror",
-        "Drama",
-        "Adventure",
-        "Thriller"
-      ],
-      "year": "2010",
-      "releaseInfo": "2010-2022",
-      "imdbRating": "8.1",
-      "runtime": "46min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "imdbRating": "8.4"
     },
     {
       "id": "tt9243946",
       "type": "movie",
       "name": "El Camino: A Breaking Bad Movie",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt9243946.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/6wZXUCi2YPfIY91ifWpbkjn5x2q.png",
+      "background": "https://image.tmdb.org/t/p/w780/uLXK1LQM28XovWHPao3ViTeggXA.jpg",
       "description": "In the wake of his dramatic escape from captivity, Jesse Pinkman must come to terms with his past in order to forge some kind of future.",
       "genres": [
         "Crime",
         "Drama",
         "Thriller"
       ],
-      "year": "2019",
       "releaseInfo": "2019",
-      "imdbRating": "7.3",
-      "runtime": "2h3min",
-      "behaviorHints": {
-        "defaultVideoId": "tt9243946",
-        "hasScheduledVideos": false
-      }
+      "imdbRating": "7.0"
     },
     {
-      "id": "tt5607976",
+      "id": "tt0460681",
       "type": "series",
-      "name": "His Dark Materials",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt5607976.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/5db6a5a4e552c.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/360295/clearlogo/611bce11df0ab.png",
-      "description": "In an alternative world where all humans have animal companions called dæmons, which are the manifestation of the human soul, a young orphan living with the tutors at Jordan College, Oxford discovers a dangerous secret that involves Lord Asriel and Marisa Coulter. In her search for her missing friend, she uncovers a slew of kidnappings and its link to the mysterious substance called Dust.",
+      "name": "Supernatural",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0460681.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/ro0tlgnsco4SwbdAgmscLkSlMSL.jpg",
+      "description": "When they were boys, Sam and Dean Winchester lost their mother to a mysterious and demonic supernatural force. Subsequently, their father raised them to be soldiers. He taught them about the paranormal evil that lives in the dark corners and on the back roads of America ... and he taught them how to kill it. Now, the Winchester brothers crisscross the country in their '67 Chevy Impala, battling every kind of supernatural threat they encounter along the way. ",
       "genres": [
-        "Science Fiction",
-        "Fantasy",
-        "Family",
         "Drama",
-        "Adventure",
-        "Action"
+        "Mystery",
+        "Sci-Fi & Fantasy"
       ],
-      "year": "2019",
-      "releaseInfo": "2019-2023",
-      "imdbRating": "7.7",
-      "runtime": "54min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2005",
+      "imdbRating": "8.3"
     },
     {
-      "id": "tmdb:110420",
+      "id": "tt36042156",
       "type": "movie",
-      "name": "Wolf Children",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2140203.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/oMqgJMCaNIqeJtilc71D4nRqdmt.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/us5C2vFuEXbyREuomLuVEmU9Dyt.png",
-      "description": "In Tokyo, Japan, college student Hana falls in love with an enigmatic man. One night, the man reveals that he can transform into a wolf, and they later have two wolf children: a daughter, Yuki, year later a son, Ame. Soon after, their father is killed in an accident while hunting food for the children.",
+      "name": "The Punisher: One Last Kill",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36042156.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/qO55CD8tgVL1T4WKn6zYFFiD6lL.jpg",
+      "description": "As Frank Castle searches for meaning beyond revenge, an unexpected force pulls him back into the fight.",
       "genres": [
-        "Animation",
-        "Fantasy"
+        "Action",
+        "Drama",
+        "Crime"
       ],
-      "year": "2012",
-      "releaseInfo": "2012",
-      "imdbRating": "8.1",
-      "runtime": "1h57min",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:6711",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2026",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt11198330",
       "type": "series",
       "name": "House of the Dragon",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt11198330.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/371572/backgrounds/62d27eb474e3c.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/371572/clearlogo/615defff583a8.png",
-      "description": "The story of House Targaryen, 200 years before the events of Game of Thrones.",
+      "background": "https://image.tmdb.org/t/p/w780/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "genres": [
-        "Fantasy",
+        "Sci-Fi & Fantasy",
         "Drama",
-        "Adventure",
-        "Action",
-        "War"
+        "Action & Adventure"
       ],
-      "year": "2022",
-      "releaseInfo": "2022-",
-      "imdbRating": "8.3",
-      "runtime": "1h3min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2022",
+      "imdbRating": "8.4"
     },
     {
-      "id": "tmdb:149871",
+      "id": "tt0110357",
       "type": "movie",
-      "name": "The Tale of the Princess Kaguya",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2576852.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/lMaWlYThCSnsmW3usxWTpSuyZp1.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/vaD8ASMua1nTfRpBWtZm9dJU8it.png",
-      "description": "Kaguya is a beautiful young woman coveted by five nobles. To try to avoid marrying a stranger she doesn't love, she sends her suitors on seemingly impossible tasks. But she will have to face her fate and punishment for her choices.",
+      "name": "The Lion King",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0110357.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/q00H8EqULYSK74lgevMkhmGGLHn.jpg",
+      "description": "Young lion prince Simba, eager to one day become king of the Pride Lands, grows up under the watchful eye of his father Mufasa; all the while his villainous uncle Scar conspires to take the throne for himself. Amid betrayal and tragedy, Simba must confront his past and find his rightful place in the Circle of Life.",
       "genres": [
-        "Anime",
-        "Drama",
-        "Fantasy"
+        "Animation",
+        "Family",
+        "Drama"
       ],
-      "year": "2013",
-      "releaseInfo": "2013",
-      "imdbRating": "8",
-      "runtime": "2h17min",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:7486",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "1994",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt0944947",
       "type": "series",
       "name": "Game of Thrones",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0944947.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/121361-15.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/121361/clearlogo/611b47b766d38.png",
-      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and the icy horrors beyond.",
+      "background": "https://image.tmdb.org/t/p/w780/2OMB0ynKlyIenMJWI2Dy9IWT4c.jpg",
+      "description": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
       "genres": [
-        "Fantasy",
+        "Sci-Fi & Fantasy",
         "Drama",
-        "Adventure",
-        "Action"
+        "Action & Adventure"
       ],
-      "year": "2011",
-      "releaseInfo": "2011-2019",
-      "imdbRating": "9.2",
-      "runtime": "57min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2011",
+      "imdbRating": "8.5"
     },
     {
-      "id": "tt6644200",
+      "id": "tt21909764",
       "type": "movie",
-      "name": "A Quiet Place",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt6644200.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/nHRUtBwFNnNN70vcQ7lAsjc2T6S.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/lQLam7R8VgaRoZzyarMJmLoVrFb.png",
-      "description": "A family is forced to live in silence while hiding from creatures that hunt by sound.",
+      "name": "My Fault",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt21909764.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/oz4U9eA6ilYf1tyiVuGmkftdLac.jpg",
+      "description": "Noah must leave her city, boyfriend, and friends to move into William Leister's mansion, the flashy and wealthy husband of her mother Rafaela. As a proud and independent 17 year old, Noah resists living in a mansion surrounded by luxury. However, it is there where she meets Nick, her new stepbrother, and the clash of their strong personalities becomes evident from the very beginning.",
       "genres": [
-        "Horror",
         "Drama",
-        "Science Fiction"
+        "Romance",
+        "Thriller"
       ],
-      "year": "2018",
-      "releaseInfo": "2018",
-      "imdbRating": "7.5",
-      "runtime": "1h31min",
-      "behaviorHints": {
-        "defaultVideoId": "tt6644200",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2023",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0279600",
+      "type": "series",
+      "name": "Smallville",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0279600.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/4wVq9ICc4MI2XcssrumpCOhKLpI.jpg",
+      "description": "The origins of the world’s greatest hero–from Krypton refugee Kal-el’s arrival on Earth through his tumultuous teen years to Clark Kent’s final steps toward embracing his destiny as the Man of Steel.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure",
+        "Drama"
+      ],
+      "releaseInfo": "2001",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt26443597",
+      "type": "movie",
+      "name": "Zootopia 2",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt26443597.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+      "description": "After cracking the biggest case in Zootopia's history, rookie cops Judy Hopps and Nick Wilde find themselves on the twisting trail of a great mystery when Gary De'Snake arrives and turns the animal metropolis upside down. To crack the case, Judy and Nick must go undercover to unexpected new parts of town, where their growing partnership is tested like never before.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Mystery",
+        "Family"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "7.7"
     },
     {
       "id": "tt9018736",
       "type": "series",
-      "name": "Avatar: The Last Airbender (2024)",
+      "name": "Avatar: The Last Airbender",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt9018736.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/385925/backgrounds/65dabe7c7a9e6.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/385925/clearlogo/654da2d8aed32.png",
+      "background": "https://image.tmdb.org/t/p/w780/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
       "description": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
       "genres": [
-        "Fantasy",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
         "Drama",
-        "Comedy",
-        "Adventure",
-        "Action",
-        "Mystery"
+        "Family"
       ],
-      "year": "2024",
-      "releaseInfo": "2024-",
-      "imdbRating": "7.2",
-      "runtime": "58min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2024",
+      "imdbRating": "7.8"
     },
     {
-      "id": "tt7984734",
+      "id": "tt0458352",
       "type": "movie",
-      "name": "The Lighthouse",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt7984734.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/sYLzRuEcwSz0L1Z92wQNrETHU9O.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/fRVX8Dbp4EVa1lblWNIuhGePQOZ.png",
-      "description": "Two lighthouse keepers try to maintain their sanity while living on a remote and mysterious New England island in the 1890s.",
+      "name": "The Devil Wears Prada",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0458352.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/gkh6Nt8DtY1XT4gQsyFq9XAVJlJ.jpg",
+      "description": "A young woman from the Midwest gets more than she bargained for when she moves to New York to become a writer and ends up as the assistant to the tyrannical, larger-than-life editor-in-chief of a major fashion magazine.",
       "genres": [
         "Drama",
-        "Fantasy",
-        "Thriller"
+        "Comedy"
       ],
-      "year": "2019",
-      "releaseInfo": "2019",
-      "imdbRating": "7.4",
-      "runtime": "1h49min",
-      "behaviorHints": {
-        "defaultVideoId": "tt7984734",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt3501584",
-      "type": "series",
-      "name": "iZombie",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt3501584.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/281470-8.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/281470/clearlogo/611b7b91bb625.png",
-      "description": "When over-achieving medical resident Liv Moore attends a party that turns into a zombie feeding frenzy, she ends up joining the ranks of the living dead. Determined to pass as human despite her pale appearance and newly listless demeanor, Liv forms a plan to resist her drive to consume fresh human brains by taking a job at a coroner's office, where she can secretly snack on the brains of corpses delivered there. Soon discovering that she absorbs the memories of those she feeds on, she finds new purpose by posing as a psychic and working with a detective to help solve their murders.",
-      "genres": [
-        "Horror",
-        "Drama",
-        "Crime",
-        "Comedy",
-        "Action"
-      ],
-      "year": "2015",
-      "releaseInfo": "2015-2019",
-      "imdbRating": "7.8",
-      "runtime": "45min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:372058",
-      "type": "movie",
-      "name": "your name.",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt5311514.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/mMtUybQ6hL24FXo0F3Z4j2KG7kZ.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/zKI7UKmsB5ywy6Rjs3wWvBfhafJ.png",
-      "description": "When a comet falls to earth amongst a small mountain village, time and space suddenly reverse course, and two young strangers wake up in each other’s bodies.",
-      "genres": [
-        "Anime",
-        "Drama",
-        "Fantasy",
-        "Romance"
-      ],
-      "year": "2016",
-      "releaseInfo": "2016",
-      "imdbRating": "8.4",
-      "runtime": "1h50min",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:11614",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2006",
+      "imdbRating": "7.4"
     },
     {
       "id": "tt0411008",
       "type": "series",
       "name": "Lost",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0411008.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/73739-34.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/73739/clearlogo/622b30b555156.png",
-      "description": "After their plane, Oceanic Air flight 815, tore apart whilst thousands of miles off course, the survivors find themselves on a mysterious deserted island where they soon find out they are not alone.",
+      "background": "https://image.tmdb.org/t/p/w780/yUOFocKDW7MCC5isx4FK8A68QFp.jpg",
+      "description": "Stripped of everything, the survivors of a horrific plane crash must work together to stay alive. But the island holds many secrets.",
       "genres": [
-        "Science Fiction",
-        "Fantasy",
-        "Drama",
-        "Adventure",
-        "Action",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2004",
-      "releaseInfo": "2004-2010",
-      "imdbRating": "8.3",
-      "runtime": "45min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt33296751",
-      "type": "movie",
-      "name": "Tuner",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33296751.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/rwqQn4F32WTyl1kRob86rRBCj90.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/1vVrJNMQNAG1OPXUzx8jH0PvdJL.png",
-      "description": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "7.3",
-      "runtime": "1h48min",
-      "behaviorHints": {
-        "defaultVideoId": "tt33296751",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt2234222",
-      "type": "series",
-      "name": "Orphan Black",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2234222.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/260315-16.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/260315/clearlogo/611b692000515.png",
-      "description": "A streetwise hustler is pulled into a compelling conspiracy after witnessing the suicide of a girl who looks just like her.",
-      "genres": [
-        "Science Fiction",
-        "Drama",
-        "Thriller"
-      ],
-      "year": "2013",
-      "releaseInfo": "2013-2017",
-      "imdbRating": "8.3",
-      "runtime": "43min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:198375",
-      "type": "movie",
-      "name": "The Garden of Words",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2591814.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/qMNmdJG0WFNXcI6hfZMQH0geHc5.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/8Icjr8K9YQ1zV0ADwKvWx2i3gB2.png",
-      "description": "Takao, a 15-year-old who is training to be a shoemaker, decides to skip school on a rainy day to design shoes at Shinjuku Gyoen National Garden.  There he meets a mysterious 27-year-old woman, Yukino.  The two end up developing an unlikely friendship, meeting again in the same place repeatedly, but only on rainy days.",
-      "genres": [
-        "Animation",
-        "Anime",
-        "Drama",
-        "Romance"
-      ],
-      "year": "2013",
-      "releaseInfo": "2013",
-      "imdbRating": "7.4",
-      "runtime": "46min",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:7515",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt2699128",
-      "type": "series",
-      "name": "The Leftovers",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2699128.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/269689-8.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/269689/clearlogo/611b7d64be62e.png",
-      "description": "Three years after the disappearance of two percent of the global population, a group of people in a small New York community try to continue their lives while coping with the tragedy of the unexplained nature of the event.",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Mystery"
-      ],
-      "year": "2014",
-      "releaseInfo": "2014-2017",
-      "imdbRating": "8.3",
-      "runtime": "58min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt1454468",
-      "type": "movie",
-      "name": "Gravity",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1454468.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/a2n6bKD7qhCPCAEALgsAhWOAQcc.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/xUJEJHI8kJsYfFVAEzxxfCzRuC2.png",
-      "description": "Dr Ryan Stone, an engineer on her first space mission, and Matt Kowalski, an astronaut on his final expedition, have to survive in space after they are hit by debris while spacewalking.",
-      "genres": [
-        "Science Fiction",
-        "Thriller",
+        "Mystery",
+        "Action & Adventure",
         "Drama"
       ],
-      "year": "2013",
-      "releaseInfo": "2013",
-      "imdbRating": "7.7",
-      "runtime": "1h31min",
-      "behaviorHints": {
-        "defaultVideoId": "tt1454468",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2004",
+      "imdbRating": "8.0"
     },
     {
-      "id": "tt2431438",
-      "type": "series",
-      "name": "Sense8",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2431438.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/5b9f38944aa69.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/268156/clearlogo/611b867ed111a.png",
-      "description": "A group of people around the world are suddenly linked mentally, and must find a way to survive being hunted by those who see them as a threat to the world's order.",
-      "genres": [
-        "Science Fiction",
-        "Drama",
-        "Suspense",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2015",
-      "releaseInfo": "2015-2018",
-      "imdbRating": "8.2",
-      "runtime": "1h2min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tmdb:378064",
+      "id": "tt1675434",
       "type": "movie",
-      "name": "A Silent Voice",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt5323662.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/5lAMQMWpXMsirvtLLvW7cJgEPkU.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/59w18SQ1tkOB3V11Gqo4vvMMego.png",
-      "description": "A former class bully reaches out to the deaf girl he'd tormented in grade school. He feels unworthy of redemption but tries to make things right.",
-      "genres": [
-        "Animation",
-        "Anime",
-        "Drama",
-        "Romance"
-      ],
-      "year": "2016",
-      "releaseInfo": "2016",
-      "imdbRating": "8.2",
-      "runtime": "2h10min",
-      "behaviorHints": {
-        "defaultVideoId": "kitsu:10028",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt2879552",
-      "type": "series",
-      "name": "11.22.63",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2879552.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/301824-5.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/301824/clearlogo/611bab8ab0ae1.png",
-      "description": "Jake Epping, an ordinary high school teacher, is presented with a chance to change history. When a longtime friend shows Jake how to travel back in time, he tasks Jake with a mission he has been trying in vain to complete: stopping the assassination of John F. Kennedy on Nov. 22, 1963. Jake quickly learns that the past does not want to be changed, and that his attempts to divert the course of history can quickly turn dangerous.",
-      "genres": [
-        "Science Fiction",
-        "Mini-Series",
-        "Drama",
-        "Thriller",
-        "Romance",
-        "Mystery"
-      ],
-      "year": "2016",
-      "releaseInfo": "2016",
-      "imdbRating": "8",
-      "runtime": "55min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt1392214",
-      "type": "movie",
-      "name": "Prisoners",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1392214.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/yKsMvfVx8vrvAM6NQSTEX0rBmMK.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/aKZAoC9PYqAu6auDHhi9iryj6D5.png",
-      "description": "Keller Dover is facing every parent’s worst nightmare. His six-year-old daughter, Anna, is missing, together with her young friend, Joy, and as minutes turn to hours, panic sets in. The only lead is a dilapidated RV that had earlier been parked on their street.",
+      "name": "The Intouchables",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1675434.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/cK070s3Qdn1Ib7Gq8RgIyJKgvu3.jpg",
+      "description": "A true story of two men who should never have met – a quadriplegic aristocrat who was injured in a paragliding accident and a young man from the projects.",
       "genres": [
         "Drama",
-        "Thriller",
-        "Crime"
+        "Comedy"
       ],
-      "year": "2013",
-      "releaseInfo": "2013",
-      "imdbRating": "8.2",
-      "runtime": "2h33min",
-      "behaviorHints": {
-        "defaultVideoId": "tt1392214",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2011",
+      "imdbRating": "8.3"
     },
     {
       "id": "tt14688458",
       "type": "series",
       "name": "Silo",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt14688458.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/403245/backgrounds/645cd3cf8bd5e.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/403245/clearlogo/6455710e48c96.png",
+      "background": "https://image.tmdb.org/t/p/w780/uTWhbLc7Bj4qNSdW3ZvZKL8cOHv.jpg",
       "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "genres": [
-        "Science Fiction",
+        "Sci-Fi & Fantasy",
         "Drama"
       ],
-      "year": "2023",
-      "releaseInfo": "2023-",
-      "imdbRating": "8.1",
-      "runtime": "50min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2023",
+      "imdbRating": "8.2"
     },
     {
-      "id": "tt3659388",
+      "id": "tt33311244",
       "type": "movie",
-      "name": "The Martian",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt3659388.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/lzMS0CI3FLQYC5EgJoWeIaEt0lm.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/7v2v9WdCPZCHWrWZwsIvooZty7k.png",
-      "description": "During a manned mission to Mars, Astronaut Mark Watney is presumed dead after a fierce storm and left behind by his crew. But Watney has survived and finds himself stranded and alone on the hostile planet. With only meager supplies, he must draw upon his ingenuity, wit and spirit to subsist and find a way to signal to Earth that he is alive.",
+      "name": "Our Fault",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33311244.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
+      "description": "Jenna and Lion's wedding brings about the long-awaited reunion between Noah and Nick after their breakup. Nick's inability to forgive Noah stands as an insurmountable barrier. He, heir to his grandfather's businesses, and she, starting her professional life, resist fueling a flame that's still alive. But now that their paths have crossed again, will love be stronger than resentment?",
       "genres": [
-        "Science Fiction",
-        "Drama",
-        "Adventure"
+        "Romance",
+        "Drama"
       ],
-      "year": "2015",
-      "releaseInfo": "2015",
-      "imdbRating": "8",
-      "runtime": "2h21min",
-      "behaviorHints": {
-        "defaultVideoId": "tt3659388",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2025",
+      "imdbRating": "7.4"
     },
     {
-      "id": "tt1551632",
+      "id": "tt3107288",
       "type": "series",
-      "name": "Rizzoli & Isles",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1551632.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/161461-4.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/161461/clearlogo/611b63b587065.png",
-      "description": "Boston detective Jane Rizzoli and medical examiner Maura Isles are complete opposites and good friends who solve crimes and bust some of Boston’s most notorious criminals. Jane and Maura often find themselves working together as both use their brilliant minds and expertise to figure Boston’s most complex cases.",
+      "name": "The Flash",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt3107288.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/gFkHcIh7iE5G0oVOgpmY8ONQjhl.jpg",
+      "description": "After being struck by lightning, CSI investigator Barry Allen awakens from a nine-month coma to discover he has been  granted the gift of super speed.  Teaming up with S.T.A.R. Labs, Barry takes on the persona of The Flash, the Fastest  Man Alive, to protect his city.",
       "genres": [
         "Drama",
-        "Crime",
-        "Suspense",
-        "Mystery"
+        "Sci-Fi & Fantasy"
       ],
-      "year": "2010",
-      "releaseInfo": "2010-2016",
-      "imdbRating": "7.7",
-      "runtime": "45min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2014",
+      "imdbRating": "7.8"
     },
     {
-      "id": "tt0212720",
+      "id": "tt36958376",
       "type": "movie",
-      "name": "A.I. Artificial Intelligence",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0212720.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/xBtDksUd6ez4NQ04RWyaqUWYIwM.png",
-      "description": "David, a robotic boy—the first of his kind programmed to love—is adopted as a test case by a Cybertronics employee and his wife. Though he gradually becomes their child, a series of unexpected circumstances make this life impossible for David.",
+      "name": "Your Fault: London",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36958376.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/wQOhbCP6H8bO5ddlXDZT207orew.jpg",
+      "description": "Nick and Noah are both embarking on life-changing adventures that are threatening to pull them apart—Nick in business with his father and Noah starting a fresh chapter at Oxford University. Now living separate lives, and meeting new people, they find themselves entangled in temptations, rivalries, and betrayals and their bond is tested like never before. As secrets unravel and temptation rises, they must fight to hold onto each other—or risk losing everything.",
       "genres": [
-        "Drama",
-        "Science Fiction",
-        "Adventure"
+        "Romance",
+        "Drama"
       ],
-      "year": "2001",
-      "releaseInfo": "2001",
-      "imdbRating": "7.2",
-      "runtime": "2h26min",
-      "behaviorHints": {
-        "defaultVideoId": "tt0212720",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2026",
+      "imdbRating": "7.5"
     },
     {
       "id": "tt18923754",
       "type": "series",
       "name": "Daredevil: Born Again",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt18923754.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/422712/backgrounds/69bef1d230b9d.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/422712/clearlogo/67e60e559c1f8.png",
-      "description": "Matt Murdock finds himself on a collision course with Wilson Fisk when their past identities begin to emerge.",
+      "background": "https://image.tmdb.org/t/p/w780/qrTAc0ZtQ859Qu5O8cixJzNJpQs.jpg",
+      "description": "Matt Murdock, a blind lawyer with heightened abilities, is fighting for justice through his bustling law firm, while former mob boss Wilson Fisk pursues his own political endeavors in New York. When their past identities begin to emerge, both men find themselves on an inevitable collision course.",
       "genres": [
         "Drama",
-        "Action"
+        "Action & Adventure",
+        "Crime"
       ],
-      "year": "2025",
-      "releaseInfo": "2025-",
-      "imdbRating": "8.1",
-      "runtime": "48min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt0816692",
-      "type": "movie",
-      "name": "Interstellar",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0816692.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/2ssWTSVklAEc98frZUQhgtGHx7s.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/zEewiIVx9rDfc1HahWPNk4uyJdP.png",
-      "description": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Science Fiction"
-      ],
-      "year": "2014",
-      "releaseInfo": "2014",
-      "imdbRating": "8.7",
-      "runtime": "2h49min",
-      "behaviorHints": {
-        "defaultVideoId": "tt0816692",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt34771210",
-      "type": "series",
-      "name": "I Will Find You",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34771210.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/457173/backgrounds/69fcadf9a753c.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/457173/clearlogo/6a19fe850c3d6.png",
-      "description": "An innocent father serves a life sentence for the murder of his own son. When he receives evidence that his son my still be alive, he is determined to break out of prison to discover the truth.",
-      "genres": [
-        "Mini-Series",
-        "Drama",
-        "Thriller"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "7.2",
-      "runtime": "41min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt5580390",
-      "type": "movie",
-      "name": "The Shape of Water",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt5580390.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/abirSHwWgKajV3hXhaIR5lcCIXe.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/o0UhzgjUf5FTN0MUyMX4fOI9una.png",
-      "description": "An other-worldly story, set against the backdrop of Cold War era America circa 1962, where a mute janitor working at a lab falls in love with an amphibious man being held captive there and devises a plan to help him escape.",
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Romance"
-      ],
-      "year": "2017",
-      "releaseInfo": "2017",
-      "imdbRating": "7.3",
-      "runtime": "2h3min",
-      "behaviorHints": {
-        "defaultVideoId": "tt5580390",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt1196946",
-      "type": "series",
-      "name": "The Mentalist",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1196946.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/82459-3.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/82459/clearlogo/611b50510d700.png",
-      "description": "When mentalist Patrick Jane insults a vengeful serial killer, Red John, his loved ones are brutally killed.  Faced with the horrifying consequences of misusing his gift for observation and misdirection, Jane lends his skills to the California Bureau of Investigation, all the while hoping that his connections within the CBI will give him the opportunity to track down and revenge himself upon Red John.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Suspense",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2008",
-      "releaseInfo": "2008-2015",
-      "imdbRating": "8.2",
-      "runtime": "43min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt1714915",
-      "type": "movie",
-      "name": "Only Lovers Left Alive",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1714915.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/dwFvtGZ6fUsU9YRWHXbAOXwNQkq.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/rnX5Y15RwL8cBwy1SPSjiQIzOqy.png",
-      "description": "A depressed musician reunites with his lover. However, their romance, already played over several centuries, is disrupted by the arrival of her uncontrollable younger sister.",
-      "genres": [
-        "Drama",
-        "Romance",
-        "Fantasy"
-      ],
-      "year": "2013",
-      "releaseInfo": "2013",
-      "imdbRating": "7.2",
-      "runtime": "2h3min",
-      "behaviorHints": {
-        "defaultVideoId": "tt1714915",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt0452046",
-      "type": "series",
-      "name": "Criminal Minds",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0452046.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/75710-16.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/75710/clearlogo/611b51fd85c1d.png",
-      "description": "Special Agents Jason Gideon and Aaron Hotchner head up the FBI's most elite profiling team, the Behavioral Analysis Unit, the experts in analyzing criminal psychology. With each mind-blowing case, they put their lives on the line as they travel the country, matching wits with the most ruthless criminals on Earth.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Suspense",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2005",
-      "releaseInfo": "2005-",
-      "imdbRating": "8.1",
-      "runtime": "46min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt0457430",
-      "type": "movie",
-      "name": "Pan's Labyrinth",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0457430.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/6G6nqSW9S7EHA9HrYl0Z8uo2H7f.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/uWwaa2Dm9RHYyKNCdDgcblxzzHF.png",
-      "description": "In post–civil war Spain, 10-year-old Ofelia moves with her pregnant mother to live under the control of her cruel stepfather. Drawn into a mysterious labyrinth, she meets a faun who reveals that she may be a lost princess from an underground kingdom. To return to her true father, she must complete a series of surreal and perilous tasks that blur the line between reality and fantasy.",
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "War"
-      ],
-      "year": "2006",
-      "releaseInfo": "2006",
-      "imdbRating": "8.2",
-      "runtime": "1h58min",
-      "behaviorHints": {
-        "defaultVideoId": "tt0457430",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt0773262",
-      "type": "series",
-      "name": "Dexter",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0773262.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/79349-16.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/79349/clearlogo/611b48a0840d5.png",
-      "description": "Dexter Morgan is a Miami-based blood spatter expert who doesn’t just solve murders; he commits them too. In fact, he’s a serial killer — but he only murders the guilty, so he feels justified with his lifestyle choices. His policewoman sister and his cop co-workers have no idea Dexter lives a double life; however, adoptive father Harry knows his secret, and does, in fact, help Dexter hone his “skills.” It’s a unique brand of justice for which charming Dexter feels a psychological hunger.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Suspense",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2006",
-      "releaseInfo": "2006-2013",
-      "imdbRating": "8.6",
-      "runtime": "53min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt1139797",
-      "type": "movie",
-      "name": "Let the Right One In",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1139797.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/gH3lvKcY6EDMXrUtqZEiHPVV91n.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/1uvpiqtgjsTQbYrMtKK80VIr9sU.png",
-      "description": "When Oskar, a sensitive, bullied 12-year-old boy, meets his new neighbor, the mysterious and moody Eli, they strike up a friendship. Initially reserved with each other, Oskar and Eli slowly form a close bond, but it soon becomes apparent that she is no ordinary young girl.",
-      "genres": [
-        "Horror",
-        "Drama"
-      ],
-      "year": "2008",
-      "releaseInfo": "2008",
-      "imdbRating": "7.8",
-      "runtime": "1h55min",
-      "behaviorHints": {
-        "defaultVideoId": "tt1139797",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt1475582",
-      "type": "series",
-      "name": "Sherlock",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1475582.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/176941-54.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/176941/clearlogo/611b5c26c7950.png",
-      "description": "Sherlock Holmes and his partner Dr. John Watson solve crimes in 21st century London.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Suspense",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2010",
-      "releaseInfo": "2010-2017",
-      "imdbRating": "9",
-      "runtime": "1h28min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt0470752",
-      "type": "movie",
-      "name": "Ex Machina",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0470752.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/uqOuJ50EtTj7kkDIXP8LCg7G45D.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/yqsWGuoqhSgLywml6j497fBORYl.png",
-      "description": "Caleb, a coder at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
-      "genres": [
-        "Drama",
-        "Science Fiction"
-      ],
-      "year": "2015",
-      "releaseInfo": "2015",
-      "imdbRating": "7.7",
-      "runtime": "1h48min",
-      "behaviorHints": {
-        "defaultVideoId": "tt0470752",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:13916",
-      "type": "series",
-      "name": "Death Note",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0877057.jpg?rs=TR",
-      "background": "https://media.kitsu.app/anime/cover_images/1376/original.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/79481/clearlogo/611b70de30ea1.png",
-      "description": "A shinigami, as a god of death, can kill any person—provided they see their victim's face and write their victim's name in a notebook called a Death Note. One day, Ryuk, bored by the shinigami lifestyle and interested in seeing how a human would use a Death Note, drops one into the human realm.\n\nHigh school student and prodigy Light Yagami stumbles upon the Death Note and—since he deplores the state of the world—tests the deadly notebook by writing a criminal's name in it. When the criminal dies immediately following his experiment with the Death Note, Light is greatly surprised and quickly recognizes how devastating the power that has fallen into his hands could be.\n\nWith this divine capability, Light decides to extinguish all criminals in order to build a new world where crime does not exist and people worship him as a god. Police, however, quickly discover that a serial killer is targeting criminals and, consequently, try to apprehend the culprit. To do this, the Japanese investigators count on the assistance of the best detective in the world: a young and eccentric man known only by the name of L.\n\n(Source: MAL Rewrite)",
-      "genres": [
-        "Earth",
-        "Japan",
-        "Asia",
-        "Thriller",
-        "Detective",
-        "Alternative Present",
-        "Plot Continuity",
-        "Present",
-        "Cops",
-        "Psychological",
-        "Mystery",
-        "Shounen",
-        "Supernatural",
-        "Drama"
-      ],
-      "year": "2006",
-      "releaseInfo": "2006-2007",
-      "imdbRating": "8.9",
-      "runtime": "23min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt0235198",
-      "type": "movie",
-      "name": "Audition",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0235198.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/xmtmZc5aylqDMRKYlU8pmsgG0HF.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/qmsugEJYAPJfmIRE32LSgJI7bGz.png",
-      "description": "Seven years after the death of his wife, widower Shigeharu seeks advice on how to find a new wife from a colleague. Taking advantage of their position as a film company, they stage an audition. Interviewing a series of women, Shigeharu is enchanted by the quiet Asami. But soon things take a twisted turn as Asami isn’t what she seems to be.",
-      "genres": [
-        "Horror",
-        "Drama"
-      ],
-      "year": "2000",
-      "releaseInfo": "2000",
-      "imdbRating": "7.1",
-      "runtime": "1h55min",
-      "behaviorHints": {
-        "defaultVideoId": "tt0235198",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt2191671",
-      "type": "series",
-      "name": "Elementary",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2191671.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/255316-9.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/255316/clearlogo/611b566023829.png",
-      "description": "Following his fall from grace in London and a stint in rehab, eccentric Sherlock escapes to Manhattan where his wealthy father forces him to live with his worst nightmare – a sober companion, Dr. Watson. A successful surgeon until she lost a patient and her license three years ago, Watson views her current job as another opportunity to help people, as well as paying a penance. Holmes resumes his work as a police consultant in New York City and Watson has no choice but to accompany her irascible new charge on his jobs. But Sherlock finds her medical background helpful, and Watson realizes she has a knack for playing investigator.\r\nWith the mischievous Sherlock Holmes now running free in New York solving crimes, it’s simple deduction that he’s going to need someone to keep him grounded, and it’s elementary that it’s a job for Watson.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Suspense",
-        "Mystery"
-      ],
-      "year": "2012",
-      "releaseInfo": "2012-2019",
-      "imdbRating": "7.9",
-      "runtime": "45min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt1182345",
-      "type": "movie",
-      "name": "Moon",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1182345.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/mvUAo9ACgmLpS4Ofc2IwD4n7WCt.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/qMP5h6CTp5VC0weghwL0vE4t1pX.png",
-      "description": "With only three weeks left in his three-year contract, Sam Bell is eager to return to Earth. Stationed alone at a Moon-based facility with his computer assistant GERTY, an unexpected accident sets off a series of unsettling events that shake his isolation.",
-      "genres": [
-        "Science Fiction",
-        "Drama"
-      ],
-      "year": "2009",
-      "releaseInfo": "2009",
-      "imdbRating": "7.8",
-      "runtime": "1h37min",
-      "behaviorHints": {
-        "defaultVideoId": "tt1182345",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt3502248",
-      "type": "series",
-      "name": "Bosch",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt3502248.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/277928-1.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/277928/clearlogo/611b9d24da19f.png",
-      "description": "An L.A.P.D. homicide detective works to solve the murder of a thirteen-year-old boy while standing trial in federal court for the murder of a serial killer.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller"
-      ],
-      "year": "2015",
-      "releaseInfo": "2015-2021",
-      "imdbRating": "8.5",
-      "runtime": "45min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt1856101",
-      "type": "movie",
-      "name": "Blade Runner 2049",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1856101.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/mVr0UiqyltcfqxbAUcLl9zWL8ah.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/6C3wm76cwP1x3VlPKX4dVKDNUPb.png",
-      "description": "Thirty years after the events of the first film, a new blade runner, LAPD Officer K, unearths a long-buried secret that has the potential to plunge what's left of society into chaos. K's discovery leads him on a quest to find Rick Deckard, a former LAPD blade runner who has been missing for 30 years.",
-      "genres": [
-        "Science Fiction",
-        "Drama"
-      ],
-      "year": "2017",
-      "releaseInfo": "2017",
-      "imdbRating": "8",
-      "runtime": "2h44min",
-      "behaviorHints": {
-        "defaultVideoId": "tt1856101",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt1733785",
-      "type": "series",
-      "name": "The Bridge (2011)",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1733785.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/252019-12.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/252019/clearlogo/611b92102c290.png",
-      "description": "A body is found on the bridge from Malmö to Copenhagen causing a jurisdiction issue. Forced to work together, a Swedish and a Danish police detective are on the hunt for a killer.",
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2011",
-      "releaseInfo": "2011-2018",
-      "imdbRating": "8.6",
-      "runtime": "1h",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt33612209",
-      "type": "movie",
-      "name": "The Devil Wears Prada 2",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33612209.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/v6TyxpV3ZXG28MXTaHCXTmXc0B.png",
-      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "6.5",
-      "runtime": "1h59min",
-      "behaviorHints": {
-        "defaultVideoId": "tt33612209",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt1637727",
-      "type": "series",
-      "name": "The Killing (US)",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1637727.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/210171-5.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/210171/clearlogo/611b6ea5307c8.png",
-      "description": "The Killing is an American crime drama television series based on the Danish television series Forbrydelsen. Set in Seattle Washington, the series follows the various murder investigations by homicide detectives Sarah Linden and Stephen Holder.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Suspense",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2011",
-      "releaseInfo": "2011-2014",
-      "imdbRating": "8.3",
-      "runtime": "50min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt5083738",
-      "type": "movie",
-      "name": "The Favourite",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt5083738.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/iSskYDN193CJfTbSpFfscSwZ9Sx.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/mL4MrYmINzq9lThbf9kA81OouX6.png",
-      "description": "England, early 18th century. The close relationship between Queen Anne and Sarah Churchill is threatened by the arrival of Sarah's cousin, Abigail Hill, resulting in a bitter rivalry between the two cousins to be the Queen's favourite.",
-      "genres": [
-        "History",
-        "Comedy",
-        "Drama"
-      ],
-      "year": "2018",
-      "releaseInfo": "2018",
-      "imdbRating": "7.5",
-      "runtime": "2h",
-      "behaviorHints": {
-        "defaultVideoId": "tt5083738",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt2249364",
-      "type": "series",
-      "name": "Broadchurch",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2249364.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/266398-14.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/266398/clearlogo/611b8946ec892.png",
-      "description": "The murder of a young boy in a small coastal town brings a media frenzy, which threatens to tear the community apart.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
-      ],
-      "year": "2013",
-      "releaseInfo": "2013-2017",
-      "imdbRating": "8.3",
-      "runtime": "46min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt1485796",
-      "type": "movie",
-      "name": "The Greatest Showman",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1485796.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/lrNKm3HNvGdZoAfiBKu7b04FLHN.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/301uXAEk7GMaoQah4GSSgkzjp8L.png",
-      "description": "The story of American showman P.T. Barnum, founder of the circus that became the famous traveling Ringling Bros. and Barnum & Bailey Circus.",
-      "genres": [
-        "Drama"
-      ],
-      "year": "2017",
-      "releaseInfo": "2017",
-      "imdbRating": "7.5",
-      "runtime": "1h45min",
-      "behaviorHints": {
-        "defaultVideoId": "tt1485796",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt2303687",
-      "type": "series",
-      "name": "Line of Duty",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2303687.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/260092-6.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/260092/clearlogo/611bcbf2175b2.png",
-      "description": "A drama about the investigations of AC-12, a controversial police anticorruption unit.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Thriller",
-        "Mystery"
-      ],
-      "year": "2012",
-      "releaseInfo": "2012-2021",
-      "imdbRating": "8.7",
-      "runtime": "1h",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2025",
+      "imdbRating": "8.2"
     },
     {
       "id": "tt32278481",
       "type": "movie",
       "name": "Enola Holmes 3",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32278481.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/pVeJDWwmgXID7Bs8u0d21pr55Oj.png",
+      "background": "https://image.tmdb.org/t/p/w780/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
       "description": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
       "genres": [
         "Adventure",
         "Crime",
         "Mystery"
       ],
-      "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "5.8",
-      "runtime": "1h49min",
-      "behaviorHints": {
-        "defaultVideoId": "tt32278481",
-        "hasScheduledVideos": false
-      }
+      "imdbRating": "7.0"
     },
     {
-      "id": "tt2401256",
+      "id": "tt1196946",
       "type": "series",
-      "name": "The Night Of",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2401256.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/310516/backgrounds/66bfcd2826a0d.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/310516/clearlogo/611bc7f92667b.png",
-      "description": "After a mind-altering night of drugs and passion, Naz finds himself in the cross-hairs of a very life changing situation.",
+      "name": "The Mentalist",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1196946.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/q3pCsNvJ7CmdJUz2sJEEUY3pOPC.jpg",
+      "description": "Patrick Jane, a former celebrity psychic medium, uses his razor sharp skills of observation and expertise at \"reading\" people to solve serious crimes with the California Bureau of Investigation.",
       "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "releaseInfo": "2008",
+      "imdbRating": "8.4"
+    },
+    {
+      "id": "tt33046197",
+      "type": "movie",
+      "name": "The Wrecking Crew",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33046197.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/cz4vLJrmaV1zJlRYbxqtvLzeLWB.jpg",
+      "description": "Estranged half-brothers Jonny and James reunite after their father's mysterious death. As they search for the truth, buried secrets reveal a conspiracy threatening to tear their family apart.",
+      "genres": [
+        "Action",
+        "Comedy",
         "Crime",
         "Mystery"
       ],
-      "year": "2016",
-      "releaseInfo": "2016",
-      "imdbRating": "8.4",
-      "runtime": "1h6min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt11378946",
-      "type": "movie",
-      "name": "Michael",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt11378946.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/wJHlHY0t6iBq6JRyCZNCH7cKzl1.png",
-      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "genres": [
-        "Music",
-        "Drama"
-      ],
-      "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "runtime": "2h8min",
-      "behaviorHints": {
-        "defaultVideoId": "tt11378946",
-        "hasScheduledVideos": false
-      }
+      "imdbRating": "7.1"
     },
     {
-      "id": "tt10155688",
+      "id": "tt0203259",
       "type": "series",
-      "name": "Mare of Easttown",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt10155688.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/370112/backgrounds/606702087af85.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/370112/clearlogo/611caca4f02b6.png",
-      "description": "A detective in a small Pennsylvania town investigates a local murder while trying to keep her life from falling apart.",
+      "name": "Law & Order: Special Victims Unit",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0203259.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/obtdxPgmfykYwVnvuYXC5f2xKlQ.jpg",
+      "description": "In the criminal justice system, sexually-based offenses are considered especially heinous. In New York City, the dedicated detectives who investigate these vicious felonies are members of an elite squad known as the Special Victims Unit. These are their stories.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "releaseInfo": "1999",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt7846844",
+      "type": "movie",
+      "name": "Enola Holmes",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt7846844.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/kMe4TKMDNXTKptQPAdOF0oZHq3V.jpg",
+      "description": "While searching for her missing mother, intrepid teen Enola Holmes uses her sleuthing skills to outsmart big brother Sherlock and help a runaway lord.",
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Crime"
+      ],
+      "releaseInfo": "2020",
+      "imdbRating": "7.2"
+    },
+    {
+      "id": "tt0452046",
+      "type": "series",
+      "name": "Criminal Minds",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0452046.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/tUtXfyVy54BY7eJnRtI8Xnmr1ZL.jpg",
+      "description": "An elite team of FBI profilers analyze the country's most twisted criminal minds, anticipating their next moves before they strike again. The Behavioral Analysis Unit's most experienced agent is David Rossi, a founding member of the BAU who returns to help the team solve new cases.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "releaseInfo": "2005",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt34956443",
+      "type": "movie",
+      "name": "Ne Zha 2",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34956443.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/zxi6WQPVc0uQAG5TtLsKvxYHApC.jpg",
+      "description": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+      "genres": [
+        "Animation",
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0773262",
+      "type": "series",
+      "name": "Dexter",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0773262.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/aSGSxGMTP893DPMCvMl9AdnEICE.jpg",
+      "description": "Dexter Morgan, a blood spatter pattern analyst for the Miami Metro Police also leads a secret life as a serial killer, hunting down criminals who have slipped through the cracks of justice.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "releaseInfo": "2006",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt32565993",
+      "type": "movie",
+      "name": "The Sheep Detectives",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32565993.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "genres": [
+        "Mystery",
+        "Comedy",
+        "Family"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt2741602",
+      "type": "series",
+      "name": "The Blacklist",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2741602.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/2eIlCirgcvEwmCSYh2wDfz5Sxvz.jpg",
+      "description": "Raymond \"Red\" Reddington, one of the FBI's most wanted fugitives, surrenders in person at FBI Headquarters in Washington, D.C. He claims that he and the FBI have the same interests: bringing down dangerous criminals and terrorists. In the last two decades, he's made a list of criminals and terrorists that matter the most but the FBI cannot find because it does not know they exist. Reddington calls this \"The Blacklist\". Reddington will co-operate, but insists that he will speak only to Elizabeth Keen, a rookie FBI profiler.",
       "genres": [
         "Drama",
         "Crime",
         "Mystery"
       ],
-      "year": "2021",
-      "releaseInfo": "2021",
-      "imdbRating": "8.4",
-      "runtime": "1h",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2013",
+      "imdbRating": "7.6"
     },
     {
-      "id": "tt2494376",
+      "id": "tt5113044",
       "type": "movie",
-      "name": "Justice League Dark",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2494376.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/2idkeA6HJ9F7IxeP6zbU4xBU35y.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/bf6augHypsvafjxoBz687aDVK4D.png",
-      "description": "When innocent civilians begin committing unthinkable crimes across Metropolis, Gotham City and beyond, Batman must call upon mystical counterparts to eradicate this demonic threat to the planet; enter Justice League Dark. This team of Dark Arts specialists must unravel the mystery of Earth's supernatural plague and contend with the rising, powerful villainous forces behind the siege—before it's too late for all of mankind.",
+      "name": "Minions: The Rise of Gru",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt5113044.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/wZS4xSfPtk1NPQnx9zsT5R2WhCu.jpg",
+      "description": "A fanboy of a supervillain supergroup known as the Vicious 6, Gru hatches a plan to become evil enough to join them, with the backup of his followers, the Minions.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Science Fiction",
+        "Crime",
+        "Family"
+      ],
+      "releaseInfo": "2022",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt0247082",
+      "type": "series",
+      "name": "CSI: Crime Scene Investigation",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0247082.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/cvlLBcQWpO9X21jDHhgPJnE2aVq.jpg",
+      "description": "A Las Vegas team of forensic investigators are trained to solve criminal cases by scouring the crime scene, collecting irrefutable evidence and finding the missing pieces that solve the mystery.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "releaseInfo": "2000",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt13622970",
+      "type": "movie",
+      "name": "Moana 2",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt13622970.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/zo8CIjJ2nfNOevqNajwMRO6Hwka.jpg",
+      "description": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "releaseInfo": "2024",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0118401",
+      "type": "series",
+      "name": "Midsomer Murders",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0118401.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/qVmgq1KXBp6BF2EqYPPaUG9iUGy.jpg",
+      "description": "The peacefulness of the Midsomer community is shattered by violent crimes, suspects are placed under suspicion, and it is up to a veteran DCI and his young sergeant to calmly and diligently eliminate the innocent and ruthlessly pursue the guilty. ",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "releaseInfo": "1997",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0126029",
+      "type": "movie",
+      "name": "Shrek",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0126029.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/sRvXNDItGlWCqtO3j6wks52FmbD.jpg",
+      "description": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Fantasy",
+        "Adventure",
+        "Family"
+      ],
+      "releaseInfo": "2001",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt2861424",
+      "type": "series",
+      "name": "Rick and Morty",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2861424.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "description": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "releaseInfo": "2013",
+      "imdbRating": "8.7"
+    },
+    {
+      "id": "tt26443616",
+      "type": "movie",
+      "name": "Hoppers",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt26443616.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt27557289",
+      "type": "series",
+      "name": "The Boroughs",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27557289.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/iftYIh1OjJb99EOTHIrDcx59zWb.jpg",
+      "description": "In a seemingly perfect retirement community, a crew of unlikely heroes must stop an otherworldly threat from stealing the one thing they don't have: time.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Mystery"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt29552248",
+      "type": "movie",
+      "name": "Swapped",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt29552248.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/zMwhWailP1WY7sb6AoE6b8ugoy.jpg",
+      "description": "A small woodland creature and a majestic bird, two natural sworn enemies of the Valley, magically trade places and set off on an adventure of a lifetime to switch back. Their journey soon uncovers a greater threat—one that could endanger not only their species, but the entire valley they call home.",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "8.9"
+    },
+    {
+      "id": "tt13293588",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt13293588.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "description": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Sci-Fi & Fantasy"
+      ],
+      "releaseInfo": "2021",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt14205554",
+      "type": "movie",
+      "name": "KPop Demon Hunters",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt14205554.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/w3Bi0wygeFQctn6AqFTwhGNXRwL.jpg",
+      "description": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+      "genres": [
+        "Fantasy",
+        "Music",
+        "Comedy",
+        "Animation"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt0364845",
+      "type": "series",
+      "name": "NCIS",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0364845.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/nn3SuLTO4hum8yAxaY4ql8h6kRk.jpg",
+      "description": "From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has any connection to Navy and Marine Corps personnel, regardless of rank or position.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Action & Adventure"
+      ],
+      "releaseInfo": "2003",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt0198781",
+      "type": "movie",
+      "name": "Monsters, Inc.",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0198781.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/sDTnMOJ3H5wI38OxObmCtK7wfd5.jpg",
+      "description": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "releaseInfo": "2001",
+      "imdbRating": "7.9"
+    },
+    {
+      "id": "tt34809853",
+      "type": "series",
+      "name": "Teach You a Lesson",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34809853.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/vyG93jhmPL7tBIhRtCLa5mdBKob.jpg",
+      "description": "An inspector from the Educational Rights Protection Bureau (ERPB) who is authorized by the government to use physical intervention and unconventional methods to discipline delinquent students and reform the educational system.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "Comedy"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "9.5"
+    },
+    {
+      "id": "tt7510222",
+      "type": "movie",
+      "name": "Despicable Me 4",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt7510222.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/twsxsfao6ZOVvT8LfudH603MMi6.jpg",
+      "description": "Gru and Lucy and their girls—Margo, Edith and Agnes—welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Action",
+        "Science Fiction",
+        "Family"
+      ],
+      "releaseInfo": "2024",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt2306299",
+      "type": "series",
+      "name": "Vikings",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2306299.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/13kblIK8DnxMurcRDkeyy2sGR7v.jpg",
+      "description": "The adventures of Ragnar Lothbrok, the greatest hero of his age. The series tells the sagas of Ragnar's band of Viking brothers and his family, as he rises to become King of the Viking tribes. As well as being a fearless warrior, Ragnar embodies the Norse traditions of devotion to the gods. Legend has it that he was a direct descendant of Odin, the god of war and warriors.",
+      "genres": [
+        "Action & Adventure",
+        "Drama",
+        "War & Politics"
+      ],
+      "releaseInfo": "2013",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt4633694",
+      "type": "movie",
+      "name": "Spider-Man: Into the Spider-Verse",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt4633694.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/8mnXR9rey5uQ08rZAvzojKWbDQS.jpg",
+      "description": "Struggling to find his place in the world while juggling school and family, Brooklyn teenager Miles Morales is unexpectedly bitten by a radioactive spider and develops unfathomable powers just like the one and only Spider-Man. While wrestling with the implications of his new abilities, Miles discovers a super collider created by the madman Wilson \"Kingpin\" Fisk, causing others from across the Spider-Verse to be inadvertently transported to his dimension.",
       "genres": [
         "Animation",
         "Action",
         "Adventure",
-        "Fantasy",
-        "Science Fiction",
-        "Horror"
+        "Science Fiction"
       ],
-      "year": "2017",
-      "releaseInfo": "2017",
-      "imdbRating": "7",
-      "runtime": "1h16min",
-      "behaviorHints": {
-        "defaultVideoId": "tt2494376",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2018",
+      "imdbRating": "8.4"
     },
     {
-      "id": "tt2396135",
+      "id": "tt1190634",
       "type": "series",
-      "name": "Shetland",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2396135.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/261109/backgrounds/653d425cf35a8.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/261109/clearlogo/611bf87513b1f.png",
-      "description": "Set against the stark backdrop of Scotland's rugged coastline, DI Jimmy Perez and his team investigate murders in the small island community of Shetland.",
+      "name": "The Boys",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1190634.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
+      "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
       "genres": [
-        "Drama",
-        "Crime",
-        "Mystery"
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
       ],
-      "year": "2013",
-      "releaseInfo": "2013-",
-      "imdbRating": "8.3",
-      "runtime": "59min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2019",
+      "imdbRating": "8.4"
     },
     {
-      "id": "tt1213641",
+      "id": "tt9362722",
       "type": "movie",
-      "name": "First Man",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1213641.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/jrudoaXcoLyHRPdolyOGemXgPEs.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/tgImGhEuWqquAA22bxKlZi8gUPW.png",
-      "description": "A look at the life of the astronaut, Neil Armstrong, and the legendary space mission that led him to become the first man to walk on the Moon on July 20, 1969.",
+      "name": "Spider-Man: Across the Spider-Verse",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt9362722.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/9xfDWXAUbFXQK585JvByT5pEAhe.jpg",
+      "description": "After reuniting with Gwen Stacy, Brooklyn’s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse's very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
       "genres": [
-        "History",
+        "Animation",
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "releaseInfo": "2023",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt7587890",
+      "type": "series",
+      "name": "The Rookie",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt7587890.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/6iNWfGVCEfASDdlNb05TP5nG0ll.jpg",
+      "description": "Starting over isn't easy, especially for small-town guy John Nolan who, after a life-altering incident, is pursuing his dream of being an LAPD officer. As the force's oldest rookie, he's met with skepticism from some higher-ups who see him as just a walking midlife crisis.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Comedy"
+      ],
+      "releaseInfo": "2018",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt29623480",
+      "type": "movie",
+      "name": "The Wild Robot",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt29623480.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/mQZJoIhTEkNhCYAqcHrQqhENLdu.jpg",
+      "description": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "releaseInfo": "2024",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt0460627",
+      "type": "series",
+      "name": "Bones",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0460627.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/aSye04zKzWtUP3U6Cl4bOXc5Ih9.jpg",
+      "description": "Dr. Temperance Brennan and her colleagues at the Jeffersonian's Medico-Legal Lab assist Special Agent Seeley Booth with murder investigations when the remains are so badly decomposed, burned or destroyed that the standard identification methods are useless.",
+      "genres": [
+        "Crime",
         "Drama"
       ],
-      "year": "2018",
-      "releaseInfo": "2018",
-      "imdbRating": "7.3",
-      "runtime": "2h21min",
-      "behaviorHints": {
-        "defaultVideoId": "tt1213641",
-        "hasScheduledVideos": false
-      }
+      "releaseInfo": "2005",
+      "imdbRating": "8.2"
     },
     {
-      "id": "tt1474684",
+      "id": "tt2245084",
+      "type": "movie",
+      "name": "Big Hero 6",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2245084.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/4s2d3xdyqotiVNHTlTlJjrr3q0H.jpg",
+      "description": "A special bond develops between plus-sized inflatable robot Baymax, and prodigy Hiro Hamada, who team up with a group of friends to form a band of high-tech heroes.",
+      "genres": [
+        "Adventure",
+        "Family",
+        "Animation",
+        "Action",
+        "Comedy"
+      ],
+      "releaseInfo": "2014",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0098844",
       "type": "series",
-      "name": "Luther",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1474684.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/159591-4.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/159591/clearlogo/611b79b86f15b.png",
-      "description": "A dark psychological crime drama starring Idris Elba as Luther, a man struggling with his own terrible demons, who might be as dangerous as the depraved murderers he hunts.",
+      "name": "Law & Order",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0098844.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/tc7canPSAn2X14hYi6Rl3gZm1o4.jpg",
+      "description": "In cases ripped from the headlines, police investigate serious and often deadly crimes, weighing the evidence and questioning the suspects until someone is taken into custody. The district attorney's office then builds a case to convict the perpetrator by proving the person guilty beyond a reasonable doubt. Working together, these expert teams navigate all sides of the complex criminal justice system to make New York a safer place.",
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "releaseInfo": "1990",
+      "imdbRating": "7.3"
+    },
+    {
+      "id": "tt10676052",
+      "type": "movie",
+      "name": "The Fantastic 4: First Steps",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt10676052.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/s94NjfKkcSczZ1FembwmQZwsuwY.jpg",
+      "description": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt1586680",
+      "type": "series",
+      "name": "Shameless",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1586680.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/5s9XHTB9SLPdg3mNU6BlSLnZ9Qq.jpg",
+      "description": "Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be... perhaps better off. When Frank's not at the bar spending what little money they have, he's passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.",
       "genres": [
         "Drama",
-        "Crime",
-        "Suspense",
-        "Thriller",
-        "Mystery"
+        "Comedy"
       ],
-      "year": "2010",
-      "releaseInfo": "2010-2019",
-      "imdbRating": "8.4",
-      "runtime": "58min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
+      "releaseInfo": "2011",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt32141377",
+      "type": "movie",
+      "name": "28 Years Later: The Bone Temple",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32141377.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/hHDNOlATHhre4eZ7aYz5cdyJLik.jpg",
+      "description": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "7.1"
+    },
+    {
+      "id": "tt34991493",
+      "type": "series",
+      "name": "Dutton Ranch",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34991493.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "9.3"
+    },
+    {
+      "id": "tt6604188",
+      "type": "movie",
+      "name": "TRON: Ares",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt6604188.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/pUNfHmVqfwRdILhCkU8TdysVOXo.jpg",
+      "description": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Action"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt33546863",
+      "type": "series",
+      "name": "Off Campus",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33546863.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/52sp0vPhLOWrZ1QoZIWiapronM.jpg",
+      "description": "Hannah Wells tutors hockey captain Garrett Graham to win over her crush. Their deal becomes real connection as they face their pasts. Friends Logan, Dean, Tucker, and Allie navigate college life and love.",
+      "genres": [
+        "Drama"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "8.9"
+    },
+    {
+      "id": "tt0114709",
+      "type": "movie",
+      "name": "Toy Story",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0114709.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/3Rfvhy1Nl6sSGJwyjb0QiZzZYlB.jpg",
+      "description": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation",
+        "Adventure"
+      ],
+      "releaseInfo": "1995",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt42543947",
+      "type": "series",
+      "name": "The Polygamist",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt42543947.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/hGCQ0tsJMpKjfrnCyYY0kMY2kY1.jpg",
+      "description": "Social media darling, Joyce, is the picture of marital perfection — until her cheating husband's conquests ignite a scandalous emotional meltdown.",
+      "genres": [
+        "Drama",
+        "Soap"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "8.9"
+    },
+    {
+      "id": "tt1979376",
+      "type": "movie",
+      "name": "Toy Story 4",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1979376.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/q62bpQ67qaXY0u6b2wFEnQYIbPd.jpg",
+      "description": "Woody has always been confident about his place in the world, devoted to taking care of his kid—whether that's Andy or Bonnie. But after Bonnie creates a reluctant new toy called \"Forky\", a road trip adventure alongside old and new friends challenges everything Woody believes about loyalty, purpose, and what it truly means to be a toy.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Animation",
+        "Adventure"
+      ],
+      "releaseInfo": "2019",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0413573",
+      "type": "series",
+      "name": "Grey's Anatomy",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0413573.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/jP0Rhj9OTPDAwQlHQwOLFDdeE8t.jpg",
+      "description": "Follows the personal and professional lives of a group of doctors at Seattle's Grey Sloan Memorial Hospital.",
+      "genres": [
+        "Drama"
+      ],
+      "releaseInfo": "2005",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt22022452",
+      "type": "movie",
+      "name": "Inside Out 2",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt22022452.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
+      "description": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who’ve long been running a successful operation by all accounts, aren’t sure how to feel when Anxiety shows up. And it looks like she’s not alone.",
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy",
+        "Family"
+      ],
+      "releaseInfo": "2024",
+      "imdbRating": "7.5"
+    },
+    {
+      "id": "tt0412142",
+      "type": "series",
+      "name": "House",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0412142.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/r0Q6eeN9L1ORL9QsV0Sg8ZV3vnv.jpg",
+      "description": "Dr. Gregory House, a drug-addicted, unconventional, misanthropic medical genius, leads a team of diagnosticians at the fictional Princeton–Plainsboro Teaching Hospital in New Jersey.",
+      "genres": [
+        "Drama"
+      ],
+      "releaseInfo": "2004",
+      "imdbRating": "8.6"
+    },
+    {
+      "id": "tt33978029",
+      "type": "movie",
+      "name": "Ready or Not: Here I Come",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33978029.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Comedy"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt4236770",
+      "type": "series",
+      "name": "Yellowstone",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt4236770.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/ynSOcgDLZfdLCZfRSYZGiTgYJVo.jpg",
+      "description": "Follow the violent world of the Dutton family, who controls the largest contiguous ranch in the United States. Led by their patriarch John Dutton, the family defends their property against constant attack by land developers, an Indian reservation, and America’s first National Park.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "releaseInfo": "2018",
+      "imdbRating": "8.3"
+    },
+    {
+      "id": "tt0245429",
+      "type": "movie",
+      "name": "Spirited Away",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0245429.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/dyJvKsNs2KP8qQnAXbRwDjblViy.jpg",
+      "description": "A young girl, Chihiro, becomes trapped in a strange new world of spirits. When her parents undergo a mysterious transformation, she must call upon the courage she never knew she had to free her family.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Fantasy"
+      ],
+      "releaseInfo": "2001",
+      "imdbRating": "8.5"
+    },
+    {
+      "id": "tt1632701",
+      "type": "series",
+      "name": "Suits",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1632701.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/or0E36KfzJYZwqXeiCfm1JgepKF.jpg",
+      "description": "While running from a drug deal gone bad, Mike Ross, a brilliant young college-dropout, slips into a job interview with one of New York City's best legal closers, Harvey Specter. Tired of cookie-cutter law school grads, Harvey takes a gamble by hiring Mike on the spot after he recognizes his raw talent and photographic memory.",
+      "genres": [
+        "Drama"
+      ],
+      "releaseInfo": "2011",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt0910970",
+      "type": "movie",
+      "name": "WALL·E",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0910970.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/nYs4ZwnJBK4AgljhvzwNz7fpr3E.jpg",
+      "description": "After hundreds of years doing what he was built for, WALL•E— a robot designed to clean up the earth—discovers a new purpose in life when he meets a sleek search robot named EVE. EVE comes to realize that WALL•E has inadvertently stumbled upon the key to the planet's future, and races back to space to report to the humans. Meanwhile, WALL•E chases EVE across the galaxy and sets into motion one of the most imaginative adventures ever brought to the big screen.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Science Fiction"
+      ],
+      "releaseInfo": "2008",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt2580046",
+      "type": "series",
+      "name": "Miraculous: Tales of Ladybug & Cat Noir",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2580046.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/lH22EnM0ofC7GsVGU8dAA2RXV1c.jpg",
+      "description": "Marinette and Adrien, two Parisian teenagers, are entrusted with powerful jewels in order to transform into superheroes Ladybug and Cat Noir. But neither hero knows the other's true identity — or that they're classmates!",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Kids"
+      ],
+      "releaseInfo": "2015",
+      "imdbRating": "8.1"
+    },
+    {
+      "id": "tt32357218",
+      "type": "movie",
+      "name": "Shelter",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32357218.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
+      "description": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "7.7"
+    },
+    {
+      "id": "tt0096697",
+      "type": "series",
+      "name": "The Simpsons",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0096697.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/jIArNHIekrCSVgdMbKPAXpPY03Y.jpg",
+      "description": "Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Comedy"
+      ],
+      "releaseInfo": "1989",
+      "imdbRating": "8.0"
+    },
+    {
+      "id": "tt8036976",
+      "type": "movie",
+      "name": "Send Help",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt8036976.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/bpp58yHuQmpt6xwggI63mVRw7po.jpg",
+      "description": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Comedy"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt0182576",
+      "type": "series",
+      "name": "Family Guy",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0182576.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/l7wShoIdIUwaDIbsHno9pO5MZXT.jpg",
+      "description": "Sick, twisted, politically incorrect and Freakin' Sweet animated series featuring the adventures of the dysfunctional Griffin family. Bumbling Peter and long-suffering Lois have three kids. Stewie (a brilliant but sadistic baby bent on killing his mother and taking over the world), Meg (the oldest, and is the most unpopular girl in town) and Chris (the middle kid, he's not very bright but has a passion for movies). The final member of the family is Brian - a talking dog and much more than a pet, he keeps Stewie in check whilst sipping Martinis and sorting through his own life issues.",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "releaseInfo": "1999",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt26678938",
+      "type": "movie",
+      "name": "Pretty Lethal",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt26678938.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/z3bzhmC0CPikWeerUkLO73YvGrC.jpg",
+      "description": "A troupe of ballerinas find themselves fighting for survival as they attempt to escape from a remote inn after their bus breaks down on the way to a dance competition.",
+      "genres": [
+        "Action",
+        "Music",
+        "Thriller",
+        "Horror"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt0397306",
+      "type": "series",
+      "name": "American Dad!",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0397306.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/iixxhk3ycXmFqBn616pAsC3lu53.jpg",
+      "description": "The series focuses on an eccentric motley crew that is the Smith family and their three housemates: Father, husband, and breadwinner Stan Smith; his better half housewife, Francine Smith; their college-aged daughter, Hayley Smith; and their high-school-aged son, Steve Smith. Outside of the Smith family, there are three additional main characters, including Hayley's boyfriend turned husband, Jeff Fischer; the family's man-in-a-goldfish-body pet, Klaus; and most notably the family's zany alien, Roger, who is \"full of masquerades, brazenness, and shocking antics.\"",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "releaseInfo": "2005",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt2380307",
+      "type": "movie",
+      "name": "Coco",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2380307.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+      "description": "Despite his family’s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+      "genres": [
+        "Family",
+        "Animation",
+        "Music",
+        "Adventure"
+      ],
+      "releaseInfo": "2017",
+      "imdbRating": "8.2"
+    },
+    {
+      "id": "tt3121722",
+      "type": "series",
+      "name": "PAW Patrol",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt3121722.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/7OrV2aAH5Yp7hA9zCCvUloLvZtl.jpg",
+      "description": "Marshall, Rocky, Rubble, Zuma and Skye are doing their best to protect the people of their town. Led by Ryder, a tech-savvy 10-year-old boy, each of them is equipped with special equipment and together they help anyone who finds themselves in trouble. No task is too big for them and no puppy is too small.",
+      "genres": [
+        "Animation",
+        "Kids"
+      ],
+      "releaseInfo": "2013",
+      "imdbRating": "7.0"
+    },
+    {
+      "id": "tt22898462",
+      "type": "movie",
+      "name": "The Conjuring: Last Rites",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt22898462.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/i8MupUe4xgmYXoRNAQMYvuoexSU.jpg",
+      "description": "Paranormal investigators Ed and Lorraine Warren take on one last terrifying case involving mysterious entities they must confront.",
+      "genres": [
+        "Horror"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "6.9"
+    },
+    {
+      "id": "tt3566834",
+      "type": "movie",
+      "name": "A Minecraft Movie",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt3566834.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/2Nti3gYAX513wvhp8IiLL6ZDyOm.jpg",
+      "description": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "6.3"
+    },
+    {
+      "id": "tt14850054",
+      "type": "movie",
+      "name": "Greenland 2: Migration",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt14850054.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/cLFbDVfhllIMybpo2fkGNzehiQG.jpg",
+      "description": "Having found the safety of the Greenland bunker after the comet Clarke decimated the Earth, the Garrity family must now risk everything to embark on a perilous journey across the wasteland of Europe to find a new home.",
+      "genres": [
+        "Adventure",
+        "Thriller",
+        "Science Fiction"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "6.4"
+    },
+    {
+      "id": "tt0435761",
+      "type": "movie",
+      "name": "Toy Story 3",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0435761.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/uAfhsySkr1UzQg1zdg3dZQRz9Fd.jpg",
+      "description": "Woody, Buzz, and the rest of Andy's toys haven't been played with in years. With Andy about to go to college, the gang find themselves accidentally left at a nefarious day care center. The toys must band together to escape and return home to Andy.",
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy"
+      ],
+      "releaseInfo": "2010",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt0120363",
+      "type": "movie",
+      "name": "Toy Story 2",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0120363.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/7iUDfakacY1HpajP1DtHrCuDB95.jpg",
+      "description": "Andy heads off to Cowboy Camp, leaving his toys to their own devices. Things shift into high gear when an obsessive toy collector named Al McWhiggen, owner of Al's Toy Barn kidnaps Woody. Andy's toys mount a daring rescue mission, Buzz Lightyear meets his match and Woody has to decide where he and his heart truly belong.",
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "releaseInfo": "1999",
+      "imdbRating": "7.6"
+    },
+    {
+      "id": "tt15940132",
+      "type": "movie",
+      "name": "War Machine",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt15940132.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/6yeVcxFR0j08vlv2OlL6zbewm4D.jpg",
+      "description": "On one last grueling mission during Army Ranger training, a combat engineer must lead his unit in a fight against a giant otherworldly killing machine.",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "releaseInfo": "2026",
+      "imdbRating": "7.4"
+    },
+    {
+      "id": "tt31227572",
+      "type": "movie",
+      "name": "Predator: Badlands",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31227572.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/82lM4GJ9uuNvNDOEpxFy77uv4Ak.jpg",
+      "description": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+      "genres": [
+        "Action",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "7.8"
+    },
+    {
+      "id": "tt4712810",
+      "type": "movie",
+      "name": "Now You See Me: Now You Don't",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt4712810.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/ufqytAlziHq5pljKByGJ8IKhtEZ.jpg",
+      "description": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "6.5"
+    },
+    {
+      "id": "tt31956415",
+      "type": "movie",
+      "name": "Freakier Friday",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31956415.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
+      "description": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+      "genres": [
+        "Comedy",
+        "Fantasy",
+        "Family"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "6.8"
+    },
+    {
+      "id": "tt13186306",
+      "type": "movie",
+      "name": "War of the Worlds",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt13186306.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+      "description": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "releaseInfo": "2025",
+      "imdbRating": "4.1"
+    },
+    {
+      "id": "tt0145487",
+      "type": "movie",
+      "name": "Spider-Man",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0145487.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/w780/zQ8AxTPiCiS5nnwXpwTBPBHSaa5.jpg",
+      "description": "After being bitten by a genetically altered spider at Oscorp, nerdy but endearing high school student Peter Parker is endowed with amazing powers to become the superhero known as Spider-Man.",
+      "genres": [
+        "Action",
+        "Science Fiction"
+      ],
+      "releaseInfo": "2002",
+      "imdbRating": "7.3"
     }
   ]
 }

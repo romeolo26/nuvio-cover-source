@@ -8,6 +8,7 @@ const outDir = process.env.COVER_SOURCE_OUT_DIR
 
 const AIO_BASE =
   "https://aiometadatafortheweebs.midnightignite.me/stremio/b8a243f2-f7a9-426b-82c9-37262968c247";
+const ALIVE_BASE = (process.env.COVER_SOURCE_ALIVE_BASE || "").replace(/\/$/, "");
 
 const catalogs = [
   {
@@ -24,8 +25,8 @@ const catalogs = [
     type: "movie",
     name: "Nuvio Cover - Tonight",
     sources: [
-      { sourceType: "movie", sourceId: "mdblist.186303" },
-      { sourceType: "series", sourceId: "mdblist.186304" },
+      { base: "alive", sourceType: "movie", sourceId: "alive-tonight", fallbackSourceId: "mdblist.186303" },
+      { base: "alive", sourceType: "series", sourceId: "alive-tonight", fallbackSourceId: "mdblist.186304" },
     ],
   },
   {
@@ -33,8 +34,8 @@ const catalogs = [
     type: "movie",
     name: "Nuvio Cover - Because You Watched",
     sources: [
-      { sourceType: "movie", sourceId: "trakt.list.35741279" },
-      { sourceType: "series", sourceId: "trakt.list.35741284" },
+      { base: "alive", sourceType: "movie", sourceId: "alive-because-watched", fallbackSourceId: "trakt.list.35741279" },
+      { base: "alive", sourceType: "series", sourceId: "alive-because-watched", fallbackSourceId: "trakt.list.35741284" },
     ],
   },
   {
@@ -42,8 +43,8 @@ const catalogs = [
     type: "movie",
     name: "Nuvio Cover - Gems For You",
     sources: [
-      { sourceType: "movie", sourceId: "trakt.list.35741285" },
-      { sourceType: "series", sourceId: "trakt.list.35741286" },
+      { base: "alive", sourceType: "movie", sourceId: "alive-gems", fallbackSourceId: "trakt.list.35741285" },
+      { base: "alive", sourceType: "series", sourceId: "alive-gems", fallbackSourceId: "trakt.list.35741286" },
     ],
   },
   {
@@ -60,8 +61,8 @@ const catalogs = [
     type: "movie",
     name: "Nuvio Cover - New For You",
     sources: [
-      { sourceType: "movie", sourceId: "mdblist.186301" },
-      { sourceType: "series", sourceId: "mdblist.186302" },
+      { base: "alive", sourceType: "movie", sourceId: "alive-new-for-you", fallbackSourceId: "mdblist.186301" },
+      { base: "alive", sourceType: "series", sourceId: "alive-new-for-you", fallbackSourceId: "mdblist.186302" },
     ],
   },
   {
@@ -154,7 +155,11 @@ function interleaveMetas(sourceMetas) {
 }
 
 async function fetchSource(source) {
-  const url = `${AIO_BASE}/catalog/${source.sourceType}/${source.sourceId}.json`;
+  const base = source.base === "alive" && ALIVE_BASE ? ALIVE_BASE : AIO_BASE;
+  const sourceId = source.base === "alive" && !ALIVE_BASE && source.fallbackSourceId
+    ? source.fallbackSourceId
+    : source.sourceId;
+  const url = `${base}/catalog/${source.sourceType}/${sourceId}.json`;
   const response = await fetch(url);
   if (!response.ok) {
     throw new Error(`Fetch failed ${response.status}: ${url}`);
