@@ -36,7 +36,7 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "10.0",
+      "imdbRating": "3.8",
       "runtime": "2h53min",
       "behaviorHints": {
         "defaultVideoId": "tt33764258",
@@ -48,7 +48,7 @@
       "type": "movie",
       "name": "Toy Story 5",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt29355505.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
+      "background": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "logo": "https://image.tmdb.org/t/p/original/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
       "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "genres": [
@@ -67,24 +67,23 @@
       }
     },
     {
-      "id": "tt22084616",
+      "id": "tt31170389",
       "type": "movie",
-      "name": "Spider-Man: Brand New Day",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt22084616.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/j95Gl5viP1o69hN3mLL19y2OoXx.png",
-      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "name": "Evil Dead Burn",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31170389.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/zwZFdMdumgL46gzhR1NHw9ri8e7.png",
+      "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
       "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
+        "Horror",
+        "Thriller"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "0.0",
-      "runtime": "2h24min",
+      "imdbRating": "6.9",
+      "runtime": "1h49min",
       "behaviorHints": {
-        "defaultVideoId": "tt22084616",
+        "defaultVideoId": "tt31170389",
         "hasScheduledVideos": false
       }
     },
@@ -133,23 +132,24 @@
       }
     },
     {
-      "id": "tt31170389",
+      "id": "tt22084616",
       "type": "movie",
-      "name": "Evil Dead Burn",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31170389.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/zwZFdMdumgL46gzhR1NHw9ri8e7.png",
-      "description": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
+      "name": "Spider-Man: Brand New Day",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt22084616.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/j95Gl5viP1o69hN3mLL19y2OoXx.png",
+      "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "genres": [
-        "Horror",
-        "Thriller"
+        "Science Fiction",
+        "Action",
+        "Adventure"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "runtime": "1h50min",
+      "imdbRating": "0.0",
+      "runtime": "2h24min",
       "behaviorHints": {
-        "defaultVideoId": "tt31170389",
+        "defaultVideoId": "tt22084616",
         "hasScheduledVideos": false
       }
     },
@@ -159,7 +159,7 @@
       "name": "Backrooms",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt26657236.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/1jPGgz8D23V3BtNp5hObQ1D6pID.png",
+      "logo": "https://image.tmdb.org/t/p/original/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
       "description": "A strange doorway appears in the basement of a furniture showroom.",
       "genres": [
         "Horror",
@@ -214,7 +214,7 @@
       "year": "2026",
       "releaseInfo": "2026",
       "imdbRating": "0.0",
-      "runtime": "1h50min",
+      "runtime": "1h39min",
       "behaviorHints": {
         "defaultVideoId": "tt27165187",
         "hasScheduledVideos": false
@@ -246,7 +246,7 @@
       "type": "movie",
       "name": "The Invite",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt14173636.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "background": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
       "logo": "https://image.tmdb.org/t/p/original/hcuE9wiunMTluNR7u1mkCmKi4xu.png",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
       "genres": [
@@ -279,10 +279,75 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
+      "imdbRating": "8.4",
       "runtime": "1h38min",
       "behaviorHints": {
         "defaultVideoId": "tt36583977",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33763941",
+      "type": "movie",
+      "name": "Passenger",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33763941.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/suT1v1VkyJALMJ3f5o75ZLTYYZ0.png",
+      "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.5",
+      "runtime": "1h34min",
+      "behaviorHints": {
+        "defaultVideoId": "tt33763941",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32104007",
+      "type": "movie",
+      "name": "Young Washington",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32104007.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/mj3RFamNUleZB94zMWgGnJkQCAH.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/4oFPGaLH2U3dkMGbzDI7lS4j6Ol.png",
+      "description": "Before he led a nation, George Washington was a young soldier thrown into a global conflict. With alliances crumbling and war closing in, he must choose who to trust and confront the leader he's becoming.",
+      "genres": [
+        "History",
+        "War",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "runtime": "2h5min",
+      "behaviorHints": {
+        "defaultVideoId": "tt32104007",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt27369017",
+      "type": "movie",
+      "name": "Hope",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27369017.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/yEEpQJENq4DLtSO06HY7TRoXeqO.png",
+      "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Action"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "runtime": "2h37min",
+      "behaviorHints": {
+        "defaultVideoId": "tt27369017",
         "hasScheduledVideos": false
       }
     },
@@ -303,53 +368,10 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.5",
       "runtime": "1h30min",
       "behaviorHints": {
         "defaultVideoId": "tt32890033",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt27369017",
-      "type": "movie",
-      "name": "Hope",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27369017.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/yEEpQJENq4DLtSO06HY7TRoXeqO.png",
-      "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Action"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "6.9",
-      "runtime": "2h37min",
-      "behaviorHints": {
-        "defaultVideoId": "tt27369017",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt33763941",
-      "type": "movie",
-      "name": "Passenger",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33763941.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/suT1v1VkyJALMJ3f5o75ZLTYYZ0.png",
-      "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "5.6",
-      "runtime": "1h34min",
-      "behaviorHints": {
-        "defaultVideoId": "tt33763941",
         "hasScheduledVideos": false
       }
     },
@@ -420,44 +442,25 @@
       }
     },
     {
-      "id": "tt32565993",
+      "id": "tt27419466",
       "type": "movie",
-      "name": "The Sheep Detectives",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32565993.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/ajnQofw6csw0wYSkeBVhdYqGC8p.png",
-      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "name": "Moana",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27419466.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/eC8OZbPGJTZ8Ot1k4AM7FtONbUP.png",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "genres": [
-        "Mystery",
+        "Family",
+        "Fantasy",
         "Comedy",
-        "Family"
+        "Adventure"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "runtime": "1h49min",
+      "imdbRating": "5.6",
+      "runtime": "1h55min",
       "behaviorHints": {
-        "defaultVideoId": "tt32565993",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt35050712",
-      "type": "movie",
-      "name": "Saccharine",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35050712.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/g13aQig3pJKjmC9Kc2dScrv0isl.png",
-      "description": "After succumbing to an obscure weight-loss craze involving the eating of human ashes, lovelorn medical student Hana finds herself haunted by the ghost of the person she's eating.",
-      "genres": [
-        "Horror"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "5.9",
-      "runtime": "1h53min",
-      "behaviorHints": {
-        "defaultVideoId": "tt35050712",
+        "defaultVideoId": "tt27419466",
         "hasScheduledVideos": false
       }
     },
@@ -483,24 +486,24 @@
       }
     },
     {
-      "id": "tt8814476",
+      "id": "tt32565993",
       "type": "movie",
-      "name": "Supergirl",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt8814476.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
-      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "name": "The Sheep Detectives",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32565993.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/ajnQofw6csw0wYSkeBVhdYqGC8p.png",
+      "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
       "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
+        "Comedy",
+        "Family",
+        "Mystery"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "6.1",
-      "runtime": "1h48min",
+      "imdbRating": "7.4",
+      "runtime": "1h49min",
       "behaviorHints": {
-        "defaultVideoId": "tt8814476",
+        "defaultVideoId": "tt32565993",
         "hasScheduledVideos": false
       }
     },
@@ -541,10 +544,118 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "7",
+      "imdbRating": "6.9",
       "runtime": "2h12min",
       "behaviorHints": {
         "defaultVideoId": "tt30825738",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt35050712",
+      "type": "movie",
+      "name": "Saccharine",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35050712.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/7NUx7bQAD4lo9yMDbprvIblhWo2.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/g13aQig3pJKjmC9Kc2dScrv0isl.png",
+      "description": "After succumbing to an obscure weight-loss craze involving the eating of human ashes, lovelorn medical student Hana finds herself haunted by the ghost of the person she's eating.",
+      "genres": [
+        "Horror"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.9",
+      "runtime": "1h53min",
+      "behaviorHints": {
+        "defaultVideoId": "tt35050712",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt38633224",
+      "type": "movie",
+      "name": "The Rope Curse 4: Kuntilanak",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt38633224.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2VDV1ZBHV1PKKBcWjRRCydZO1YR.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt38633224/img",
+      "description": "A forbidden exorcism is livestreamed in Indonesia, awakening the legendary female spirit Kuntilanak. What begins as an online spectacle quickly turns deadly. In Taiwan, Mila watches the ritual—and becomes the curse’s first victim. Soon, mysterious deaths and violent possessions follow. When Yulan collapses and is found to have lost part of her soul, it becomes clear that this is not an isolated incident, but a transnational curse. Seeking answers, Mila’s son returns her ashes to Indonesia, hoping to uncover the truth behind her death. Instead, he steps into a nightmare rooted in ancient folklore and unresolved hatred. As supernatural violence escalates, the group realizes that once Kuntilanak is summoned, the curse will not stop—until it claims everything in its path.",
+      "genres": [
+        "Thriller",
+        "Mystery",
+        "Horror"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "runtime": "",
+      "behaviorHints": {
+        "defaultVideoId": "tt38633224",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt8814476",
+      "type": "movie",
+      "name": "Supergirl",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt8814476.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
+      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "runtime": "1h48min",
+      "behaviorHints": {
+        "defaultVideoId": "tt8814476",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt35538033",
+      "type": "movie",
+      "name": "Resident Evil",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35538033.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/gUcYDYaMhNppEhu3v2wnb8R23HW.png",
+      "description": "Bryan, a medical courier, is in the process of making a delivery when a sudden outbreak occurs, forcing him to fight for survival.",
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "runtime": "",
+      "behaviorHints": {
+        "defaultVideoId": "tt35538033",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt29330744",
+      "type": "movie",
+      "name": "Batwara 1947",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt29330744.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/icYzXHevmZnih9XiFqDUo5xQimJ.png",
+      "description": "The story of an elderly Muslim woman who refuses to leave her ancestral home in Lahore, only to have a Hindu refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "runtime": "",
+      "behaviorHints": {
+        "defaultVideoId": "tt29330744",
         "hasScheduledVideos": false
       }
     },
@@ -573,24 +684,24 @@
       }
     },
     {
-      "id": "tt38633224",
+      "id": "tt21285562",
       "type": "movie",
-      "name": "The Rope Curse 4: Kuntilanak",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt38633224.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/2VDV1ZBHV1PKKBcWjRRCydZO1YR.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt38633224/img",
-      "description": "A forbidden exorcism is livestreamed in Indonesia, awakening the legendary female spirit Kuntilanak. What begins as an online spectacle quickly turns deadly. In Taiwan, Mila watches the ritual—and becomes the curse’s first victim. Soon, mysterious deaths and violent possessions follow. When Yulan collapses and is found to have lost part of her soul, it becomes clear that this is not an isolated incident, but a transnational curse. Seeking answers, Mila’s son returns her ashes to Indonesia, hoping to uncover the truth behind her death. Instead, he steps into a nightmare rooted in ancient folklore and unresolved hatred. As supernatural violence escalates, the group realizes that once Kuntilanak is summoned, the curse will not stop—until it claims everything in its path.",
+      "name": "The Dog Stars",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt21285562.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/5cgiN7zADfleheeUPWg0SChGtUB.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/jRkJqqMNP7BEkbSU7HAHvghqmu8.png",
+      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
       "genres": [
-        "Thriller",
-        "Mystery",
-        "Horror"
+        "Adventure",
+        "Science Fiction",
+        "Thriller"
       ],
       "year": "2026",
       "releaseInfo": "2026",
       "imdbRating": "0.0",
-      "runtime": "",
+      "runtime": "1h40min",
       "behaviorHints": {
-        "defaultVideoId": "tt38633224",
+        "defaultVideoId": "tt21285562",
         "hasScheduledVideos": false
       }
     },
@@ -616,73 +727,6 @@
       }
     },
     {
-      "id": "tt21285562",
-      "type": "movie",
-      "name": "The Dog Stars",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt21285562.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/5cgiN7zADfleheeUPWg0SChGtUB.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/jRkJqqMNP7BEkbSU7HAHvghqmu8.png",
-      "description": "After the world's population has been ravaged by a pandemic, a man lives a lonesome existence in a Colorado airplane hangar with his dog and a dour gunman he has befriended. When a mysterious transmission comes through on the radio while he’s flying his old Cessna, it sparks a hunt for the provenance of the sound.",
-      "genres": [
-        "Adventure",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "0.0",
-      "runtime": "1h40min",
-      "behaviorHints": {
-        "defaultVideoId": "tt21285562",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt29330744",
-      "type": "movie",
-      "name": "Batwara 1947",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt29330744.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/icYzXHevmZnih9XiFqDUo5xQimJ.png",
-      "description": "The story of an elderly Muslim woman who refuses to leave her ancestral home in Lahore, only to have a Hindu refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
-      "genres": [
-        "Action",
-        "Drama",
-        "War"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "0.0",
-      "runtime": "",
-      "behaviorHints": {
-        "defaultVideoId": "tt29330744",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt27419466",
-      "type": "movie",
-      "name": "Moana",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27419466.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/eC8OZbPGJTZ8Ot1k4AM7FtONbUP.png",
-      "description": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "genres": [
-        "Family",
-        "Fantasy",
-        "Comedy",
-        "Adventure"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "5.6",
-      "runtime": "1h55min",
-      "behaviorHints": {
-        "defaultVideoId": "tt27419466",
-        "hasScheduledVideos": false
-      }
-    },
-    {
       "id": "tt31192372",
       "type": "movie",
       "name": "Fall 2: Deadpoint",
@@ -699,6 +743,27 @@
       "runtime": "",
       "behaviorHints": {
         "defaultVideoId": "tt31192372",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt37654096",
+      "type": "movie",
+      "name": "The Last Sunrise",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt37654096.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/3sKI5pYP4xtBkRaW7LSM8FntM3U.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt37654096/img",
+      "description": "A young American woman with health challenges finds unexpected romance with a charismatic local during her summer in Majorca, forcing her to weigh her heart's desires against family obligations and her planned return home.",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "0.0",
+      "runtime": "",
+      "behaviorHints": {
+        "defaultVideoId": "tt37654096",
         "hasScheduledVideos": false
       }
     },
@@ -725,66 +790,23 @@
       }
     },
     {
-      "id": "tt35538033",
+      "id": "tt34895535",
       "type": "movie",
-      "name": "Resident Evil",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35538033.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/ddfXMkaPViSrg0P5aoYGFMc58x2.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/gUcYDYaMhNppEhu3v2wnb8R23HW.png",
-      "description": "Bryan, a medical courier, is in the process of making a delivery when a sudden outbreak occurs, forcing him to fight for survival.",
+      "name": "Nimrods",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34895535.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/aVRRKTGJnnWvah99gLZaRG0wS17.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/mcSclxOzhi8DMq8NaqtMGdJC9Xh.png",
+      "description": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
       "genres": [
-        "Horror",
-        "Science Fiction",
-        "Thriller"
+        "Comedy",
+        "Music"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "0.0",
-      "runtime": "1h30min",
+      "imdbRating": "7.8",
+      "runtime": "1h42min",
       "behaviorHints": {
-        "defaultVideoId": "tt35538033",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt37654096",
-      "type": "movie",
-      "name": "The Last Sunrise",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt37654096.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/3sKI5pYP4xtBkRaW7LSM8FntM3U.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt37654096/img",
-      "description": "A young American woman with health challenges finds unexpected romance with a charismatic local during her summer in Majorca, forcing her to weigh her heart's desires against family obligations and her planned return home.",
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "0.0",
-      "runtime": "",
-      "behaviorHints": {
-        "defaultVideoId": "tt37654096",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt32338669",
-      "type": "movie",
-      "name": "Mutiny",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32338669.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/eRZRJoSR86kGzeH7wOztdN7NLg9.png",
-      "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "0.0",
-      "runtime": "1h35min",
-      "behaviorHints": {
-        "defaultVideoId": "tt32338669",
+        "defaultVideoId": "tt34895535",
         "hasScheduledVideos": false
       }
     },
@@ -828,27 +850,6 @@
       "runtime": "1h48min",
       "behaviorHints": {
         "defaultVideoId": "tt33296751",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt27530512",
-      "type": "movie",
-      "name": "Toxic",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27530512.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/d0HW8B7UVfOkV1akip7cU7wTVqc.png",
-      "description": "Set in a bygone era, this gripping tale unfolds in the coastal paradise of Goa, wherea powerful drug cartel pulls the strings behind a facade of sun-soaked beaches and vibrant culture.",
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "0.0",
-      "runtime": "3h15min",
-      "behaviorHints": {
-        "defaultVideoId": "tt27530512",
         "hasScheduledVideos": false
       }
     },
@@ -919,45 +920,23 @@
       }
     },
     {
-      "id": "tt34385135",
+      "id": "tt27530512",
       "type": "movie",
-      "name": "Colony",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34385135.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/hCK5tVvTG2c0SrOaPCWMlbMj69A.png",
-      "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "name": "Toxic",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27530512.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/d0HW8B7UVfOkV1akip7cU7wTVqc.png",
+      "description": "Set in a bygone era, this gripping tale unfolds in the coastal paradise of Goa, wherea powerful drug cartel pulls the strings behind a facade of sun-soaked beaches and vibrant culture.",
       "genres": [
         "Action",
-        "Thriller",
-        "Horror"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "6.9",
-      "runtime": "2h3min",
-      "behaviorHints": {
-        "defaultVideoId": "tt34385135",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt32393988",
-      "type": "movie",
-      "name": "Insidious: Out of the Further",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32393988.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/iGjbP4jYzzbINDtd9kScypQOlmw.png",
-      "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "genres": [
-        "Horror",
         "Thriller"
       ],
       "year": "2026",
       "releaseInfo": "2026",
       "imdbRating": "0.0",
-      "runtime": "",
+      "runtime": "3h15min",
       "behaviorHints": {
-        "defaultVideoId": "tt32393988",
+        "defaultVideoId": "tt27530512",
         "hasScheduledVideos": false
       }
     },
@@ -984,45 +963,45 @@
       }
     },
     {
-      "id": "tt41791573",
+      "id": "tt34385135",
       "type": "movie",
-      "name": "Dear You",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt41791573.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt41791573/img",
-      "description": "Xiaowei travels to Thailand to find his \"billionaire grandfather\" who is out of contact due to debt problems, but unexpectedly find the one who has been corresponding with his grandmother for years is not her husband.",
+      "name": "Colony",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34385135.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/hCK5tVvTG2c0SrOaPCWMlbMj69A.png",
+      "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
       "genres": [
-        "Drama",
-        "Family",
-        "Comedy"
+        "Action",
+        "Thriller",
+        "Horror"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "8.4",
-      "runtime": "1h58min",
+      "imdbRating": "6.9",
+      "runtime": "2h3min",
       "behaviorHints": {
-        "defaultVideoId": "tt41791573",
+        "defaultVideoId": "tt34385135",
         "hasScheduledVideos": false
       }
     },
     {
-      "id": "tt7526136",
+      "id": "tt32338669",
       "type": "movie",
-      "name": "Heart of the Beast",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt7526136.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/Ap2OHGs2Fko8evglwCbMQkWXXeB.png",
-      "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "name": "Mutiny",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32338669.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/eRZRJoSR86kGzeH7wOztdN7NLg9.png",
+      "description": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
       "genres": [
         "Action",
-        "Adventure"
+        "Thriller"
       ],
       "year": "2026",
       "releaseInfo": "2026",
       "imdbRating": "0.0",
-      "runtime": "",
+      "runtime": "1h35min",
       "behaviorHints": {
-        "defaultVideoId": "tt7526136",
+        "defaultVideoId": "tt32338669",
         "hasScheduledVideos": false
       }
     },
@@ -1049,26 +1028,45 @@
       }
     },
     {
-      "id": "tt2467700",
+      "id": "tt41791573",
       "type": "movie",
-      "name": "Animal Farm",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2467700.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/1yl7xmTN2iEyiD3gF8M68lBhR39.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/qmXnVP6QrLgZ4JaSHkwZJiiJZB.png",
-      "description": "A group of farm animals rise up against their neglectful owner, dreaming of equality and freedom. But as the pigs take control, the revolution turns into tyranny, with truth rewritten and dissent crushed.",
+      "name": "Dear You",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt41791573.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/dzWGnIAjUafpmY57F6vnm44FwWB.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt41791573/img",
+      "description": "Xiaowei travels to Thailand to find his \"billionaire grandfather\" who is out of contact due to debt problems, but unexpectedly find the one who has been corresponding with his grandmother for years is not her husband.",
       "genres": [
-        "Animation",
-        "Comedy",
         "Drama",
         "Family",
-        "Science Fiction"
+        "Comedy"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "2.9",
-      "runtime": "1h36min",
+      "imdbRating": "8.4",
+      "runtime": "1h58min",
       "behaviorHints": {
-        "defaultVideoId": "tt2467700",
+        "defaultVideoId": "tt41791573",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34374553",
+      "type": "movie",
+      "name": "Victorian Psycho",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34374553.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/92FSzMpBSkMH59ZCDz9tUjIWKAS.jpg",
+      "logo": "https://images.metahub.space/logo/medium/tt34374553/img",
+      "description": "In 1858, an eccentric young governess named Winifred Notty arrives at the remote gothic manor known as Ensor House. As Winifred assimilates into life at Ensor House, staff members begin to inexplicably disappear, and the owners of the estate begin to wonder if there is something amiss about their new governess.",
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "4.9",
+      "runtime": "1h30min",
+      "behaviorHints": {
+        "defaultVideoId": "tt34374553",
         "hasScheduledVideos": false
       }
     },
@@ -1101,8 +1099,6 @@
       "type": "movie",
       "name": "Watergate",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/75jfAB0aHjVvFtNPVhIOYRlINi1.jpg",
-      "background": null,
-      "logo": null,
       "description": "A sequel to Rupert v Nixon and the end for the RNCU",
       "genres": [
         "Horror",
@@ -1125,8 +1121,6 @@
       "type": "movie",
       "name": "Amityville Alone",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/yhXchTlSTHPh7pzaXx8sXUytaQA.jpg",
-      "background": null,
-      "logo": null,
       "description": "Meet Ricky, an 8 year old boy neglected by his father. When Santa forgets to put his presents under the tree, Ricky gets granted three Christmas miracles by the Tree Witch. He wishes to be BIG, he wishes to be HOME ALONE, and finally, he wishes for his E.T.special friend Tito to go from being a dog to a full speaking humanoid. But once Ricky gets in trouble with a local gangster, he and Tito will have to fight for their right... to party!",
       "genres": [
         "Horror"
@@ -1236,8 +1230,8 @@
       "type": "movie",
       "name": "Dune: Part Three",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31378509.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/5jnVGQXsc0oXLlWD9q6KuwacWQ2.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/6G6GVMeSG9vZWAMHW5c3hdZi5Z4.png",
+      "background": "https://image.tmdb.org/t/p/original/bU206dN0ucfOFRK17OXabkdHKFC.jpg",
+      "logo": "https://image.tmdb.org/t/p/original/ev0g69q8FMn24NLZoSv7e54mLFV.png",
       "description": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
       "genres": [
         "Action",
@@ -1247,30 +1241,9 @@
       "year": "2026",
       "releaseInfo": "2026",
       "imdbRating": "0.0",
-      "runtime": "",
+      "runtime": "2h20min",
       "behaviorHints": {
         "defaultVideoId": "tt31378509",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt34895535",
-      "type": "movie",
-      "name": "Nimrods",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34895535.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/aVRRKTGJnnWvah99gLZaRG0wS17.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/mcSclxOzhi8DMq8NaqtMGdJC9Xh.png",
-      "description": "Three friends journey from Kansas City to Los Angeles, mistakenly believing that their band is opening for Green Day on New Year’s Eve.",
-      "genres": [
-        "Comedy",
-        "Music"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "7.7",
-      "runtime": "1h42min",
-      "behaviorHints": {
-        "defaultVideoId": "tt34895535",
         "hasScheduledVideos": false
       }
     },
@@ -1302,7 +1275,6 @@
       "name": "Los Vaqueros",
       "poster": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/qrosFuW6x9plvuc71gfI8tELH30.jpg",
       "background": "https://image.tmdb.org/t/p/original/2tDsKFUbgmlcoocT8iQG2mPgYLo.jpg",
-      "logo": null,
       "description": "In the early 1990s in West Texas, three ambitious young men begin their ascent to notoriety within their small town crime organization as they navigate the treacherous underworld of drugs, gambling, and illicit deals. Their rise to power brings both wealth and danger, testing their bonds and morality in a world where trust is fragile and betrayal is commonplace.",
       "genres": [
         "Crime",

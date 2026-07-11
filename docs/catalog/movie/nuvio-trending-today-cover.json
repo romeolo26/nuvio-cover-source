@@ -6,7 +6,6 @@
       "name": "Obsession",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt37287335.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/2y6qVk9YIPxTzO43anxUQ9iTuh4.png",
       "description": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "genres": [
         "Horror",
@@ -14,8 +13,8 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "8",
-      "runtime": "1h49min",
+      "imdbRating": "8.3",
+      "runtime": "1h48min",
       "behaviorHints": {
         "defaultVideoId": "tt37287335",
         "hasScheduledVideos": false
@@ -24,44 +23,40 @@
     {
       "id": "tt2431250",
       "type": "series",
-      "name": "Little House on the Prairie (2026)",
+      "name": "Little House on the Prairie",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2431250.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/459561/backgrounds/6a2cff378cf24.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/459561/clearlogo/6a1a0a59853c1.png",
+      "background": "https://image.tmdb.org/t/p/original/fBieUo3SdItUrXZE16YxbpjwXIe.jpg",
       "description": "The close-knit Ingalls family builds a new life on the Western frontier, where the joys of nature and the struggle for survival are deeply intertwined.",
       "genres": [
-        "Family",
         "Drama",
-        "Western"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026-",
-      "imdbRating": "6.6",
-      "runtime": "49min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt33311069",
-      "type": "movie",
-      "name": "The Furious",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33311069.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/msFWTNrFwfjsHKnMxDUexR9uofh.png",
-      "description": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
+        "Western",
+        "Family"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "7.7",
+      "imdbRating": "5.1",
+      "behaviorHints": {
+        "defaultVideoId": "tt2431250",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt38235625",
+      "type": "movie",
+      "name": "Boulevard",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt38235625.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/98uiDns59GUw26SQSCFmuSHTki3.jpg",
+      "description": "New city, new life, and an unexpected encounter with Luke-a boy fueled by adrenaline and haunted by demons. Despite the warnings, Hasley can't stay away. In their 'boulevard,' they find a raw, liberating love. But as his past threatens to destroy them both, Hasley faces a heartbreaking choice: can you save someone who isn't ready to be rescued?",
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
       "runtime": "1h53min",
       "behaviorHints": {
-        "defaultVideoId": "tt33311069",
+        "defaultVideoId": "tt38235625",
         "hasScheduledVideos": false
       }
     },
@@ -70,20 +65,18 @@
       "type": "series",
       "name": "Silo",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt14688458.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/403245/backgrounds/645cd3cf8bd5e.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/403245/clearlogo/6455710e48c96.png",
+      "background": "https://image.tmdb.org/t/p/original/cAYMSOqsKmi9vdzWh6yv7FCVHzQ.jpg",
       "description": "In a ruined and toxic future, thousands live in a giant silo deep underground. After its sheriff breaks a cardinal rule and residents die mysteriously, engineer Juliette starts to uncover shocking secrets and the truth about the silo.",
       "genres": [
-        "Science Fiction",
+        "Sci-Fi & Fantasy",
         "Drama"
       ],
       "year": "2023",
-      "releaseInfo": "2023-",
-      "imdbRating": "8.1",
-      "runtime": "50min",
+      "releaseInfo": "2023",
+      "imdbRating": "8.2",
       "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
+        "defaultVideoId": "tt14688458",
+        "hasScheduledVideos": false
       }
     },
     {
@@ -91,9 +84,8 @@
       "type": "movie",
       "name": "Moana",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27419466.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/eC8OZbPGJTZ8Ot1k4AM7FtONbUP.png",
-      "description": "Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with the infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "background": "https://image.tmdb.org/t/p/original/dRqDXLVmPuvGJCegVHayK4WS6Cz.jpg",
+      "description": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "genres": [
         "Family",
         "Fantasy",
@@ -102,7 +94,7 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "5.6",
+      "imdbRating": "5.1",
       "runtime": "1h55min",
       "behaviorHints": {
         "defaultVideoId": "tt27419466",
@@ -110,26 +102,102 @@
       }
     },
     {
-      "id": "tt32869308",
+      "id": "tt42127457",
       "type": "series",
-      "name": "Tomb Raider King",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32869308.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/452039/backgrounds/696a57c4bda04.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt32869308/img",
-      "description": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.",
+      "name": "Agent Kim Reactivated",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt42127457.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/g1LJLlmWP74zv9yXKEXm7g9p10O.jpg",
+      "description": "When an unassuming dad's daughter goes missing, he dusts off his old black-ops skills to track her down — only to attract the wrong kind of attention.",
       "genres": [
-        "Fantasy",
-        "Animation",
-        "Adventure",
-        "Action"
+        "Action & Adventure",
+        "Crime",
+        "Drama"
       ],
       "year": "2026",
-      "releaseInfo": "2026-",
-      "imdbRating": "N/A",
-      "runtime": "23min",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
       "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
+        "defaultVideoId": "tt42127457",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt39632269",
+      "type": "movie",
+      "name": "Ikka",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39632269.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/uy16Ktm9blPb1DAoN6h5MwlBJ6V.jpg",
+      "description": "With a loved one's life at stake, a celebrated lawyer must defend a man he suspects is guilty — battling his conscience every step of the way.",
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "runtime": "2h20min",
+      "behaviorHints": {
+        "defaultVideoId": "tt39632269",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt38973414",
+      "type": "series",
+      "name": "Key to the Phoenix Heart",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt38973414.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/xbMj9yV2UWjPcQUPkbDLDLJnB9q.jpg",
+      "description": "The evil general forcefully marries the money-grubbing fake heiress who is obsessed with mechanical arts. From a contractual couple to exposing each other's true identities in a life-and-death situation, their mutual love and hatred intensify. They uncover court conspiracies, shatter deadly chaos, and safeguard the peace of the nation.",
+      "genres": [
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "behaviorHints": {
+        "defaultVideoId": "tt38973414",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33311069",
+      "type": "movie",
+      "name": "The Furious",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33311069.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
+      "description": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "7.5",
+      "runtime": "1h53min",
+      "behaviorHints": {
+        "defaultVideoId": "tt33311069",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32140872",
+      "type": "series",
+      "name": "Star City",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32140872.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/asROh8ULhbYpB4C7x1Q3iFtcxsB.jpg",
+      "description": "Step into a thrilling chapter inspired by For All Mankind. Same alt-history universe. Different perspective: the Soviet Union's. Go behind the Iron Curtain with the cosmonauts, engineers, and intelligence officers who risked it all in the race for the Moon.",
+      "genres": [
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "War & Politics"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "behaviorHints": {
+        "defaultVideoId": "tt32140872",
+        "hasScheduledVideos": false
       }
     },
     {
@@ -138,16 +206,15 @@
       "name": "Evil Dead Burn",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31170389.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/zwZFdMdumgL46gzhR1NHw9ri8e7.png",
-      "description": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
+      "description": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
       "genres": [
         "Horror",
         "Thriller"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "6.9",
-      "runtime": "1h50min",
+      "imdbRating": "7.2",
+      "runtime": "1h49min",
       "behaviorHints": {
         "defaultVideoId": "tt31170389",
         "hasScheduledVideos": false
@@ -158,23 +225,19 @@
       "type": "series",
       "name": "House of the Dragon",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt11198330.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/371572/backgrounds/62d27eb474e3c.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/371572/clearlogo/615defff583a8.png",
-      "description": "The story of House Targaryen, 200 years before the events of Game of Thrones.",
+      "background": "https://image.tmdb.org/t/p/original/577eXC8wFQT0eUrJcgznSiFPRmk.jpg",
+      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm.",
       "genres": [
-        "Fantasy",
+        "Sci-Fi & Fantasy",
         "Drama",
-        "Adventure",
-        "Action",
-        "War"
+        "Action & Adventure"
       ],
       "year": "2022",
-      "releaseInfo": "2022-",
-      "imdbRating": "8.3",
-      "runtime": "1h2min",
+      "releaseInfo": "2022",
+      "imdbRating": "8.4",
       "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
+        "defaultVideoId": "tt11198330",
+        "hasScheduledVideos": false
       }
     },
     {
@@ -183,7 +246,6 @@
       "name": "The Odyssey",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33764258.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/v8FYcLl8UEfq9BKTn4KHgXTCKaX.png",
       "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "genres": [
         "Adventure",
@@ -192,7 +254,7 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "5.5",
+      "imdbRating": "4.2",
       "runtime": "2h53min",
       "behaviorHints": {
         "defaultVideoId": "tt33764258",
@@ -200,117 +262,24 @@
       }
     },
     {
-      "id": "tt36742917",
+      "id": "tt0388629",
       "type": "series",
-      "name": "I'm Not Afraid",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36742917.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/479271/backgrounds/6a39f2314dce7.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt36742917/img",
-      "description": "When a 10-year-old boy stumbles upon a terrifying sight, he learns the brutal realities of life, survival and desperation in a town on the edge.",
+      "name": "One Piece",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0388629.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+      "description": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
       "genres": [
-        "Mini-Series",
-        "Drama",
-        "Suspense"
+        "Action & Adventure",
+        "Comedy",
+        "Animation"
       ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "7.4",
-      "runtime": "45min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt26657236",
-      "type": "movie",
-      "name": "Backrooms",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt26657236.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/g0PswKqAFJdwGK3d1fKvj8LGnrW.png",
-      "description": "A strange doorway appears in the basement of a furniture showroom.",
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "7",
-      "runtime": "1h51min",
-      "behaviorHints": {
-        "defaultVideoId": "tt26657236",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:69346",
-      "type": "series",
-      "name": "The Saga of Tanya the Evil",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt6455986.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/315500-3.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/315500/clearlogo/611c6600a2c0b.png",
-      "description": "On the front lines of the war, there is a little girl. Blond hair, blue eyes, and porcelain white skin, she commands her squad with lisping voice. Her name is Tanya Degurechaff. But in reality, she is one of Japan's most elite salarymen, reborn as a little girl after angering a mysterious being who calls himself God. This little girl, who prioritizes efficiency and her own career over anything else, will become the most dangerous being amongst the sorcerers of the imperial army.",
-      "genres": [
-        "Germany",
-        "Alternative Past",
-        "Europe",
-        "Magic",
-        "War",
-        "Military"
-      ],
-      "year": "2017",
-      "releaseInfo": "2017",
-      "imdbRating": "7.6",
+      "year": "1999",
+      "releaseInfo": "1999",
+      "imdbRating": "8.7",
       "runtime": "24min",
       "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt39385949",
-      "type": "movie",
-      "name": "Nothing to Lose",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39385949.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/6tByIjKn3VLEVHhfpiNNWrnSIOM.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/hHCb8i81kikKIxyVbbTJNVfxXIv.png",
-      "description": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him — no matter the cost.",
-      "genres": [
-        "Drama",
-        "Action"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "5.1",
-      "runtime": "",
-      "behaviorHints": {
-        "defaultVideoId": "tt39385949",
+        "defaultVideoId": "tt0388629",
         "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt43592244",
-      "type": "series",
-      "name": "The Prosecutor’s Proposal",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt43592244.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/479124/backgrounds/6a3c873ccb41b.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt43592244/img",
-      "description": "A victim’s son and a killer’s son reunite as a prosecutor and investigator, fighting systemic corruption while becoming each other's salvation.",
-      "genres": [
-        "Drama",
-        "Crime",
-        "Suspense",
-        "Romance",
-        "Mystery"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026-",
-      "imdbRating": "9.1",
-      "runtime": "23min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
       }
     },
     {
@@ -319,7 +288,6 @@
       "name": "Passenger",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33763941.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/3pDfu71mrzSuFYyIfnKEjt8z4BC.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/suT1v1VkyJALMJ3f5o75ZLTYYZ0.png",
       "description": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
       "genres": [
         "Horror",
@@ -327,7 +295,7 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "5.6",
+      "imdbRating": "6.7",
       "runtime": "1h34min",
       "behaviorHints": {
         "defaultVideoId": "tt33763941",
@@ -335,27 +303,107 @@
       }
     },
     {
-      "id": "tmdb:296286",
+      "id": "tt12879782",
       "type": "series",
-      "name": "Smoking Behind the Supermarket With You",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt37614297.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/465973/backgrounds/6a48faff77f24.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt37614297/img",
-      "description": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”\n\n(Source: Crunchyroll)\n\nNote: Episodes 1-6 had an early release by ABEMA and Crunchyroll on June 3rd, 2026, in a mini-episode batch format that splits 6 episodes into 12, ahead of the TV broadcast, which starts on July 9th, 2026.",
+      "name": "A Record of a Mortal's Journey to Immortality",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt12879782.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/8NIvQY34tNPc4txNeym2zEYk9ek.jpg",
+      "description": "A poor and ordinary boy from a village joins a minor sect in Jiang Hu and becomes an Unofficial Disciple by chance. How will Han Li, a commoner by birth, establish a foothold for himself in his sect? With his mediocre aptitude, he must successfully traverse the treacherous path of cultivation and avoid the notice of those who may do him harm. This is a story of an ordinary mortal who, against all odds, clashes with devilish demons and ancient celestials in order to find his own path towards immortality.",
       "genres": [
-        "Comedy",
-        "Romance",
-        "Slice of Life",
-        "Working Life",
-        "Seinen"
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2020",
+      "releaseInfo": "2020",
+      "imdbRating": "8.4",
+      "runtime": "20min",
+      "behaviorHints": {
+        "defaultVideoId": "tt12879782",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt26657236",
+      "type": "movie",
+      "name": "Backrooms",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt26657236.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "description": "A strange doorway appears in the basement of a furniture showroom.",
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
       ],
       "year": "2026",
-      "releaseInfo": "2026-",
-      "imdbRating": "8.4",
-      "runtime": "10min",
+      "releaseInfo": "2026",
+      "imdbRating": "6.8",
+      "runtime": "1h51min",
       "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
+        "defaultVideoId": "tt26657236",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt13293588",
+      "type": "series",
+      "name": "Mushoku Tensei: Jobless Reincarnation",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt13293588.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/j9fRIimor0AMFJR9kjZubXcABzZ.jpg",
+      "description": "When a 34-year-old underachiever gets run over by a truck, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2021",
+      "releaseInfo": "2021",
+      "imdbRating": "8.5",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": "tt13293588",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33372918",
+      "type": "movie",
+      "name": "The Outer Threat",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33372918.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2NfkO2kwkgFc3ryIOSe1dmggIKY.jpg",
+      "description": "After making a groundbreaking extraterrestrial discovery, astrophysicists Daniel and Michelle are forced to flee from home with their family — pursued through the countryside by a relentless and anonymous assailant. As their flight unfolds, the line between cosmic revelation and human paranoia blurs, leading to a tense and emotional confrontation that challenges the boundaries of understanding, science, and survival.",
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "4",
+      "runtime": "1h34min",
+      "behaviorHints": {
+        "defaultVideoId": "tt33372918",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36517689",
+      "type": "series",
+      "name": "THE GHOST IN THE SHELL",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36517689.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/unc9cOVdhCUDnIqijFX4wHsgG4f.jpg",
+      "description": "2029, a near-future Japan. The full cyborg Motoko Kusanagi envisions a task force that preemptively strikes emerging threats. She and her team are scouted by Daisuke Aramaki as Public Security Section 9, AKA the \"Shell Squad.\" An international conspiracy hints at a hacker known as The \"Puppet Master.\" What fate awaits Kusanagi? What is the hacker's endgame? A new era of cyberpunk action begins!",
+      "genres": [
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "runtime": "25min",
+      "behaviorHints": {
+        "defaultVideoId": "tt36517689",
+        "hasScheduledVideos": false
       }
     },
     {
@@ -364,7 +412,6 @@
       "name": "Toy Story 5",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt29355505.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/dpQ5yGNLRjEPh0mpX5iEYjqGEIJ.png",
       "description": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "genres": [
         "Animation",
@@ -374,7 +421,7 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.4",
       "runtime": "1h42min",
       "behaviorHints": {
         "defaultVideoId": "tt29355505",
@@ -382,76 +429,23 @@
       }
     },
     {
-      "id": "tmdb:37854",
+      "id": "tt37614297",
       "type": "series",
-      "name": "One Piece",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0388629.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/81797/backgrounds/616009a8bd688.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/81797/clearlogo/611b6189d88b6.png",
-      "description": "The adventures of Monkey D. Luffy and his pirate crew in order to find the greatest treasure ever left by the legendary Pirate, Gold Roger. The famous mystery treasure named \"One Piece\".\r\n",
+      "name": "Smoking Behind the Supermarket with You",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt37614297.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
+      "description": "Sasaki is an overworked salaryman drifting through the corporate grind, sustained by cigarettes and the cheerful service and smile of Yamada, the clerk at his favorite supermarket. But one night after a grueling shift, he arrives late to find Yamada nowhere to be seen. With nowhere left to smoke, his spirits sink—until a pierced young woman calls out to him: “You can smoke here.”",
       "genres": [
-        "Fantasy",
-        "Drama",
-        "Comedy",
         "Animation",
-        "Adventure",
-        "Action",
-        "Anime"
-      ],
-      "year": "1999",
-      "releaseInfo": "1999-",
-      "imdbRating": "9",
-      "runtime": "25min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt31378509",
-      "type": "movie",
-      "name": "Dune: Part Three",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31378509.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/5jnVGQXsc0oXLlWD9q6KuwacWQ2.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/aMNp2MnyhG9RJ9dygwhxTt6lzgs.png",
-      "description": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
+        "Drama",
+        "Comedy"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "0.0",
-      "runtime": "2h20min",
+      "imdbRating": "9.3",
       "behaviorHints": {
-        "defaultVideoId": "tt31378509",
+        "defaultVideoId": "tt37614297",
         "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:258348",
-      "type": "series",
-      "name": "Clevatess: The King of Devil Beasts",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32991344.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/451793/backgrounds/669d92532999d.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/451793/clearlogo/69ff3c3f39b56.png",
-      "description": "The story centers on the the titular Clevatess, the lord of Dark Beasts, who wields both uncanny intellect and destructive power. Frustrated by the 13 heroes tasked to destroy him, he has decided to be rid of humanity once and for all. However, he has been charged with one nuisance: he revived a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. The world stands upon the brink of Armageddon, with the obligation of raising one child holding it all back. Now bound together, what fate awaits this unlikely trio?\n\n(Source: Anime News Network, Crunchyroll, edited)",
-      "genres": [
-        "Action",
-        "Drama",
-        "Fantasy",
-        "Demon",
-        "Swordplay",
-        "Violence"
-      ],
-      "year": "2025",
-      "releaseInfo": "2025",
-      "imdbRating": "7.7",
-      "runtime": "24min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
       }
     },
     {
@@ -460,7 +454,6 @@
       "name": "Spider-Man: Brand New Day",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt22084616.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/j95Gl5viP1o69hN3mLL19y2OoXx.png",
       "description": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "genres": [
         "Science Fiction",
@@ -469,34 +462,68 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "0.0",
-      "runtime": "",
+      "runtime": "2h24min",
       "behaviorHints": {
         "defaultVideoId": "tt22084616",
         "hasScheduledVideos": false
       }
     },
     {
-      "id": "tt16026746",
+      "id": "tt9813792",
       "type": "series",
-      "name": "X-Men '97",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt16026746.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/412432/backgrounds/6647cce213d64.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/412432/clearlogo/664a37478fd84.png",
-      "description": "A band of mutants who use their uncanny gifts to protect a world that hates and fears them. They're challenged like never before, forced to face a dangerous and unexpected new future.",
+      "name": "FROM",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt9813792.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/xLdw1xdHocKYFFvx7w41NchXMfJ.jpg",
+      "description": "Unravel the mystery of a nightmarish town in middle America that traps all those who enter. As the unwilling residents fight to keep a sense of normalcy and search for a way out, they must also survive the threats of the surrounding forest – including the terrifying creatures that come out when the sun goes down.",
       "genres": [
-        "Science Fiction",
-        "Animation",
-        "Adventure",
-        "Action"
+        "Mystery",
+        "Drama",
+        "Sci-Fi & Fantasy"
       ],
-      "year": "2024",
-      "releaseInfo": "2024-",
-      "imdbRating": "8.7",
-      "runtime": "31min",
+      "year": "2022",
+      "releaseInfo": "2022",
+      "imdbRating": "8.5",
       "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
+        "defaultVideoId": "tt9813792",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt43595399",
+      "type": "movie",
+      "name": "Shipwrecked: Nightmare at Sea",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt43595399.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/n6TYhOl8NYSoIl8q6dI16IZiodB.jpg",
+      "description": "Never-before-seen footage and survivor accounts trace the 2012 shipwreck of a luxury cruise and the disaster that ensued, in this immersive documentary.",
+      "genres": [
+        "Documentary"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "runtime": "1h27min",
+      "behaviorHints": {
+        "defaultVideoId": "tt43595399",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34991493",
+      "type": "series",
+      "name": "Dutton Ranch",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34991493.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/wh5agdl3b7fqC7mSjsCkHx4fMAs.jpg",
+      "description": "Rip Wheeler and Beth Dutton gamble everything on a new life in South Texas, but the promise of building a future far from the ghosts of Yellowstone quickly collides with brutal new realities and a rival ranch that will stop at nothing to protect its empire.",
+      "genres": [
+        "Western",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "9.2",
+      "behaviorHints": {
+        "defaultVideoId": "tt34991493",
+        "hasScheduledVideos": false
       }
     },
     {
@@ -505,7 +532,6 @@
       "name": "Minions & Monsters",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32890033.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/7bfRNJWmYIwyca2kFyd031wwaJm.png",
       "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "genres": [
         "Adventure",
@@ -516,7 +542,7 @@
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "6.6",
+      "imdbRating": "6.4",
       "runtime": "1h30min",
       "behaviorHints": {
         "defaultVideoId": "tt32890033",
@@ -524,74 +550,20 @@
       }
     },
     {
-      "id": "tmdb:260823",
+      "id": "tt36204806",
       "type": "series",
-      "name": "From Old Country Bumpkin to Master Swordsman",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35346717.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/452710/backgrounds/66ab95d3c4fb7.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt35346717/img",
-      "description": "Beryl Gardenant, a middle-aged swordsman running a dojo in the backwaters, lives a quiet life until Allucia, a former student and Commander of the Royal Order of Knights, appears! Beryl’s life is about to change dramatically! City life. Old students. New friends and formidable foes. It’s all too much. But after years of training, he has mad skills, and he’s been dubbed “the backwater swordmaster.”\n\n(Source: Amazon Prime Video, edited)",
+      "name": "Blossoms of Power",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36204806.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/AcNgNI4HtZHeepeSI5nATqtPemZ.jpg",
+      "description": "The sole survivor of a bloodshed, Gu Qingzhi awakens under a new identity — Shen Xihe, the Princess of the Northwest. Once a proud and spirited rose of the frontier, she has now transformed into a cold, calculating figure, determined to seize control of her destiny and dominate the game of power. Crown Prince Xiao Huayong, frail in body but razor-sharp in mind, sees through the treacherous currents of the court. As their fates intertwine, they grow closer, joining forces to command the winds of destiny.",
       "genres": [
-        "Action",
-        "Adventure",
-        "Comedy",
-        "Fantasy",
-        "Swordplay",
-        "Harem",
-        "Seinen",
-        "Magic"
-      ],
-      "year": "2025",
-      "releaseInfo": "2025",
-      "imdbRating": "6.7",
-      "runtime": "23min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt12042730",
-      "type": "movie",
-      "name": "Project Hail Mary",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt12042730.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/jvqIELbZctv3Jqtcc7Ic5of8vY7.png",
-      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
-      "genres": [
-        "Science Fiction",
-        "Adventure"
+        "Drama"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "8.2",
-      "runtime": "2h37min",
       "behaviorHints": {
-        "defaultVideoId": "tt12042730",
+        "defaultVideoId": "tt36204806",
         "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:312949",
-      "type": "series",
-      "name": "Chainsmoker Cat",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39551330.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/473423/backgrounds/6a3df111cf853.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt39551330/img",
-      "description": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
-      "genres": [
-        "Fantasy",
-        "Comedy",
-        "Animation",
-        "Anime"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026-",
-      "imdbRating": "6.9",
-      "runtime": "24min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
       }
     },
     {
@@ -600,16 +572,15 @@
       "name": "The Sheep Detectives",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32565993.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/t6O6XWelu27BD0OmIDCCufZZT6d.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/ajnQofw6csw0wYSkeBVhdYqGC8p.png",
       "description": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
       "genres": [
-        "Mystery",
         "Comedy",
-        "Family"
+        "Family",
+        "Mystery"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "7.5",
+      "imdbRating": "7.8",
       "runtime": "1h49min",
       "behaviorHints": {
         "defaultVideoId": "tt32565993",
@@ -617,27 +588,267 @@
       }
     },
     {
-      "id": "tt9813792",
+      "id": "tt2861424",
       "type": "series",
-      "name": "FROM",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt9813792.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/401003/backgrounds/619eb10caf5bc.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/401003/clearlogo/6206d93cdb469.png",
-      "description": "In a nightmarish town in middle America that traps everyone who enters, unwilling residents fight to stay alive and search for a way out. But they are plagued by the threats of the surrounding forest including terrifying nocturnal creatures.",
+      "name": "Rick and Morty",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2861424.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/5BDNWWHweQL0q1fmTv7gmRXfnl4.jpg",
+      "description": "Follows a sociopathic genius scientist who drags his inherently timid grandson on adventures across the universe.",
       "genres": [
-        "Science Fiction",
-        "Horror",
+        "Animation",
+        "Comedy",
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "year": "2013",
+      "releaseInfo": "2013",
+      "imdbRating": "8.7",
+      "behaviorHints": {
+        "defaultVideoId": "tt2861424",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt39385949",
+      "type": "movie",
+      "name": "Nothing to Lose",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39385949.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/6tByIjKn3VLEVHhfpiNNWrnSIOM.jpg",
+      "description": "She gave everything to become a mother, so when her young son falls ill, Jada will stop at  nothing to find a donor and save him — no matter the cost.",
+      "genres": [
         "Drama",
-        "Thriller",
+        "Action"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "runtime": "1h42min",
+      "behaviorHints": {
+        "defaultVideoId": "tt39385949",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt16418808",
+      "type": "series",
+      "name": "Sugar",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt16418808.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/1TD4RxJsHkFbkJtWgoVRzQf9STd.jpg",
+      "description": "John Sugar is a dashing private eye navigating the dark corners of sunny LA. Though he sees only the good in humanity, Sugar is haunted by a secret too dangerous to expose.",
+      "genres": [
+        "Drama",
         "Mystery"
       ],
-      "year": "2022",
-      "releaseInfo": "2022-",
-      "imdbRating": "7.8",
-      "runtime": "51min",
+      "year": "2024",
+      "releaseInfo": "2024",
+      "imdbRating": "7.1",
       "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
+        "defaultVideoId": "tt16418808",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33612209",
+      "type": "movie",
+      "name": "The Devil Wears Prada 2",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33612209.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.1",
+      "runtime": "1h59min",
+      "behaviorHints": {
+        "defaultVideoId": "tt33612209",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34675596",
+      "type": "series",
+      "name": "Cape Fear",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34675596.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/rvMmQj3nMZbJmoW6QrzU0nq9Xky.jpg",
+      "description": "When convicted murderer Max Cady is released from prison, he begins infiltrating the family of the married attorneys who helped put him behind bars.",
+      "genres": [
+        "Drama",
+        "Crime"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "behaviorHints": {
+        "defaultVideoId": "tt34675596",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt12042730",
+      "type": "movie",
+      "name": "Project Hail Mary",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt12042730.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "description": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "runtime": "2h37min",
+      "behaviorHints": {
+        "defaultVideoId": "tt12042730",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt16026746",
+      "type": "series",
+      "name": "X-Men '97",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt16026746.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/jIyEmnBrZtl6SEWyBoMO2hZnzMa.jpg",
+      "description": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2024",
+      "releaseInfo": "2024",
+      "imdbRating": "8.6",
+      "behaviorHints": {
+        "defaultVideoId": "tt16026746",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32278481",
+      "type": "movie",
+      "name": "Enola Holmes 3",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32278481.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
+      "description": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
+      "genres": [
+        "Adventure",
+        "Crime",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7",
+      "runtime": "1h49min",
+      "behaviorHints": {
+        "defaultVideoId": "tt32278481",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt5607616",
+      "type": "series",
+      "name": "Re:ZERO -Starting Life in Another World-",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt5607616.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+      "description": "Natsuki Subaru, an ordinary high school  student, is on his way home from the convenience store when he finds  himself transported to another world. As he's lost and confused in a new  world where he doesn't even know left from right, the only person to  reach out to him was a beautiful girl with silver hair. Determined to  repay her somehow for saving him from his own despair, Subaru agrees to  help the girl find something she's looking for.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Mystery",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2016",
+      "releaseInfo": "2016",
+      "imdbRating": "8",
+      "runtime": "25min",
+      "behaviorHints": {
+        "defaultVideoId": "tt5607616",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32612507",
+      "type": "movie",
+      "name": "Lee Cronin's The Mummy",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32612507.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/s3tHm62ohyb0I5vSnPrpczCBtSX.jpg",
+      "description": "The young daughter of a journalist disappears into the desert without a trace—eight years later, the broken family is shocked when she is returned to them, as what should be a joyful reunion turns into a living nightmare.",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "runtime": "2h13min",
+      "behaviorHints": {
+        "defaultVideoId": "tt32612507",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt6455986",
+      "type": "series",
+      "name": "Saga of Tanya the Evil",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt6455986.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/xe2IkfzpGFObODJLTpBB9bdRpbB.jpg",
+      "description": "On the front lines of the war, Tanya Degurechaff, blond hair, blue eyes, and porcelain white skin, commands her squad with lisping voice. Actually, she is one of Japan's most elite salary men, reborn as a little girl into a world of magical warfare after angering a mysterious being who calls himself God.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Sci-Fi & Fantasy",
+        "War & Politics"
+      ],
+      "year": "2017",
+      "releaseInfo": "2017",
+      "imdbRating": "8.2",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": "tt6455986",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt11378946",
+      "type": "movie",
+      "name": "Michael",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt11378946.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.7",
+      "runtime": "2h8min",
+      "behaviorHints": {
+        "defaultVideoId": "tt11378946",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33083249",
+      "type": "series",
+      "name": "Human Vapor",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33083249.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/qIMNDToguvTIaVReD8GgeDgfXVr.jpg",
+      "description": "A death on live TV. A culprit who turns to gas. Behind it, a secret project that used and discarded the vulnerable. One detective pursues the dark truth.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Crime"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "behaviorHints": {
+        "defaultVideoId": "tt33083249",
+        "hasScheduledVideos": false
       }
     },
     {
@@ -645,8 +856,7 @@
       "type": "movie",
       "name": "The Invite",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt14173636.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/hcuE9wiunMTluNR7u1mkCmKi4xu.png",
+      "background": "https://image.tmdb.org/t/p/original/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
       "description": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
       "genres": [
         "Drama",
@@ -662,208 +872,106 @@
       }
     },
     {
-      "id": "tt36204806",
+      "id": "tt39551330",
       "type": "series",
-      "name": "Blossoms of Power",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36204806.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/465064/backgrounds/69890c9b54475.jpg",
-      "logo": "https://images.metahub.space/logo/medium/tt36204806/img",
-      "description": "Gu Qingzhi, a massacre survivor, returns as Shen Xihe, evolving from a proud border rose into a cold and calculating princess determined to control her fate. Crown Prince Xiao Huayong, frail yet sharp, navigates the treacherous court politics. Together, they rise by wit and trust.",
+      "name": "Chainsmoker Cat",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39551330.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+      "description": "Catgirl Yani struggles to pay her rent and keep a job while feeding her smoking habit. As her loved ones' concerns grow, she must rethink her future.",
       "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026-",
-      "imdbRating": "N/A",
-      "runtime": "45min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt33612209",
-      "type": "movie",
-      "name": "The Devil Wears Prada 2",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33612209.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/v6TyxpV3ZXG28MXTaHCXTmXc0B.png",
-      "description": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "6.5",
-      "runtime": "1h59min",
-      "behaviorHints": {
-        "defaultVideoId": "tt33612209",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:255358",
-      "type": "series",
-      "name": "THE GHOST IN THE SHELL",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36517689.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/450475/backgrounds/67fcb63bc055a.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/450475/clearlogo/67fcb8f9adfcb.png",
-      "description": "The year is 2029, a near future Japan, where the world has become highly information-intensive, with a vast corporate network covering the planet, electrons and light pulsing through it.  But the nation-state ethnic groups still survive.\n\nMotoko Kusanagi, a full-body cyborg, leads an elite combat unit of fellow cyborgs, including Batou. While commanding her team, Kusanagi envisions the creation of a specialized task force to preemptively strike against emerging threats. Meanwhile, Daisuke Aramaki of the Ministry of Home Affairs, who had been planning to establish a similar unit, scouts Kusanagi and her team. \n\nTogether, they begin operations as Public Security Section 9 — an aggressive tactical  organization known as the \"Shell Squad.\" As they confront complex cyber-crimes and international conspiracies, the existence of a mysterious, unidentified hacker known as \"the Pupper Master\" emerges on the horizon of their investigation. What fate awaits Kusanagi? \n\nAnd what is the Puppet Master's true objective?\n\nA new era of cyberbunk action begins.\n\n(Source:攻殻機動隊 THE GHOST IN THE SHELL Site)",
-      "genres": [
-        "Cyberpunk",
-        "Action",
-        "Science Fiction",
-        "Android",
-        "Cops",
-        "Human Enhancement",
-        "Seinen",
-        "Special Squads"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026-",
-      "imdbRating": "7.6",
-      "runtime": "24min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt11378946",
-      "type": "movie",
-      "name": "Michael",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt11378946.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/wJHlHY0t6iBq6JRyCZNCH7cKzl1.png",
-      "description": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "genres": [
-        "Music",
-        "Drama"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "7.5",
-      "runtime": "2h8min",
-      "behaviorHints": {
-        "defaultVideoId": "tt11378946",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:94664",
-      "type": "series",
-      "name": "Mushoku Tensei: Jobless Reincarnation",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt13293588.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/series/371310/backgrounds/5fef65bea1666.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/371310/clearlogo/611e1096b3206.png",
-      "description": "When a 34-year-old underachiever gets run over by a bus, his story doesn't end there. Reincarnated in a new world as an infant, Rudy will seize every opportunity to live the life he's always wanted. Armed with new friends, some freshly acquired magical abilities, and the courage to do the things he's always dreamed of, he's embarking on an epic adventure—with all of his past experience intact!\n\n(Source: Crunchyroll)",
-      "genres": [
-        "Fantasy",
-        "Magic",
-        "Isekai",
-        "Ecchi",
-        "Drama",
-        "Harem"
-      ],
-      "year": "2021",
-      "releaseInfo": "2021",
-      "imdbRating": "8.2",
-      "runtime": "24min",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt8814476",
-      "type": "movie",
-      "name": "Supergirl",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt8814476.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/sOKyZ1al829AnlmjWoghvzXFbQ6.png",
-      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "6.1",
-      "runtime": "1h48min",
-      "behaviorHints": {
-        "defaultVideoId": "tt8814476",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tmdb:326119",
-      "type": "series",
-      "name": "Thunder 3",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt43589481.jpg?rs=TR",
-      "background": "https://images.metahub.space/background/medium/tt43589481/img",
-      "logo": "https://images.metahub.space/logo/medium/tt43589481/img",
-      "description": "Three ordinary schoolboys come into possession of a DVD that supposedly opens a gateway to a parallel universe, but when their backs are turned Pyontarou's little sister Futaba passes through and gets kidnapped by the aliens that have overrun that version of Earth! Discovering that their cartoonish bodies make them supermen in the hyper-realistic parallel universe, the boys set out to rescue Futaba.\n\n(Source: Kodansha USA)",
-      "genres": [
-        "Mystery",
-        "Science Fiction",
-        "Supernatural",
-        "Shounen"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026-",
-      "imdbRating": "N/A",
-      "runtime": "",
-      "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
-      }
-    },
-    {
-      "id": "tt32278481",
-      "type": "movie",
-      "name": "Enola Holmes 3",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32278481.jpg?rs=TR",
-      "background": "https://image.tmdb.org/t/p/original/jLuGZc84MvPYCQomQg9DI72mstt.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/pVeJDWwmgXID7Bs8u0d21pr55Oj.png",
-      "description": "Adventure follows detective Enola Holmes to Malta, where her plans to tie the knot unravel when Sherlock's disappearance plunges her into a perilous case.",
-      "genres": [
-        "Adventure",
-        "Crime",
-        "Mystery"
-      ],
-      "year": "2026",
-      "releaseInfo": "2026",
-      "imdbRating": "5.8",
-      "runtime": "1h49min",
-      "behaviorHints": {
-        "defaultVideoId": "tt32278481",
-        "hasScheduledVideos": false
-      }
-    },
-    {
-      "id": "tt2861424",
-      "type": "series",
-      "name": "Rick and Morty",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt2861424.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/fanart/original/275274-1.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/275274/clearlogo/611b76b134415.png",
-      "description": "Follows the misadventures of an alcoholic scientist Rick and his overly nervous grandson Morty, who split their time between domestic family life and intergalactic travel. Often finding themselves in a heap of trouble that more often than not is created through their own actions.",
-      "genres": [
-        "Science Fiction",
-        "Comedy",
         "Animation",
-        "Adventure"
+        "Comedy",
+        "Sci-Fi & Fantasy"
       ],
-      "year": "2013",
-      "releaseInfo": "2013-",
-      "imdbRating": "9",
-      "runtime": "22min",
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.4",
+      "runtime": "24min",
       "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
+        "defaultVideoId": "tt39551330",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33071426",
+      "type": "movie",
+      "name": "The Drama",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33071426.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/1oKLEA9JOhvaBwLpqjROisvWMy7.jpg",
+      "description": "A happily engaged couple is put to the test when an unexpected turn sends their wedding week off the rails.",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "runtime": "1h45min",
+      "behaviorHints": {
+        "defaultVideoId": "tt33071426",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32020831",
+      "type": "series",
+      "name": "Elle",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32020831.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/truh4rtTUdRVYGeT0n17dxvdv41.jpg",
+      "description": "Before Elle Woods was a fish-out-of-water at Harvard, we meet her in 1995 in the tumultuous waters of high school where she encounters tricky friendships, forbidden romance, and questionable fashion choices. In this unexpected chapter of her adolescence, we learn about the experiences that shaped Elle into the iconic young woman we've come to know and love.",
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "behaviorHints": {
+        "defaultVideoId": "tt32020831",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt31195136",
+      "type": "movie",
+      "name": "Normal",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31195136.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
+      "description": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "runtime": "1h31min",
+      "behaviorHints": {
+        "defaultVideoId": "tt31195136",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt9054364",
+      "type": "series",
+      "name": "That Time I Got Reincarnated as a Slime",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt9054364.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+      "description": "Corporate worker Mikami Satoru is stabbed by a random killer, and is reborn to an alternate world. But he turns out to be reborn a slime! Thrown into this new world with the name Rimuru, he begins his quest to create a world that’s welcoming to all races.",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Sci-Fi & Fantasy",
+        "Comedy"
+      ],
+      "year": "2018",
+      "releaseInfo": "2018",
+      "imdbRating": "8.4",
+      "behaviorHints": {
+        "defaultVideoId": "tt9054364",
+        "hasScheduledVideos": false
       }
     },
     {
@@ -872,7 +980,6 @@
       "name": "Disclosure Day",
       "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt15047880.jpg?rs=TR",
       "background": "https://image.tmdb.org/t/p/original/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "logo": "https://image.tmdb.org/t/p/original/9pp8pOfBZBM5WXoZ0DmMrDOlqPH.png",
       "description": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "genres": [
         "Science Fiction",
@@ -888,24 +995,943 @@
       }
     },
     {
-      "id": "tt35587659",
+      "id": "tt43592244",
       "type": "series",
-      "name": "The Five-Star Weekend",
-      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35587659.jpg?rs=TR",
-      "background": "https://artworks.thetvdb.com/banners/v4/series/459474/backgrounds/69bae64a3414b.jpg",
-      "logo": "https://artworks.thetvdb.com/banners/v4/series/459474/clearlogo/6a46b908aa868.png",
-      "description": "After her husband’s unexpected death and a very public breakdown, famed cook Hollis hosts her best friends for an elaborate weekend on Nantucket.",
+      "name": "The Prosecutor's Proposal",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt43592244.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/feISh3qoREwIPWbSaLqqumbmh7m.jpg",
+      "description": "A victim’s son and a killer’s son reunite as a prosecutor and investigator, fighting systemic corruption while becoming each other's salvation.",
       "genres": [
-        "Mini-Series",
+        "Mystery",
+        "Crime",
         "Drama"
       ],
       "year": "2026",
       "releaseInfo": "2026",
-      "imdbRating": "N/A",
-      "runtime": "41min",
+      "imdbRating": "5",
       "behaviorHints": {
-        "defaultVideoId": null,
-        "hasScheduledVideos": true
+        "defaultVideoId": "tt43592244",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt27369017",
+      "type": "movie",
+      "name": "Hope",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27369017.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/qv2gffpbllYE1Pxz5nhYQmYuht5.jpg",
+      "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Action"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "runtime": "2h37min",
+      "behaviorHints": {
+        "defaultVideoId": "tt27369017",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36742917",
+      "type": "series",
+      "name": "I'm Not Afraid",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36742917.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/9eHQh4Ji4wWksUSln264LZt3NfL.jpg",
+      "description": "10-year-old Miguel stumbles upon a terrifying secret involving a boy trapped in a hole near his home.",
+      "genres": [
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "behaviorHints": {
+        "defaultVideoId": "tt36742917",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt42111424",
+      "type": "movie",
+      "name": "Love, Ngo",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt42111424.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/zuf6SE4UwxFwNquCCogGBsBFAcV.jpg",
+      "description": "“Love, Ngo” follows Ngongo, a hardworking young man who volunteers at a cleft lip and palate foundation while helping at his mother’s burger stand. The film explores his struggles with love, family and self-acceptance after falling for a woman whose family disapproves of his condition and social status.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "runtime": "1h23min",
+      "behaviorHints": {
+        "defaultVideoId": "tt42111424",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt35587659",
+      "type": "series",
+      "name": "The Five Star Weekend",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35587659.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/lq2aJdPlyOo11aBwojmLvGjlJS1.jpg",
+      "description": "After her husband's unexpected death and a very public breakdown, famed cook Hollis hosts her best friends for an elaborate weekend on Nantucket.",
+      "genres": [
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5",
+      "behaviorHints": {
+        "defaultVideoId": "tt35587659",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34584846",
+      "type": "movie",
+      "name": "Man of War",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34584846.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/kMrkqfjuPR4FlfaScrNNYuOEGHa.jpg",
+      "description": "When an aid worker vanishes in the first hours of war in Ukraine, a former Navy SEAL and CIA operative crosses into the shattered country to bring her home-facing mercenaries, shifting battle lines, and ghosts he thought he left behind.",
+      "genres": [
+        "Action"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.3",
+      "runtime": "1h51min",
+      "behaviorHints": {
+        "defaultVideoId": "tt34584846",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt14452776",
+      "type": "series",
+      "name": "The Bear",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt14452776.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/aJtG4txtmiRHwAAqENQHZvBs6kY.jpg",
+      "description": "Carmy, a young fine-dining chef, comes home to Chicago to run his family sandwich shop. As he fights to transform the shop and himself, he works alongside a rough-around-the-edges crew that ultimately reveal themselves as his chosen family.",
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "year": "2022",
+      "releaseInfo": "2022",
+      "imdbRating": "8.1",
+      "behaviorHints": {
+        "defaultVideoId": "tt14452776",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt35309713",
+      "type": "movie",
+      "name": "Citizen Vigilante",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35309713.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/qJ2KSHJhlFvASBMLbGuP7OFMaFg.jpg",
+      "description": "A man takes justice into his own hands, hunting down criminals. His vigilante crusade makes him a social media star but puts him at odds with the local police chief.",
+      "genres": [
+        "Thriller",
+        "Action",
+        "Crime"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "runtime": "1h29min",
+      "behaviorHints": {
+        "defaultVideoId": "tt35309713",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt10885406",
+      "type": "series",
+      "name": "Ascendance of a Bookworm",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt10885406.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
+      "description": "When a sickly young girl suddenly becomes obsessed with inventing new things, her family and friends are all puzzled. \"What has gotten into Myne?\" they wondered, never dreaming that the answer is not a \"What\" but a \"Who\": Urano Motosu, a book-loving apprentice librarian who died in an earthquake in Tokyo who somehow found herself in Myne's body! And since Myne's world is still in a medieval stage, where books can only be owned by the elite, the new Myne intends to do everything she can to bring her beloved books to the masses in the time she has left.",
+      "genres": [
+        "Animation",
+        "Drama",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2019",
+      "releaseInfo": "2019",
+      "imdbRating": "8.1",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": "tt10885406",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt39398878",
+      "type": "movie",
+      "name": "Miguel Ángel Blanco: Las 48 horas que lo cambiaron todo",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39398878.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/6QdbhPXNVFJ3cVCCFscOulC3Bpa.jpg",
+      "description": "This documentary explores how Miguel Ángel Blanco's 1997 abduction turned fear into collective resistance and shaped Spain's fright Against ETA terrorism.",
+      "genres": [
+        "Documentary"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "runtime": "1h33min",
+      "behaviorHints": {
+        "defaultVideoId": "tt39398878",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt1190634",
+      "type": "series",
+      "name": "The Boys",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1190634.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/n6vVs6z8obNbExdD3QHTr4Utu1Z.jpg",
+      "description": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+      "genres": [
+        "Sci-Fi & Fantasy",
+        "Action & Adventure"
+      ],
+      "year": "2019",
+      "releaseInfo": "2019",
+      "imdbRating": "8.4",
+      "behaviorHints": {
+        "defaultVideoId": "tt1190634",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt28650488",
+      "type": "movie",
+      "name": "The Super Mario Galaxy Movie",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt28650488.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/kxQiIJ4gVcD3K6o14MJ72p5yRcE.jpg",
+      "description": "Having thwarted Bowser's previous plot to marry Princess Peach, Mario and Luigi now face a fresh threat in Bowser Jr., who is determined to liberate his father from captivity and restore the family legacy. Alongside companions new and old, the brothers travel across the stars to stop the young heir's crusade.",
+      "genres": [
+        "Family",
+        "Comedy",
+        "Adventure",
+        "Fantasy",
+        "Animation"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "runtime": "1h38min",
+      "behaviorHints": {
+        "defaultVideoId": "tt28650488",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34771210",
+      "type": "series",
+      "name": "I Will Find You",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34771210.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/yOna5ZGXrvWO2HdOCKcahx2sCDN.jpg",
+      "description": "Wrongfully imprisoned for murdering his own son, a father sets out on a desperate rescue mission after learning the boy may still be alive.",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "behaviorHints": {
+        "defaultVideoId": "tt34771210",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt23865918",
+      "type": "movie",
+      "name": "Peddi",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt23865918.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+      "description": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "runtime": "3h12min",
+      "behaviorHints": {
+        "defaultVideoId": "tt23865918",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0434665",
+      "type": "series",
+      "name": "Bleach",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0434665.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/o0NsbcIvsllg6CJX0FBFY8wWbsn.jpg",
+      "description": "For as long as he can remember, Ichigo Kurosaki has been able to see ghosts. But when he meets Rukia, a Soul Reaper who battles evil spirits known as Hollows, he finds his life is changed forever. Now, with a newfound wealth of spiritual energy, Ichigo discovers his true calling: to protect the living and the dead from evil.",
+      "genres": [
+        "Action & Adventure",
+        "Animation",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2004",
+      "releaseInfo": "2004",
+      "imdbRating": "8.4",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0434665",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt27548557",
+      "type": "movie",
+      "name": "Dhamaal 4",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27548557.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "description": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "runtime": "2h23min",
+      "behaviorHints": {
+        "defaultVideoId": "tt27548557",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt28077038",
+      "type": "series",
+      "name": "Pritam and Pedro",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt28077038.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/eAXSlqAJwpdsZ59G10lao9OJ4SG.jpg",
+      "description": "The dynamic between the two contrasting personalities, a seasoned cop who prefers old-school methods and a tech-savvy cop who relies on modern technology for investigations, as they navigate their partnership in solving crimes.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery",
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "behaviorHints": {
+        "defaultVideoId": "tt28077038",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt31378509",
+      "type": "movie",
+      "name": "Dune: Part Three",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt31378509.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/bU206dN0ucfOFRK17OXabkdHKFC.jpg",
+      "description": "As Emperor, Paul Atreides grapples with the consequences of his rise to power as political conspiracies and a galaxy-spanning holy war threaten the future he alone can foresee.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "runtime": "2h20min",
+      "behaviorHints": {
+        "defaultVideoId": "tt31378509",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33332385",
+      "type": "series",
+      "name": "Widow's Bay",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33332385.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/yx0sfeYOoXol2fjT22SXo9YyviI.jpg",
+      "description": "The mayor of a New England town resolves to turn it into the next tourist hot spot, despite local warnings that it's cursed.",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "behaviorHints": {
+        "defaultVideoId": "tt33332385",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt39602729",
+      "type": "movie",
+      "name": "Wonderful Nightmare",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39602729.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/43xC9erNcSoBBfZRokKgm5xb9Ek.jpg",
+      "description": "It follows a high-flying, career-driven lawyer who dies prematurely due to a clerical error in heaven.",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.5",
+      "behaviorHints": {
+        "defaultVideoId": "tt39602729",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt38646634",
+      "type": "series",
+      "name": "HELL MODE: The Hardcore Gamer Dominates in Another World with Garbage Balancing",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt38646634.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/gf62V8UBVBMFPpD9yI0UFvkFvq2.jpg",
+      "description": "Kenichi Yamada, a single, 35-year-old businessman, has spent the majority of his adult life playing every MMORPG to hit the market. Tired of the constant cycle of repetitive, newbie-centric gameplay, he is immediately drawn in by the promise of a new game that, on top of being never-ending, offers up a \"Hell Mode\"—a difficulty level that makes it nigh impossible to level up but also promises uncapped growth potential. Upon selecting the newly released Summoner class, Kenichi finds himself reborn as Allen, an infant in a serf family, with nothing but his wits and old memories to guide him.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.4",
+      "behaviorHints": {
+        "defaultVideoId": "tt38646634",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt35892608",
+      "type": "movie",
+      "name": "undertone",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35892608.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/4BSJVRQ3EsHMIVZSiKz1l58jDhg.jpg",
+      "description": "The host of a popular paranormal podcast becomes haunted by terrifying recordings mysteriously sent her way.",
+      "genres": [
+        "Horror",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.1",
+      "runtime": "1h34min",
+      "behaviorHints": {
+        "defaultVideoId": "tt35892608",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt12343534",
+      "type": "series",
+      "name": "JUJUTSU KAISEN",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt12343534.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/lthkKBLe1rX6iThgVFg22O02sJw.jpg",
+      "description": "Yuji Itadori is a boy with tremendous physical strength, though he lives a completely ordinary high school life. One day, to save a classmate who has been attacked by curses, he eats the finger of Ryomen Sukuna, taking the curse into his own soul. From then on, he shares one body with Ryomen Sukuna. Guided by the most powerful of sorcerers, Satoru Gojo, Itadori is admitted to Tokyo Jujutsu High School, an organization that fights the curses... and thus begins the heroic tale of a boy who became a curse to exorcise a curse, a life from which he could never turn back.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2020",
+      "releaseInfo": "2020",
+      "imdbRating": "8.6",
+      "runtime": "24min",
+      "behaviorHints": {
+        "defaultVideoId": "tt12343534",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt8814476",
+      "type": "movie",
+      "name": "Supergirl",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt8814476.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
+      "description": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.2",
+      "runtime": "1h48min",
+      "behaviorHints": {
+        "defaultVideoId": "tt8814476",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt37532893",
+      "type": "series",
+      "name": "BLACK TORCH",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt37532893.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/goTFoBxSyLybVvlGa2Ke9uTchdF.jpg",
+      "description": "Jiro Azuma is no average high schooler. A descendant of ninjas and trained in the ancient warrior art of the shinobi, Jiro is also able to talk with animals. After a mysterious encounter with an injured cat named Rago, Jiro discovers the feline is actually the legendary Black Star of Doom! Joined by the Bureau of Espionage, they fight off swarms of mononoke lying in wait to exploit Rago’s powers.",
+      "genres": [
+        "Animation",
+        "Mystery",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.7",
+      "behaviorHints": {
+        "defaultVideoId": "tt37532893",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt17490712",
+      "type": "movie",
+      "name": "Mortal Kombat II",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt17490712.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "description": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "runtime": "1h56min",
+      "behaviorHints": {
+        "defaultVideoId": "tt17490712",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt35346717",
+      "type": "series",
+      "name": "From Old Country Bumpkin to Master Swordsman",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35346717.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
+      "description": "Beryl Gardenant, a middle-aged swordsman running a dojo in the backwaters, lives a quiet life, until Allucia, former student and Commander of the Royal Order of Knights, appears! Beryl’s life is about to change dramatically! City life. Old students. New friends and formidable foes. It’s all too much. But after years of training, he has mad skills, and he’s been dubbed “the backwater swordmaster.”",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Comedy"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "7.2",
+      "behaviorHints": {
+        "defaultVideoId": "tt35346717",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36103784",
+      "type": "movie",
+      "name": "Kung Fu Soccer",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36103784.jpg?rs=TR",
+      "description": "The \"Supreme Invincible Cup\" is about to begin, and a host of top teams are about to engage in an unprecedented showdown! But the Kung Fu Women's Soccer Team has been dealt a hellish script right from the start?! Their opponents are all highly skilled, and external pressure is mounting. The schemes on the field are one after another... Can they use their kung fu to turn the tide on the green field?",
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Action"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "runtime": "1h46min",
+      "behaviorHints": {
+        "defaultVideoId": "tt36103784",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32869308",
+      "type": "series",
+      "name": "Tomb Raider King",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32869308.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/wK1SL5EUJ6Bq2UhDCRtT1FA1HdN.jpg",
+      "description": "Chaos ensues overnight when mysterious tombs suddenly surface, filled with divine relics granting overwhelming power, triggering a global power struggle to claim them for dominion. Among the havoc, a raider, Jooheon Suh, is betrayed and left for dead until a second chance brings him back years before the relics. Fueled by fury and future knowledge, he sets out to raid each tomb before they arise.",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "behaviorHints": {
+        "defaultVideoId": "tt32869308",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt1757678",
+      "type": "movie",
+      "name": "Avatar: Fire and Ash",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt1757678.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+      "description": "In the wake of the devastating war against the RDA and the loss of their eldest son, Jake Sully and Neytiri face a new threat on Pandora: the Ash People, a violent and power-hungry Na'vi tribe led by the ruthless Varang. Jake's family must fight for their survival and the future of Pandora in a conflict that pushes them to their emotional and physical limits.",
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Fantasy"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "7.6",
+      "runtime": "3h18min",
+      "behaviorHints": {
+        "defaultVideoId": "tt1757678",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt9018736",
+      "type": "series",
+      "name": "Avatar: The Last Airbender",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt9018736.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/xUB3xFMgsHgPmdWnUWkHTJ03vHa.jpg",
+      "description": "A young boy known as the Avatar must master the four elemental powers to save a world at war — and fight a ruthless enemy bent on stopping him.",
+      "genres": [
+        "Action & Adventure",
+        "Sci-Fi & Fantasy",
+        "Drama",
+        "Family"
+      ],
+      "year": "2024",
+      "releaseInfo": "2024",
+      "imdbRating": "7.8",
+      "behaviorHints": {
+        "defaultVideoId": "tt9018736",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32547691",
+      "type": "movie",
+      "name": "Pressure",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32547691.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/apfyLCPVFttB8oXcsLJ7q0NSFLx.jpg",
+      "description": "In the tense 72 hours before D-Day, and the fate of the free world hanging in the balance, General Dwight D. Eisenhower and Captain James Stagg face an impossible choice—launch the largest and most dangerous seaborne invasion in history or risk losing the war altogether.",
+      "genres": [
+        "Thriller",
+        "History",
+        "War"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.5",
+      "runtime": "1h41min",
+      "behaviorHints": {
+        "defaultVideoId": "tt32547691",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33978029",
+      "type": "movie",
+      "name": "Ready or Not: Here I Come",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33978029.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/fx2cEuadZK28VHKkc0F1nFR96i0.jpg",
+      "description": "Moments after surviving an all-out attack from the Le Domas family, Grace discovers she’s reached the next level of the nightmarish game — and this time with her estranged sister Faith at her side. Grace has one chance to survive, keep her sister alive, and claim the High Seat of the Council that controls the world. Four rival families are hunting her for the throne, and whoever wins rules it all.",
+      "genres": [
+        "Thriller",
+        "Horror",
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.6",
+      "runtime": "1h48min",
+      "behaviorHints": {
+        "defaultVideoId": "tt33978029",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tmdb:series:325052",
+      "type": "series",
+      "name": "KAMUI: He's Behind You",
+      "poster": "https://image.tmdb.org/t/p/w500/eB3kUvHD5WLzkEHJNM32v2O8PCY.jpg",
+      "background": "https://image.tmdb.org/t/p/original/xpTBqtyMY6YZuWuvE3yMQ2G68Fq.jpg",
+      "description": "Shizuka is a normal high school girl with the ability to see ghosts. Due to her peculiar tendency to attract ghosts, she works as an assistant to Kamui, a famous psychic. Kamui takes pride in his top-notch psychic abilities, but the way he exorcises ghosts is rather unusual!",
+      "genres": [
+        "Animation"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "9",
+      "behaviorHints": {
+        "defaultVideoId": "tmdb:series:325052",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt0427340",
+      "type": "movie",
+      "name": "Masters of the Universe",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt0427340.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "description": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.9",
+      "runtime": "2h21min",
+      "behaviorHints": {
+        "defaultVideoId": "tt0427340",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt27681354",
+      "type": "movie",
+      "name": "In the Grey",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt27681354.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/qcIKxhqGMIj8uujsSoSMZWr8QqU.jpg",
+      "description": "A covert team of elite operatives are living in the shadows. When a ruthless despot steals a billion-dollar fortune, they're sent to take it back—an impossible heist that erupts into a deadly game of strategy, deception and survival.",
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "7.3",
+      "runtime": "1h37min",
+      "behaviorHints": {
+        "defaultVideoId": "tt27681354",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt37543147",
+      "type": "series",
+      "name": "Life, Larry and the Pursuit of Unhappiness: An Almost History of America",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt37543147.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/6Fbrrf2jaYJ8s3nnnuhhvvDjTZN.jpg",
+      "description": "An improvised, comedic approach to major events in American history in celebration of the 250th anniversary of the founding of the United States.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.2",
+      "behaviorHints": {
+        "defaultVideoId": "tt37543147",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt34888871",
+      "type": "movie",
+      "name": "Little Brother",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt34888871.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/bdwv8Hsu4Bnz8aRbH5MQ9clQ0DG.jpg",
+      "description": "A tightly wound realtor's picture-perfect life gets an extreme makeover when his lovably chaotic \"little brother\" suddenly reappears.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.5",
+      "runtime": "1h41min",
+      "behaviorHints": {
+        "defaultVideoId": "tt34888871",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt26443616",
+      "type": "movie",
+      "name": "Hoppers",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt26443616.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "description": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Science Fiction"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.2",
+      "runtime": "1h44min",
+      "behaviorHints": {
+        "defaultVideoId": "tt26443616",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt33054858",
+      "type": "movie",
+      "name": "Pati Patni Aur Woh Do",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt33054858.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "description": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.3",
+      "runtime": "1h57min",
+      "behaviorHints": {
+        "defaultVideoId": "tt33054858",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32991344",
+      "type": "series",
+      "name": "Clevatess",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32991344.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
+      "description": "One of the Lords of Dark Beasts, Clevatess’s reign shatters when he revives a hero he personally slayed and adopts an orphaned humanoid baby—the last hope to save a dying world. Now bound together, what fate awaits this unlikely trio?",
+      "genres": [
+        "Animation",
+        "Action & Adventure",
+        "Sci-Fi & Fantasy"
+      ],
+      "year": "2025",
+      "releaseInfo": "2025",
+      "imdbRating": "7.9",
+      "behaviorHints": {
+        "defaultVideoId": "tt32991344",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32273171",
+      "type": "movie",
+      "name": "The Death of Robin Hood",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32273171.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
+      "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "6.7",
+      "runtime": "2h3min",
+      "behaviorHints": {
+        "defaultVideoId": "tt32273171",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt28919914",
+      "type": "series",
+      "name": "The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt28919914.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/shXdGFZIEaSmiOkVW2BeEaPihuA.jpg",
+      "description": "Rentaro Aijo was rejected 100 times in middle school. He visits a shrine and prays for better luck in high school. The God of Love appears and promises that he'll soon meet 100 people he's destined to date. But there's a catch—once destiny introduces someone to him, the two must happily love each other. If they don't, they'll die. What will befall Rentaro and his 100 girlfriends in high school?",
+      "genres": [
+        "Animation",
+        "Comedy"
+      ],
+      "year": "2023",
+      "releaseInfo": "2023",
+      "imdbRating": "8.2",
+      "runtime": "23min",
+      "behaviorHints": {
+        "defaultVideoId": "tt28919914",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt35568188",
+      "type": "movie",
+      "name": "Les K d'Or",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt35568188.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/x39HHPUdRR5RbFdrLoHuyV8GORl.jpg",
+      "description": "Noah, who grew up believing he’s Gaddafi’s secret son, is now a treasure hunter obsessed with finding the Libyan leader’s lost gold, scattered across the Sahel after his death. To reach it, he teams up with Zoulika—formerly Louise—an endearing, unpredictable firebrand freshly out of civic reintegration camp. Their cover: joining forces with Ryan, a 52-year-old conservative, visually impaired late bloomer determined to run the legendary Marathon des Sables. Noah wants his father’s gold, Zoulika wants to slip across the border, and Ryan wants to fulfill a childhood dream. Off they go, heading straight into the Sahel.",
+      "genres": [
+        "Comedy"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "4.6",
+      "behaviorHints": {
+        "defaultVideoId": "tt35568188",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt39393581",
+      "type": "series",
+      "name": "The Husband",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt39393581.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/lfTUwBiSyCVcvBPAMzSOYGUgr2c.jpg",
+      "description": "Tae-ju and Se-yun are on the verge of divorce. But when a drunken comment from Tae-ju gets his wife, Se-yun, kidnapped, everything changes. Even worse, he's now the prime suspect. Forced to go on the run, Tae-ju must rescue his wife on his own. To save her, he pushes himself to the absolute limit.",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Mystery"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8.3",
+      "behaviorHints": {
+        "defaultVideoId": "tt39393581",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt32093575",
+      "type": "movie",
+      "name": "Scary Movie",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt32093575.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/xWBiXclrRmTggQHMRsIn84YHavs.jpg",
+      "description": "Twenty-six years after outrunning a suspiciously familiar masked killer, the Core Four are back in the killer's crosshairs and no horror movie IP is safe.",
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "5.4",
+      "runtime": "1h36min",
+      "behaviorHints": {
+        "defaultVideoId": "tt32093575",
+        "hasScheduledVideos": false
+      }
+    },
+    {
+      "id": "tt36979936",
+      "type": "series",
+      "name": "Love For You",
+      "poster": "https://btttr.cc/poster-q/imdb/poster-default/tt36979936.jpg?rs=TR",
+      "background": "https://image.tmdb.org/t/p/original/zldji8QZ3HdoosmtUIf59YmDoxZ.jpg",
+      "description": "In the 1990s, teenagers Chen Yi and Miao Jing met due to their parents, initially getting off to a rocky start. However, Miao Jing's kindness eventually softens Chen Yi's attitude towards her. Chen Yi and Miao Jing's relationship deepens after Chen Yi's father dies and Miao Jing's mother disappears, leaving the two to rely only on each other. Miao Jing eventually confesses her feelings for Chen Yi, but he pushes her away after he gets tangled up as a crime witness, urging her to leave their city. Years later, Chen Yi runs a billiards hall in their hometown, while Miao Jing returns for a work assignment. But when Chen Yi suspects that Miao Jing's boss is involved in smuggling, he vows to protect her – and stay by her side.",
+      "genres": [
+        "Drama"
+      ],
+      "year": "2026",
+      "releaseInfo": "2026",
+      "imdbRating": "8",
+      "behaviorHints": {
+        "defaultVideoId": "tt36979936",
+        "hasScheduledVideos": false
       }
     }
   ]
